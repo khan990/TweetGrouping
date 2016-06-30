@@ -1,0 +1,2 @@
+C:\Users\jasim\Documents\Visual Studio 2015\Projects\TFIDF_TwitterClustering\TFIDFExample\bin\Release\TFIDFExample.exe.config
+C:\Users\jasim\Documents\Visual Studio 2015\Projects\TFIDF_TwitterClustering\TFIDFExample\obj\Release\TFIDFExample.csproj.ResolveComReference.cache

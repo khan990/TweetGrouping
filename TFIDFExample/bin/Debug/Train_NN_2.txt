@@ -1,0 +1,1328 @@
+time to transformation 736144.04:18:44.8948734
+time to Normalization 736144.04:18:44.9656663
+time to topics 736144.04:18:45.0447428
+time to cluster 736144.04:19:49.4365540
+1
+--------------------------------------------------------
+TOPIC: job
+--------------------------------------------------------
+Tweet ID 70:	#CustomerService in #Mahwah, NJ: Customer Service Representative – Part... at DialAmerica https://t.co/jh5eOeKn4X https://t.co/XflvtRP5jK
+Tweet ID 88:	This #Hospitality #job might be a great fit for you: General Manager - https://t.co/F1vaA5wVfg #FortWorth, TX #Hiring
+Tweet ID 189:	Yea, I Follow Many Old Football Greats! 
+I Love Football!!! :)
+Tweet ID 202:	I'm at Sweat in Ramsey, NJ https://t.co/Znx84RBVZ2
+Tweet ID 273:	This #SkilledTrade #job might be a great fit for you: Suppression Installer - https://t.co/I2mCNhwKx8 #Allentown, PA #Hiring
+Tweet ID 280:	Come get your weekend started off right with us!! #addictedtofitness #fitness #workout #health… https://t.co/DX6N75Ncv1
+Tweet ID 295:	Guess who made it until 6am?! Great cause, great people, great fun!… https://t.co/YIaQeMqSxi
+Tweet ID 305:	Interested in a #Writing #job near #Lynchburg, VA? This could be a great fit: https://t.co/Z8CWmWX8tY #nowhiring #Hiring
+Tweet ID 316:	Interested in a #Manufacturing #job near #Houston, TX? This could be a great fit: https://t.co/lWeU5reimY #IHOP #DTX #HTX #hospitality
+Tweet ID 320:	This #Nursing #job might be a great fit for you: Nurse (Cardiology) - https://t.co/YGeXsCi9UG #Columbus, OH #Hiring https://t.co/feMfWgmWn1
+Tweet ID 364:	This #Hospitality #job might be a great fit for you: Barista - https://t.co/YEKtvQb7eA #barista #Newark, NJ #Hiring
+Tweet ID 390:	This #Healthcare #job might be a great fit for you: Care Manager - https://t.co/N8gQcviqQ5 #FortSmith, AR #Hiring https://t.co/DiHI67dJ1P
+Tweet ID 392:	Interested in a #security #job near #Gainesville, FL? This could be a great fit: https://t.co/fdtwEtF5oY #Veterans #Hiring
+Tweet ID 415:	Interested in a #Retail #job near #WAUCHULA, FL? This could be a great fit: https://t.co/IZnNyHxcvi #Hiring
+Tweet ID 418:	Interested in a #Retail #job near IN? This could be a great fit: https://t.co/IiyLyqIC5r #Diversity #Veterans https://t.co/5r0X8BBhHp
+Tweet ID 423:	Interested in a #Transportation #job near #Somerset, Kentucky? This could be a great fit: https://t.co/7rfR9LiYwo #driver #cdl #Hiring
+Tweet ID 448:	This #CustomerService #job might be a great fit for you: Resident Service Coordinator - https://t.co/a5r0Z1pesq https://t.co/2PPcRxsRBP
+Tweet ID 466:	This #Healthcare #job might be a great fit for you: PCT - https://t.co/Gcq2vJ4qbo #Bessemer, AL #Hiring
+Tweet ID 473:	This #Nursing #job might be a great fit for you: Registered Nurse | RN | MS (Per Diem) - https://t.co/00j9Pytho3 https://t.co/10sp4YJWTt
+Tweet ID 480:	These 'Dock Of The Bay' paintings look great! Love the colors! #PaintbrushesAndParty… https://t.co/97uiaYI9xb
+Tweet ID 492:	Compass Group USA #Clerical : OFFICE RECEPTIONIST - TEMPE, AZ (#Tempe, AZ) https://t.co/YhnEA6LWjW #jobhunt #Hiring
+Tweet ID 507:	Saturday workout in a #purplehaze #health #fitness #fit #iphoneonly #fitnessaddict #fitspo… https://t.co/8w2Gvi5Oox
+Tweet ID 519:	This #Physician #job might be a great fit for you: Physician (Associate... - https://t.co/rTcXVAxQaJ #Veterans https://t.co/JNR5PxjIym
+Tweet ID 521:	Blasphemy 😂 #coffeeaddict #barista #ibringthecoffeetothecoffee #coffee #caffeine… https://t.co/y9d0qDzdnr
+Tweet ID 577:	Interested in a #Healthcare #job near #Albany, GA? This could be a great fit: https://t.co/ZAGle4otT1 #Hiring https://t.co/mHR0Se7h4w
+Tweet ID 578:	Interested in a #Sales #job near #PompanoBeach, FL? This could be a great fit: https://t.co/jkRCSC18rU #Veterans #Hiring
+Tweet ID 618:	This #Nursing #job might be a great fit for you: PCU - https://t.co/K3RPzRRp2N #travelnurse #Columbia, SC #Hiring https://t.co/whXfwtX6TY
+Tweet ID 634:	This #Nursing #job might be a great fit for you: Registered Nurse | RN | ER (Contract) - https://t.co/1XWsW5uv8L https://t.co/3bq1meaxsJ
+Tweet ID 663:	Department of Veterans Affairs #Physician #Job: Physician -... (#Richmond, VA) https://t.co/unWthCIegi #Veterans https://t.co/EdGBkgzjOf
+Tweet ID 667:	I'm at Fitness Room Cloisters in Milwaukee, WI https://t.co/eOts1oTUpa
+Tweet ID 675:	Interested in a #Physician #job near #Hadley, MA? This could be a great fit: https://t.co/5YjKSysW4R #urgentcare #Veterans #Hiring
+Tweet ID 685:	This #Database #job might be a great fit for you: Database Administrator (SQL) - https://t.co/UVlnpEnaoT #Hiring https://t.co/9aQL4wsvIh
+Tweet ID 697:	One of ours and the crowds favorites with great value for such good wine, an interesting history… https://t.co/ZTBH9yCSMI
+Tweet ID 714:	Interested in a #Retail #job near #Douglaston, NY? This could be a great fit: https://t.co/EXKyKKR4uh #Hiring
+Tweet ID 765:	This #IT #job might be a great fit for you: Azure architect - https://t.co/YKAyibMIMq #NewYorkCity, NY #Hiring
+Tweet ID 818:	This #Nursing #job might be a great fit for you: Licensed Practical Nurse -... - https://t.co/CCfYZKrEAm #Veterans https://t.co/AUG3wK7qmc
+Tweet ID 831:	Interested in a #IT #job near #CranberryTownship, PA? This could be a great fit: https://t.co/rdSAAQw3qC #Hiring https://t.co/OYR55ymSfB
+Tweet ID 837:	This #Healthcare #job might be a great fit for you: Certified Occupational Therapy... - https://t.co/8r6XTxsqAy https://t.co/E6VBEst1PO
+Tweet ID 838:	This #job might be a great fit for you: Nurses (RNs / LPNs) for High Tech Home Care in Catawissa, PA - https://t.co/XfI8halvKr #Hiring
+Tweet ID 873:	This #Physician #job might be a great fit for you: Physician (Infectious... - https://t.co/sbSiW6q8YC #Jackson, MS https://t.co/dJYY7kDgso
+Tweet ID 907:	This #Marketing #job might be a great fit for you: AVP, In-Plan Advice - https://t.co/y7mgxZBI1c #Boston, MA #Hiring
+Tweet ID 929:	This #Retail #job might be a great fit for you: Cashier Associate - https://t.co/uN7vm91ftk #LAKEMARY, FL #Hiring
+Tweet ID 950:	FiT for a KING......... L👀K  WHAT'S  COMING  SOON  AT THE #CTBARBEREXPO April 17th… https://t.co/l76kd3fNWp
+Tweet ID 960:	This #Hospitality #job might be a great fit for you: Cook - https://t.co/q4TxPJxaT6 #Memphis, TN #Hiring
+
+
+
+
+2
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 0:	Wind 0.0 mph ---. Barometer 30.109 in, Steady. Temperature 43.7 °F. Rain today 0.00 in. Humidity 55%
+Tweet ID 1:	Wind 1.0 mph NE. Barometer 30.297 in, Rising slowly. Temperature 46.8 °F. Rain today 0.00 in. Humidity 71%
+Tweet ID 2:	Wind 0.0 mph ---. Barometer 30.113 in, Steady. Temperature 43.5 °F. Rain today 0.00 in. Humidity 59%
+Tweet ID 3:	Wind 0.0 mph ---. Barometer 30.116 in, Falling. Temperature 43.0 °F. Rain today 0.00 in. Humidity 59%
+Tweet ID 4:	Wind 0.2 mph N. Barometer 30.17 in, Rising slowly. Temperature 54.9 °F. Rain today 0.00 in. Humidity 73%
+Tweet ID 5:	Wind 0.0 mph WSW. Barometer 30.132 in, Falling. Temperature 43.7 °F. Rain today 0.00 in. Humidity 56%
+Tweet ID 6:	Wind 0.1 mph N. Barometer 30.14 in, Rising slowly. Temperature 56.5 °F. Rain today 0.00 in. Humidity 71%
+Tweet ID 7:	Wind 2.2 mph NNE. Barometer 30.04 in, Rising slowly. Temperature 40.6 °F. Rain today 0.00 in. Humidity 99%
+Tweet ID 8:	Wind 1.0 mph NNW. Barometer 30.141 in, Rising. Temperature 54.4 °F. Rain today 0.01 in. Humidity 33%
+Tweet ID 22:	Awesome repurposed flower arrangements at #urbanorchid #urbanorchidlittleitaly 75.00 each… https://t.co/BZypyvsla4
+Tweet ID 31:	8pm showtime at the Elks. Music, Food, Drink. It's time to #netflixandphil #PHorty @ Elks Club #649 https://t.co/jCUQpWOoK0
+Tweet ID 48:	87 4th Avenue, Brooklyn, New York.  Live shows in full effect! Music, fashion runway, African… https://t.co/4JPKu6lqj1
+Tweet ID 52:	5 of the last 6 The Ohio State Football Coaches. Only missing Coach Hayes. The Ohio State… https://t.co/q1IrxOJgYC
+Tweet ID 55:	#FairHillOwls 
+#FootBall (Ages 6-14) 🏈
+#Cheer (Ages 6-16)🎉
+Saturday… https://t.co/6bFNAp4Eui
+Tweet ID 74:	Renovated from the 1960!!! @naninn @ Fulton-Nassau Historic District https://t.co/pRXof0frhr
+Tweet ID 81:	Welcome to Nightvale US Tour 2016: Chicago
+ I'll be posting pics from the show soon! #wtnv… https://t.co/IizxXXZWJv
+Tweet ID 94:	@paginasmexicanas Hola publicidad años 50s https://t.co/y4DmRSpqUX
+Tweet ID 112:	We had a great time filming for today commercial with @wendyemeyers from Televisa 2.1 and friend… https://t.co/CizBGP3jYB
+Tweet ID 116:	Pfff hace mucho (@ Club 306 in México, DF) https://t.co/EcaQXjs9RW
+Tweet ID 134:	#JoeyRamone remembered &amp; 'Today in History: April 15' by The Gad About Town… https://t.co/3XkRNUVEtm https://t.co/ltQU482R6V
+Tweet ID 139:	Wind 0.0 mph ---. Barometer 30.116 in, Falling. Temperature 43.0 °F. Rain today 0.00 in. Humidity 58%
+Tweet ID 140:	Wind 12.8 mph E. Barometer 29.817 in, Falling slowly. Temperature 61.4 °F. Rain today 0.00 in. Humidity 91%
+Tweet ID 141:	Wind 0.0 mph ---. Barometer 30.120 in, Falling. Temperature 43.8 °F. Rain today 0.00 in. Humidity 58%
+Tweet ID 142:	Wind 0.0 mph ---. Barometer 30.488 in, Steady. Temperature 28.0 °F. Rain today 0.00 in. Humidity 80%
+Tweet ID 143:	Wind 14.5 km/h ENE. Barometer 1025.98 hPa, Falling slowly. Temperature 6.7 °C. Rain today 0.0 mm. Humidity 63%
+Tweet ID 144:	Wind 0.0 mph WSW. Barometer 30.155 in, Rising. Temperature 48.7 °F. Rain today 0.01 in. Humidity 42%
+Tweet ID 145:	Wind 0.7 mph E. Barometer 29.90 in, Rising. Temperature 61.5 °F. Rain today 0.00 in. Humidity 28%
+Tweet ID 146:	Wind 0.0 km/h S. Barometer 999.3 mb, Falling slowly. Temperature 22.0 °C. Rain today 0.0 mm. Humidity 94%
+Tweet ID 147:	Wind 1.0 mph ESE. Barometer 29.837 in, Steady. Temperature 71.5 °F. Rain today 0.00 in. Humidity 42%
+Tweet ID 148:	Wind 0 mph SE. Barometer 29.92 in, Falling slowly. Temperature 70.0 °F. Rain today 0.00 in. Humidity 99%
+Tweet ID 170:	Waiting in the car for makers mark to open, so that we can serve 4,000 people! #foodtruck… https://t.co/K5iNB8Wa2H
+Tweet ID 182:	Sac Fashion Week 2016 @sacfashionweek Designer: Rachel Lewis GoldMark Couture goldmark_couture,… https://t.co/rtRfblfCeH
+Tweet ID 204:	| #TechDay at @udmdetroit | #detroitmercy #stem #education  | Fr, 4/15/2016 @ University of… https://t.co/29JttB0uMu
+Tweet ID 226:	A dormir 😴 5:23 am
+Tweet ID 235:	I'm at 3 Rivers FCU in Fort Wayne, IN https://t.co/e1zGoOHX7P
+Tweet ID 244:	¡Gracias a todos los que vinieron a mi primer Comedy Showcase! Que rápido se pasa 1 hr. 20 mins.… https://t.co/n63LHRVAnM
+Tweet ID 257:	Fundraise for Yourself and receive 70% of your profits towards your education College/Vocational… https://t.co/gTQslpgxYP
+Tweet ID 267:	#SuspiciousIncident at 12001-12098 Orange Blossom Trail. #orlpol #ocso
+Tweet ID 268:	#CheckWellBeing at 400-599 S Ranger Blvd, Winter Park, FL 32792. #orlpol #ocso
+Tweet ID 269:	Wind 0.0 mph ---. Barometer 30.113 in, Steady. Temperature 43.6 °F. Rain today 0.00 in. Humidity 58%
+Tweet ID 274:	@ebbtideapp Tide in Whale Harbor, Florida 04/16/2016
+ Low 12:06pm  0.1
+High  5:52pm  1.4
+ Low 12:30am  0.1
+High  6:21am  1.5
+Tweet ID 275:	| #TechDay at @udmdetroit | #detroitmercy #stem #education  | Fr, 4/15/2016 @ University of… https://t.co/Q3WcUtNO9i
+Tweet ID 279:	Blank spots are peppers and rosemary, which are normally slower. Tons of tiny #basil in 3… https://t.co/fbMGqpJG4Z
+Tweet ID 283:	We are here and somehow we are awake!  Hanging out at belle_patri until 5!  So many sales we… https://t.co/vivjuoLmBk
+Tweet ID 285:	4/16/16 workout
+
+Weightlifting: 12 minutes every 2 minutes  
+1 clean, 
+1 hang, 
+1 front squat,… https://t.co/cupDQWuIBH
+Tweet ID 306:	I'm at High Rise in Gentilly Woods, LA https://t.co/PhKVTQ4CKq
+Tweet ID 308:	2 #artists items in our #silentauction to raise money for #stjohnsriver. Event on #April24… https://t.co/dNtim7aewr
+Tweet ID 314:	Franklin Liquors Newsletter 04-16-16 #Wine #Beer #Liquor https://t.co/k9Z7AUM5l8 https://t.co/qlgxTjcCR1
+Tweet ID 323:	#rockfordlink Current Conditions : 49.8F, Partly Cloudy - 6:22 AM CDT Apr. 16 https://t.co/XA2n0lZo7Z https://t.co/OnNvjtNwAV
+Tweet ID 324:	#rockford_il Current Conditions : 49.8F, Partly Cloudy - 6:22 AM CDT Apr. 16 https://t.co/m1SBriMfR8 #rockfordlink
+Tweet ID 330:	My first 1/2  hour run at my home away from home. Thanks Matt...your still helping me even away… https://t.co/JM1zaJQgiQ
+Tweet ID 331:	Today...We are all Hokies.  04/16/2007 @ Town of Ridgeway https://t.co/6cft3kvpPy
+Tweet ID 332:	Come see us at the Bel Air Farmers Market 7am - 11 am today! belairfm #dimitrioliveoil… https://t.co/AMIJ2jwYdn
+Tweet ID 338:	We are looking for a buyer on 396 Main Dunstable #Nashua #NH https://t.co/LJFY246gWr #realestate https://t.co/vf7nIMyOOJ
+Tweet ID 339:	"🏋🏾"
+
+#htfo #wherethewater #144 #goodkidmaadcity #blink #workout #workoutmotivation #motivation… https://t.co/aHqvq7wVnT
+Tweet ID 340:	Text 786-486-7317. 2-5 pm. Opened up!!! @ Andy's Hair In the gables https://t.co/DDoqI0v8sG
+Tweet ID 348:	Today at 12:30 we have @nonavegan sampling some awesome plant based sauces! Creamy Alfredo, Rich… https://t.co/M2akza3aer
+Tweet ID 357:	#pressplay ▶️ El 15 de mayo Vota por cirilomorontadiputado como diputado de ultramar VOTA3 -… https://t.co/lTFdZ7eHpY
+Tweet ID 369:	#anniversarydinner 4/13/16.  #3rdanniversary #savannah #alligatorsoul @ Alligator Soul https://t.co/aztnetfs08
+Tweet ID 370:	after 3 years of talking about it, we finally found time around work and finally played! Lol my… https://t.co/7quddYiTzH
+Tweet ID 379:	8801 Valley Flores Drive https://t.co/dBg9jG00MV
+Tweet ID 387:	April 16th, 2016 DAY 1926 Body Beast®™ No Mercy Day 6 of 30 / Beast Cardio / with ENERGIZE… https://t.co/2kns7T0JA8
+Tweet ID 388:	Just posted a photo @ Peter Luger Steak House Est. 1887 https://t.co/LheFkn444q
+Tweet ID 403:	600 Grade A 8X DVD-R 4.7GB Shiny Silver $120.00 https://t.co/LsUU2ikUBQ #DVDR #Media #Generic https://t.co/xWuoLsLL2p
+Tweet ID 422:	April 2016 #BeverlyHills #90210 #djohmradventures #LosAngeles #LA #holiday #vacation @ Beverly… https://t.co/vNWkOME0K8
+Tweet ID 430:	#GeneralDisturbance 409 N Magnolia Ave 32801 (4/16 06:57) #Orlando #LakeEolaHeights
+Tweet ID 463:	Wind 13,5 km/h E. Barometer 1032,5 hPa, Hausse. Temperature 4,8 °C. Rain today 0,0 mm. Humidity 53%
+Tweet ID 474:	🏅Finisher's Medal!!!🏅
+Star Wars Dark Side 10K
+🏃💥🌟🌟🌟🌟
+Orlando, FL - 04/16/16
+🏃💥💨💨💨💨 
+The hashtag… https://t.co/xumNQkREL8
+Tweet ID 478:	Continuation Topic- #management #JENSUMOSLEY1ON1 4-16-16 @nrgvision mannyblack123 scribegirl18… https://t.co/GYOv7KRXOt
+Tweet ID 481:	Gustav Klimt |  Tree of Life, 1905 @ 2018 VCAM Conference https://t.co/iwS4SiMA2B
+Tweet ID 489:	At 3:51, the Fremont Canyon Weather Station reports sustained winds of 35 MPH (from the ENE) with gusts to 54 MPH. Relative humidity: 14%.
+Tweet ID 497:	1 Oak .. Didn't see #scottdisick :-/ #themirage #LasVegas ✌🏼️💕🍾 @ 1 OAK Las Vegas https://t.co/VbVqBvn9PC
+Tweet ID 501:	The sun always rises @ Ding Darling, Bailey Tract https://t.co/WSygb1nilg
+Tweet ID 505:	Woke up at 5:30 this Saturday morning. Must be first smoke of the season! #BBQ #pulledpork… https://t.co/yUYFPqZsBX
+Tweet ID 518:	We will be close today 4/16 and tomorrow 4/17. @ Sweet Sweet Sue S Custom Cakes https://t.co/ZccbAlSxdh
+Tweet ID 525:	Weather now: fog, 67°F, 9 mph east-southeast wind. https://t.co/fhc4DmoZqi
+Tweet ID 533:	GM Recalls 1 Million Pickup Trucks Over Faulty Seat Belts https://t.co/75zSlwldJ3
+Tweet ID 539:	Wishing a safe ride to La Grange today for all the BPMS150 cyclists!!! Day 2 cancelled due to weather concerns.… https://t.co/ac98WjwL8Z
+Tweet ID 550:	Good Day FOX 4 NEWS March4Babies final preps for a wonderful cause. Live coverage on Fox4 news. @kdfw18 https://t.co/9Gnj3qdu87
+Tweet ID 551:	Wind 0.0 mph ---. Barometer 30.111 in, Steady. Temperature 43.7 °F. Rain today 0.00 in. Humidity 58%
+Tweet ID 557:	64.5F (Feels: 64.5F) - Humidity: 97% - Wind: 6.9mph SE - Gust: 7.6mph - Pressure: 1008.4mb #weather https://t.co/75yzNJjEvP
+Tweet ID 570:	@leighdutton91 Did you want to place your Easy Order? Find out what you need to do here: https://t.co/zUmEcYM652 [07:19:50 EDT]
+Tweet ID 573:	See a virtual tour of our listing on 312 Federal Hill #Milford #NH https://t.co/B43hYX20Cd #realestate https://t.co/UJCY6UmA7H
+Tweet ID 574:	| #TechDay at @udmdetroit | #detroitmercy #stem #education  | Fr, 4/15/2016 @ University of… https://t.co/j4haKqndX3
+Tweet ID 580:	Midnight post-show crawfish feast in Mississippi &gt; 3hrs of sleep &gt; 4am lobby call &gt; 4:30pm set… https://t.co/emTu7JyoLn
+Tweet ID 588:	April Artist of the Month Kathi Mengle. Stop by today 1 to 5pm. #WalkInArtCenter #kathimengle… https://t.co/wJosSEYkTY
+Tweet ID 597:	Accident in #Denver on I-25 SB at I-225 #COtraffic https://t.co/gWR42BYOmJ
+Tweet ID 626:	Just posted a photo @ 6464 Main St https://t.co/xwPFVuGzUx
+Tweet ID 630:	#prom #imageonesalon #4126536034 @ Image One Salon https://t.co/YhUDr3mtQ5
+Tweet ID 638:	Catch 96' on @apollonightla 
+MONDAY 7:00pst (10pm EST) 
+https://t.co/hn30TP1CZd (watch live)
+Call in… https://t.co/prDWXx9MOn
+Tweet ID 640:	The Oakland Raiders NEED to trade up and grab the number two pick https://t.co/9tb0DrPecH #Raiders #NFL
+Tweet ID 673:	#Day 351 #1085 #sunrise #watertower #brentwoodwatertower #Dawn #morning #goodmorning… https://t.co/Y2KkChlk8K
+Tweet ID 678:	Speak with yourself, 2016 made this in my Paris hotel room earlier this year #ephemera  #drawing… https://t.co/prGO4xAfx2
+Tweet ID 679:	See a virtual tour of our listing on 20 Green Woods #Richmond #NH https://t.co/gIW351i0J1 #realestate https://t.co/zIjS7mbydY
+Tweet ID 712:	Minnesota may 7✈️✈️✈️✈️✈️ @ Pappadeaux Seafood Kitchen https://t.co/rcoUJD8HTy
+Tweet ID 717:	Up Up and away! Redken Specialist phase 1 in Wichita KS (@ Southwest Florida International Airport (RSW)) https://t.co/zhmUqcKVCL
+Tweet ID 723:	It is #Ten time !!! #exotiktime #exotiksound #7073017472 @ San Ramon… https://t.co/MvgqUqHdhJ
+Tweet ID 725:	It's time to climb, 191 Peachtree!for the American Lung Association w/ Atlanta Metro Fire… https://t.co/GUMLOZozqJ
+Tweet ID 726:	#Day 351 #1084 #sunrise #watertower #brentwoodwatertower #Dawn #morning #goodmorning… https://t.co/4m5Q7mUmpa
+Tweet ID 735:	A 10 x 8 inch mount personally signed by Ashley Grimes of Manchester United. https://t.co/CV6iLnH510 https://t.co/WEiQLm1UkY
+Tweet ID 737:	6:30 and not a wookiee growl or ewok yelp in ear shot. #witw wookiesinthewoods #golfr #r32… https://t.co/fQ7G12xqMJ
+Tweet ID 739:	A 10 x 8 inch mount personally signed by Alan Gowling of Manchester United. https://t.co/o3POCkr9vI https://t.co/6ymoZ09Zr7
+Tweet ID 741:	Check Call - Roehampton Avenue b/w Yonge St / Redpath Avenue, Toronto (2 Trucks)
+Tweet ID 742:	Check Call - Roehampton Avenue b/w Yonge St / Redpath Avenue, Toronto (2 Trucks)
+Tweet ID 743:	Rescue (Elevator) - Ellesmere Road b/w Markham Road / Gander Dr, Scarborough (2 Trucks)
+Tweet ID 744:	Rescue (Elevator) - Ellesmere Road b/w Markham Road / Gander Dr, Scarborough (2 Trucks)
+Tweet ID 745:	UD: Fire (Highrise Residential) - San Romanoway b/w San Varoway / San Roccoway, North York (7 Trucks)
+Tweet ID 747:	UD: Fire (Highrise Residential) - San Romanoway b/w San Varoway / San Roccoway, North York (7 Trucks)
+Tweet ID 748:	UD: Fire (Highrise Residential) - San Romanoway b/w San Varoway / San Roccoway, North York (7 Trucks)
+Tweet ID 752:	In transit. Wauting for the Narita flight which is approx 5 hours later (at @United Club - Terminal E) https://t.co/oHJpO1JHSU
+Tweet ID 768:	Disabled vehicle, left lane blocked in #Cobb on I-285 SB at Paces Ferry Rd #ATLTraffic https://t.co/bABElTEvus
+Tweet ID 773:	We're really doing this...100 miles. #MS150 #HoustonToAustin #TeamRadioActive @ Omni Houston… https://t.co/lTJCReK4Ui
+Tweet ID 775:	Speak for yourself, 2016 made this in my Paris hotel room earlier this year from museum ephemera… https://t.co/HJ9BMiNLKM
+Tweet ID 791:	turned to face 13° (1mo6) https://t.co/mhUjMiRNRB
+Tweet ID 792:	Learn These #Content Release Tricks From 4 #VideoStreaming Giants: https://t.co/UpNBpQxIw1 #video #streaming #contentmarketing #SocialMedia
+Tweet ID 797:	#DesignatedPatrolArea at 6500 International Dr. #orlpol #opd
+Tweet ID 799:	Wind 3.2 mph E. Barometer 29.843 in, Rising slowly. Temperature 65.4 °F. Rain today 0.00in. Humidity 95%
+Tweet ID 802:	#GeneralDisturbance at 409 N Magnolia Ave. #orlpol #opd
+Tweet ID 805:	Wind 0.0 mph ---. Barometer 30.112 in, Steady. Temperature 43.9 °F. Rain today 0.00 in. Humidity 57%
+Tweet ID 807:	Morning breakfast with cheffrit427 on @ffweekend #steakandeggs #heartdisease @ 1211 Avenue of… https://t.co/ofyEoI6rOo
+Tweet ID 809:	@ebbtideapp Tide in Sunny Point Army Base, North Carolina 04/16/2016
+ Low 11:40am  0.2
+High  5:41pm  4.4
+ Low 11:57pm  0.4
+Tweet ID 813:	Temp: 34.2F  W C: 34.2F  Wind:--- at 0.0kts Baro: 1036.5mb and Rising Rain today: 0.00in R H: 99%  #wvwx
+Tweet ID 824:	#Day 351 #1083 #sunrise #watertower #brentwoodwatertower #Dawn #morning #goodmorning… https://t.co/iBkG6frSiE
+Tweet ID 834:	Good morning Atlanta! @ POWER 96.1 https://t.co/fyaWGd8Y3e
+Tweet ID 850:	Saturday August 6 @ Pappadeaux Seafood Kitchen https://t.co/f23EqD0Y0o
+Tweet ID 860:	_SPK6923-2 https://t.co/rcw6228NyQ
+Tweet ID 868:	Onwards and upwards to round 2! 💫 #GoPack #ACC #greensboro #sedgefield #april #usa #2016… https://t.co/yavdShJQ00
+Tweet ID 871:	#firstinline for #recordstoreday in #deland #Florida at Groovy Records! I got here at 6:30 am… https://t.co/ddPfv9bhqP
+Tweet ID 872:	We will be at the Health and Wellness Fair today from 10-5 at the White Oaks Resort!
+$5 Entry… https://t.co/dw2RVhWsPf
+Tweet ID 886:	$20 #LocRemoval ✂.........$10 w/A Styled #HairCut
+773.658.4735
+
+#illustriouscuts #CHICAGO… https://t.co/vJ17ZKvySX
+Tweet ID 893:	All I was thinking 🤔ever 6:30 morning should start like this!!! 👍🏿😎… https://t.co/awWxcbjl5l
+Tweet ID 947:	‼️Nous cherchons 
+2 nouveaux Coachs 😀😎afin d'aider les personnes à saisir une opportunité… https://t.co/lzNmE9kvxi
+Tweet ID 961:	Went out shootin'. That sound like some 4301 shit #salsTHON #dance @ Salesianum School https://t.co/CE7VU1tIGb
+Tweet ID 970:	We are looking for a buyer on 4 Bow Center #Bow #NH https://t.co/Y6SHckfIL3 #realestate https://t.co/BlxmBe8ftJ
+Tweet ID 971:	| #TechDay at @udmdetroit | #detroitmercy #stem #education  | Fr, 4/15/2016 @ University of… https://t.co/zeukGew2te
+Tweet ID 977:	Incident on #I87NYSThruway NB at Exit 21 (I-87) - Catskill (Rte 23) https://t.co/dDAv6GK0t2
+Tweet ID 987:	Un terremoto de 6,7 grados sacude el norte de Japón @ Caribbean Isle Apartments https://t.co/GykRcSqScr
+Tweet ID 994:	Good morning, Chicago! :) #Sunrise 06:08, noon 12:50, sunset 19:33 CDT (UTC-5), April 16. Day length: 13h 26m.
+
+
+
+
+3
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 318:	Practice on your weakness until it becomes your strength and then use your strength to find new… https://t.co/tyDFOBkDk4
+Tweet ID 371:	Just park it right there. #FortLauderdale #LasOlas #MorningWalk #Exercise @ Fort Lauderdale,… https://t.co/M0F3rNCWo4
+Tweet ID 450:	Despedida do daddy! 🇺🇸😢 @ Universal Studios Florida https://t.co/T54xAnX2tq
+Tweet ID 738:	Best part of my job is the #SPCAcincinnati coming into the studio!  This little guy is Wayne and… https://t.co/Wj4mzQj8BA
+Tweet ID 784:	Polyhymnia at Rest. Muses need to sleep sometimes, right? Taken under my @alanalark studio name.… https://t.co/nHcnD0F8ZI
+Tweet ID 866:	Last Nights Event. #sponsor #supporting #homelessnothopeless @ RVP Studios: the Cave https://t.co/ruAYyVNSmZ
+Tweet ID 889:	How to Use Your Diaphragm for #Breathing during #Exercise or #Rest https://t.co/PywgS1i5WX
+Tweet ID 974:	Not to sure about those doggies in the window. #pugs #morningwalk @ Historic Savannah https://t.co/8RvDGwGflH
+
+
+
+
+4
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 17:	GOOD NIGHT COACHELLA! Live tour on my laptop! WAKE UP WITH MUSIC!
+
+Моё утро началось не с улыбок… https://t.co/6ENbdCBGNE
+Tweet ID 77:	I'm at Heaven on earf in Borough of Queens, NY https://t.co/ZiIoJPlhF9
+Tweet ID 95:	Networking after work. #growth #next @ Irvine, California https://t.co/ffKv5sKJlF
+Tweet ID 110:	I'm at UFO Sightings Queens in New York, NY https://t.co/wutCqwP863
+Tweet ID 149:	Came for the good vibes and great music😎🎶 Stayed for the fruit cup… https://t.co/hfHgJJJWKv
+Tweet ID 154:	Troybanks . A Man.  A Brand.  A Movement.
+
+Bred in Kansas City, with a grand vision for music,… https://t.co/vIephiA6o0
+Tweet ID 198:	Command squat jumps for Football "combos" #GoMAD @ Bennett Sports Center https://t.co/eBLhK03Mkj
+Tweet ID 211:	#gymflow #Gymrat #swole #gaylife working out IHOP breakfast with Cassie and Amanda (@ New Life Fitness World) https://t.co/f3X9KFTTdt
+Tweet ID 218:	Up early bringing in the good food to CoMo. @ Main Squeeze Natural Foods Cafe https://t.co/PPObbsli14
+Tweet ID 234:	Good morning!!!! @ 290 Eisenhower https://t.co/geP6CkjCae
+Tweet ID 261:	Very cool: We have a balcony in New York! That's a first. Not cool: Our balcony room at… https://t.co/uz8RV3mWzE
+Tweet ID 288:	Headed to graveyard in harvard sq to panhandle look for stupid broke ugly sign thanks
+Tweet ID 299:	I'm at DoubleTree by Hilton Hotel - Fitness Center in Oklahoma City, OK https://t.co/MrCfpBE39f
+Tweet ID 300:	#MicrophoneFiend 🎤🎤 @ Center Stage - The Loft - Vinyl https://t.co/bMUzWQC209
+Tweet ID 355:	I am all business when I am working - and I never stop working! #TheBest #Driven #GodsPublicist… https://t.co/GuchH2PF5H
+Tweet ID 367:	Good morning from somewhere in the Atlantic Ocean! 🚢☀️😎🌅 @ Atlantic… https://t.co/iRst3CeSSb
+Tweet ID 375:	Yeah baby! 🤓 (@ Col. Roma in Mexico City, DF w/ @velasc_n) https://t.co/mtLyY4XiYP
+Tweet ID 380:	Adiosito Mexico. Fuiste chevere. Te vamos a extrañar! 💃🏼🌵☀️🇭🇺 @ Mexico City, Mexico https://t.co/wi10wVRsOo
+Tweet ID 402:	I'm at New York City Bagel &amp; Coffee House in Astoria, NY https://t.co/NsEdmfJTWl
+Tweet ID 407:	Citi Field Spartan Race (@ Citi Field - @mlb in Flushing, NY) https://t.co/IRBRy0g2q6
+Tweet ID 445:	#workflow #grinding #grindmode #grindout working on my off day #officialphenomenal @ Mall City https://t.co/wbALZnEfhZ
+Tweet ID 458:	Good morning fam! @youandme #youandme #roseave @ Dallas, Texas https://t.co/396TegQscK
+Tweet ID 468:	The one and only Rakim Allah!!! @ Center Stage - The Loft - Vinyl https://t.co/VlUYjpH9da
+Tweet ID 484:	I lift up my eyes to the hills. From where does my help come?  My help comes from the LORD, who… https://t.co/wH4W8I2Ib9
+Tweet ID 515:	Bat City Bombshells (at @ndaustin) — https://t.co/cGM8kDpJ51
+Tweet ID 536:	Beaumont to redevelop Royal Oak shopping center, homes https://t.co/3zAOs691gk
+Tweet ID 572:	I'm at Ciudad de México in Ciudad de México, Mexico City https://t.co/mM2DXLZXS1
+Tweet ID 579:	Heading to the plantation...#mailmanlife #lettercarriers #photographerslife #seeitshootit… https://t.co/eum7dRuR8L
+Tweet ID 585:	Dunzo! That was a fun race. Now ... Headed home to coach my Rabid Alien soccer team. See you… https://t.co/aqmdVB2joP
+Tweet ID 589:	Good mornin, Charlotte 😍 @ Charlotte Douglas International Airport https://t.co/FPSNRthNRh
+Tweet ID 605:	Good Morning America From Forty Duece 4️⃣2️⃣ #NYC #LoveMyCity @… https://t.co/0eExHtMKsf
+Tweet ID 621:	FAVOURITE CITY🗽💗 @ New York, New York https://t.co/fto4BgrIW3
+Tweet ID 629:	We did it!! 💪 #cntowerstairclimb @ CN Tower / La Tour CN https://t.co/xACvWiIwRX
+Tweet ID 647:	Bye #NewYork • #oneworldtradecenter #blue sky #seeyousoon @ New York, New York https://t.co/1V302l4b6L
+Tweet ID 656:	RSD 2016!!! #rsd2016 good morning!!! THANK YOU ALL! STOKED! #thermopaperprotection @ LUNA music https://t.co/Z1xXNj5kGu
+Tweet ID 836:	Bat City Bombshells (@ The North Door - @ndaustin in Austin, TX) https://t.co/e2c22KZcwj
+Tweet ID 865:	Work work work baadgaalririi doin her thing #mycalvins #COACHELLA party 
+ told her #feelthebeard… https://t.co/SB8OapZTnO
+Tweet ID 875:	I'm at Motor city crossfit in Sterling Heights, MI https://t.co/HkSBU9tu4s
+Tweet ID 879:	#goodmorning #workout #sauna 
+#Illini #wewillwin #springball 🔶🏈💙 @ The Fitness Center https://t.co/dMOcqmNj5A
+Tweet ID 902:	https://t.co/TFmGrKA6cR I wanted some donuts so I got the best . They taste so good the… https://t.co/jv4OnmgkVZ
+Tweet ID 911:	Rather be drinking in woodside but working (@ Woodside, NY in Woodside, NY) https://t.co/iaR0j8mO32
+Tweet ID 916:	the bitch is back bitches! To México City! (@ Terminal De Autobuses in San Miguel de Allende, GTO) https://t.co/k9Tz5OOqZ8
+Tweet ID 918:	Steve Aoki in New York City!😍😍😍 #tribecafilmfestival2016 #nycinvasion #bestdjever #epicnight @… https://t.co/dar54mUetR
+Tweet ID 920:	Back to work @derinfalana @ New York, New York https://t.co/vIx4h6FbjF
+Tweet ID 922:	Good morning!!!! Have a great day! Be a Blessing to someone today!… https://t.co/gpwQuPEbdg
+Tweet ID 937:	#iphone6 #iphone #vendoiphone6s #vendoiphone6 #vendoiphone @ New York, New York https://t.co/vmbD09kFTI
+Tweet ID 938:	productive day in the studio yesterday starting new work #walkerartcenter #britishmuseumlondon… https://t.co/QzzZ1FD5qh
+Tweet ID 943:	Good morning from New York City! The sun is shining, the sky is blue and the city is just… https://t.co/RNDbUSv5g8
+Tweet ID 954:	Just posted a photo @ St Peter's World Outreach Center https://t.co/dVGZmgYfDN
+Tweet ID 968:	Beautiful double rainbow over the bakery this morning as we head in to get ready for the market!… https://t.co/bL0wjdaLse
+Tweet ID 976:	Good Morning . ☺  Work Is Where I'm Headed Off To . 
+
+#DT @ Tower City Center https://t.co/ER973aZ0SO
+Tweet ID 989:	Time to head home from Atlanta after a GREAT trip preparing for the… https://t.co/0FPRwnlPCC
+Tweet ID 993:	Bronx New York 👍🏿👍🏿👍🏿👍🏿 @ Crenshaw &amp; Rodeo https://t.co/F6a0m3wxWG
+
+
+
+
+5
+--------------------------------------------------------
+TOPIC: job
+--------------------------------------------------------
+Tweet ID 25:	Want to work in #Italy, TX? View our latest opening: https://t.co/RGShQK7YPS #Retail #Job #Jobs #Hiring #CareerArc
+Tweet ID 85:	#Finance alert: Finance Software Engineer | SunPower | #Richmond, CA https://t.co/fdGdYrtZBQ #SXSWeco #SXSW2016 https://t.co/VbZgKYHZg0
+Tweet ID 104:	See our latest #SturgeonBay, WI #job and click to apply: Physical Therapist (PT) /... - https://t.co/E1bGV5RQi1 https://t.co/M0iM5omMCb
+Tweet ID 173:	Delivery Driver - $2000 Sign-on Bonus - Performance Food Group: (#Montgomery, Illinois) https://t.co/01kBSuunMb #Transportation #driver #Job
+Tweet ID 201:	Join the Apex Systems team! See our latest #Recruiting #job opening here: https://t.co/uM59euiRPU #Dallas, Texas #Hiring
+Tweet ID 207:	Want to work in #Ocoee, FL? View our latest opening: https://t.co/NaU4U5bohM #Nursing #Job #Jobs #Hiring https://t.co/KV0V25Bunw
+Tweet ID 208:	Can you recommend anyone for this #Nursing #job? https://t.co/iEa9Gr1rcX #MedField #Houston, TX #Hiring https://t.co/pRzAHtRJvY
+Tweet ID 209:	BAYADA Home Health Care: Registered Nurse / RN - White Bear Lakes - Nights (#VadnaisHeights, MN) https://t.co/5k4nzc2ver #Job #Jobs
+Tweet ID 213:	Want to work at SONIC Drive-In? We're #hiring in #Arlington, TX! Click for details: https://t.co/LfH1zpbzqU #Hospitality #Job #Jobs
+Tweet ID 216:	#Gallup, NM #Retail : Customer Service Cashier -... at Love's Travel Stops &amp; Country St... https://t.co/RboO2nlkLV https://t.co/Pik23Ej5pN
+Tweet ID 229:	Join the Winn Dixie team! See our latest #Retail #job opening here: https://t.co/oUBGFFOt4x #GAINESVILLE, FL #Hiring
+Tweet ID 238:	We're #hiring! Click to apply: Assistant Manager FT-dressbarn - https://t.co/zp0R4cMtwb #Retail #Richmond, VA #Job #Jobs
+Tweet ID 239:	Pharmacy Technician - CVS Health: (#Houston, TX) https://t.co/RLba7QW6Gv #Healthcare #Job #Jobs #Hiring
+Tweet ID 241:	See our latest #MarylandHeights, MO #job and click to apply: Services Software Product Consultant III - https://t.co/qgx1RhiusP #Diversity
+Tweet ID 246:	Global Logistics Specialist - Cintas Corporation: (#Mason, OH) https://t.co/oFPfbDTAUc #SupplyChain #cintasjobs #Job #Jobs #Hiring
+Tweet ID 252:	Want to work in #Dayton, OH? View our latest opening: https://t.co/AlxdfL5KIp #Manufacturing #Job #Jobs #Hiring https://t.co/9DAy7Yh2oG
+Tweet ID 253:	Can you recommend anyone for this #job? Bus Run - Branchburg, NJ - https://t.co/ANaMHbUfNh #BranchburgTownship, NJ #Nursing #Hiring
+Tweet ID 263:	We're #hiring! Click to apply: STORE MANAGER CANDIDATE - https://t.co/fKWv277vzn #Retail #Diversity IN #Veterans https://t.co/e7qUgVcAdn
+Tweet ID 282:	Can you recommend anyone for this #Nursing #job? https://t.co/5xGt9RoiSu #TravelNurse #NurseLife #Gulfport, MS https://t.co/6ZlNEVjGEd
+Tweet ID 284:	See our latest #Detroit, MI #job and click to apply: SAN Engineer - https://t.co/T1QyhYQH6X #IT #Hiring https://t.co/rnzfbQXFeZ
+Tweet ID 289:	Supplemental Health Care #Healthcare : Registered Nurse Telemetry... (#Albuquerque, NM) https://t.co/VIOJq8NB7Y https://t.co/7Ld5RGpt67
+Tweet ID 291:	We're #hiring! Read about our latest #job opening here: Assistant Manager - https://t.co/R7B1cC6nCX #OklahomaCity, OK #Hospitality
+Tweet ID 293:	Want to work in #Philadelphia, PA? View our latest opening: https://t.co/5cfbTRNbVS #Retail #Job #Jobs #Hiring
+Tweet ID 301:	We're #hiring! Click to apply: Registered Nurse | RN | ICU (Per Diem) - https://t.co/gyq7zcoLau #RN #ParkRidge, IL https://t.co/ZLygYjTucl
+Tweet ID 303:	We're #hiring! Click to apply: Guest Services Representative - https://t.co/5MK40nMqNN #Simon #CentralValley, NY https://t.co/zTXwDp43Yp
+Tweet ID 304:	We're #hiring! Click to apply: Rad Tech II - https://t.co/dfyakhDRVq #MedField #NorCal #ScrubLife #Monterey, CA https://t.co/iTZfgYIELg
+Tweet ID 309:	#RuthersGlenn, VA #Transportation #Job: CDL Fuel... at Love's Travel Stops &amp; Country St... https://t.co/UwQRf2UCRq https://t.co/jQRg31fJxO
+Tweet ID 315:	Can you recommend anyone for this #job? Customer Service Asssociate - https://t.co/eXnAAPciMH #WAUCHULA, FL #Retail #Hiring
+Tweet ID 322:	The Vitamin Shoppe: Health Enthusiast Part-Time (#Ocala, FL) https://t.co/ZEyJrXPICU #HealthWelfare #Job #Jobs #Hiring
+Tweet ID 328:	We're #hiring! Read about our latest #job opening here: PATIENT FLOW MANAGER - 2ND SHIFT - WINSTON-SALEM, NC - https://t.co/OG0THn4DZO
+Tweet ID 329:	Sunrise Senior Living #FacilitiesMgmt #Job: Maintenance Assistant (#MorrisPlains, NJ) https://t.co/Vw4woUS8VV #Jobs #Hiring
+Tweet ID 349:	We're #hiring! Read about our latest #job opening here: Sr Presales Software Consultant - ITSM Illinois - https://t.co/1DTVWCy7Fu
+Tweet ID 360:	Want to work in #KingofPrussia, PA? View our latest opening: https://t.co/F4inGiJbM6 #Job #Jobs #Hiring
+Tweet ID 381:	Join the BAYADA Home Health Care team! See our latest #job opening here: https://t.co/DRIhK1KexM #Hendersonville, NC #Hiring
+Tweet ID 383:	We're #hiring! Read about our latest #job opening here: Champions Cook - https://t.co/q3k3Oqc7gY #Miami, FL #Hospitality
+Tweet ID 393:	Can you recommend anyone for this #Sales #job? https://t.co/FFjcfHlWA5 #EdenPrairie, MN #Hiring
+Tweet ID 405:	We're #hiring! Click to apply: Call Center Sales Representative - Part Time - SiriusXM - https://t.co/4EUERa96GB https://t.co/XQIaceGM5c
+Tweet ID 406:	Want to work in #Irving, TX? View our latest opening: https://t.co/kFyZkVLBgo #IT #Job #Jobs #Hiring
+Tweet ID 409:	If you're a #Nursing professional in #FallsChurch, VA, check out this #job: https://t.co/4pvcui8YdC #Hiring https://t.co/wy8LDu55fO
+Tweet ID 412:	#Stamford, CT #HR #Job: Organizational Development Manager at Nestle Waters NA https://t.co/12v9IhwIFh #Jobs https://t.co/pEzwTBucbz
+Tweet ID 413:	#IT #Job in #Davidson, NC: IT Business Analyst II at MSC Industrial https://t.co/v42tQQgsTa #Veterans #Jobs #Hiring
+Tweet ID 416:	We're #hiring! Read about our latest #job opening here: Inside Sales Consultant - https://t.co/Pkso38MF44 #Scottsdale, AZ #Sales
+Tweet ID 421:	#Retail alert: Shift Lead - Retail | Love's Travel Stops &amp; Country St... | #Ozark, AR https://t.co/748YSHNhbh https://t.co/476QrX0Vry
+Tweet ID 424:	See our latest #Lancaster, PA #job and click to apply: Pharmacy Technician - https://t.co/x5or2MsBh4 #Healthcare #Hiring
+Tweet ID 426:	#Tucson, AZ #Healthcare #Job: Registered Nurse / Travel ER at Supplemental Health Care https://t.co/JM2YgnaHk9 https://t.co/rdP28P7yiD
+Tweet ID 428:	We're #hiring! Read about our latest #job opening here: Inside Sales Representative - https://t.co/iDBDgUYjrW https://t.co/EuPzYQv3v7
+Tweet ID 437:	Can you recommend anyone for this #job? Nurses (RNs or LPNs) for home care in Mount Airy, NC - https://t.co/P3ayLBPg9h #MountAiry, NC
+Tweet ID 444:	#Nursing alert: UAMS SO CENTRAL-RN II CARE MANAGER - PINE BLUFF | UAMS | #PineBluff, AR https://t.co/dG4zgfKCGN https://t.co/UuMRp1SYAF
+Tweet ID 459:	Can you recommend anyone for this #job? https://t.co/AE2XoNij56 #Orange, CA #Hiring
+Tweet ID 464:	If you're a #Finance professional in #Austin, TX, check out this #job: https://t.co/7028wOZVEB #SXSWeco #SXSW2016 https://t.co/6tsVHcF5jh
+Tweet ID 465:	If you're a #SkilledTrade professional in #Detroit, MI, check out this #job: https://t.co/LzUYKrExx0 #Hiring https://t.co/ky0Tlv8Y7H
+Tweet ID 477:	We're #hiring! Click to apply: Technical Support Representative - https://t.co/BvGHgNxXkv #IT #Smithfield, RI #Job #Jobs
+Tweet ID 502:	Can you recommend anyone for this #job? Mat Cleaning Machine Operator - https://t.co/d3NDfTjlkd #Union, NJ #Hiring https://t.co/qBhvKeHWt9
+Tweet ID 504:	Can you recommend anyone for this #Nursing #job? https://t.co/UhPzyuJj2z #Edina, MN #Hiring https://t.co/dm7PHWtu6W
+Tweet ID 508:	#Nursing #Job in #Lubbock, TX: Nurse Assistant (NA)-3West at UMC https://t.co/muww6GADKz #Jobs #Hiring https://t.co/8il4Yc5jQg
+Tweet ID 509:	#WESLEYCHAPEL, FL #Retail #Job: Seafood Associate at Winn Dixie https://t.co/V64lN3RCTa #Jobs #Hiring
+Tweet ID 510:	Want to work in #Easton, MA? View our latest opening: https://t.co/JScyGwdoB1 #Job #Jobs #Hiring
+Tweet ID 511:	Can you recommend anyone for this #job? https://t.co/e0hHZrlQLB #Hickory, NC #Hiring
+Tweet ID 516:	Want to work in #5208ChamberlayneRichmond, VA? View our latest opening: https://t.co/Y9NroLtVV1 #Retail #Job #Jobs #Hiring
+Tweet ID 517:	#Transportation #Job alert: Office Supply Delivery Driver | W.B. Mason | #Hamden, CT https://t.co/Hy8YFnhWBY #nowhiring #Jobs #Hiring
+Tweet ID 522:	Can you recommend anyone for this #job? Identity Management Solutions Architect - https://t.co/fhODndlucz #IT https://t.co/6FMOx2wwwX
+Tweet ID 559:	#SupplyChain #Job in #Phoenix, AZ: Distribution Center Supervisor at The TJX Companies https://t.co/FTnscpIEPy #Veterans #Jobs #Hiring
+Tweet ID 560:	CVS Health #Retail #Job: Shift Supervisor Trainee (#Richmond, VA) https://t.co/zCwWQMT4Wx #Jobs #Hiring
+Tweet ID 561:	Medpace: Statistical Analyst I (#Cincinnati, OH) https://t.co/PDT1CfozbB #Healthcare #Job #Jobs #Hiring
+Tweet ID 569:	Memorial Hermann #Healthcare #Job: Special Procedures Technologist II (7a-5p) (#Houston, TX) https://t.co/RqNL2R8K0t #Jobs #Hiring
+Tweet ID 575:	If you're a #Retail professional in IN, check out this #job: https://t.co/zYmrCrBefp #Diversity #Veterans #Hiring https://t.co/6lNkLngUMJ
+Tweet ID 595:	Sonus Networks #HR #Job: Senior CRM Business Systems Analyst (#Westford, MA) https://t.co/PLBympN1g0 #Jobs #Hiring
+Tweet ID 601:	#IT in #Dedham, MA: Junior Systems Engineer - Flexible Development Program at General Dynamics - AIS https://t.co/AfaRr4CuqY #Veterans
+Tweet ID 602:	Want to work in #Denver, CO? View our latest opening: https://t.co/7mbut5CdP7 #Job #Jobs #Hiring
+Tweet ID 610:	Registered Nurse - Mercy: (#Ozark, AR) https://t.co/g4ICOQkVNb #Nursing #Job #Jobs #Hiring https://t.co/kCSdDt9tQ7
+Tweet ID 611:	CVS Health #Healthcare #Job: Pharmacy Technician (#StateCollege, PA) https://t.co/zeNuq9UNYE #Jobs #Hiring
+Tweet ID 612:	We're #hiring! Click to apply: Medical Reimbursement Technician-OCA - https://t.co/Hf9fdtMy4X #Accounting #Smyrna, TN #Veterans #Job #Jobs
+Tweet ID 613:	See our latest #Pearland, TX #job and click to apply: Store Manager - https://t.co/KZ22OC3J0I #Retail #Hiring
+Tweet ID 620:	Assistant Manager PT-dressbarn - dressbarn: (#WichitaFalls, TX) https://t.co/xpDMv5r6u8 #Retail #Job #Jobs #Hiring
+Tweet ID 622:	We're #hiring! Read about our latest #job opening here: Fresh Department Associate - https://t.co/IB8WZTZveG #CUTLERBAY, FL #Retail
+Tweet ID 625:	Can you recommend anyone for this #job? Registered Nurse (RN) / Intensive Care Unit... - https://t.co/vSTi2bgV9a https://t.co/pGPONZR06f
+Tweet ID 628:	See our latest #PagosaSprings, CO #job and click to apply: Cook - https://t.co/UUmeDJMoz8 #Hospitality #Hiring
+Tweet ID 648:	See our latest #Souderton, PA #job and click to apply: Home Health Aide/HHA to work with Individuals with... - https://t.co/ZJyl7EY1N7
+Tweet ID 657:	Can you recommend anyone for this #job? First Aid &amp; Safety Service Manager - https://t.co/5wdGOhJ9rn #Austin, TX https://t.co/57XqaI1eha
+Tweet ID 658:	CVS Health #Healthcare #Job: Pharmacy Technician (#Jamaica, NY) https://t.co/Rg3l4FnSTO #Jobs #Hiring
+Tweet ID 664:	BAYADA Home Health Care: CNA / HHA Immediately - Marietta (#Marietta, GA) https://t.co/EUbnsHpHGQ #Job #Jobs #Hiring
+Tweet ID 665:	We're #hiring! Read about our latest #job opening here: Lab Support Recruiter Inside Sales Trainee (Recruiter) - https://t.co/Qd8vFA5dPH
+Tweet ID 684:	#Healthcare #Job in #Dallas, TX: Travel RN PICU - Dallas, TX at Supplemental Health Care https://t.co/DNxGBlVNFa https://t.co/6hynI6OJNs
+Tweet ID 689:	Sunrise Senior Living #Nursing #Job: Part-time Reminiscence Care Manager (#StCharles, IL) https://t.co/exM3I97OSR https://t.co/QgFyqXt3hB
+Tweet ID 690:	See our latest #Tracy, CA #job and click to apply: IC&amp;E (Instrumentation Control &amp;... - https://t.co/qHN4SUs0gK https://t.co/2YfDL5eBI8
+Tweet ID 692:	#Retail in IN: STORE MANAGER CANDIDATE at Dollar General Corporation https://t.co/joeGpZOe8R #Diversity #Veterans https://t.co/czQtMjYMQG
+Tweet ID 698:	Join the Winn Dixie team! See our latest #Retail #job opening here: https://t.co/h5gKHDLB9M #PINSON, AL #Hiring
+Tweet ID 704:	Want to work at Premise Health? We're #hiring in #Alpharetta, GA! Click for details: https://t.co/3idnIC1att #Job https://t.co/ilPckmjZJD
+Tweet ID 713:	#FacilitiesMgmt #Job in #Boston, MA: Maintenance Supervisor at AvalonBay https://t.co/tZCO5KwTRu #nowhiring #Jobs https://t.co/v6GeFLFRKM
+Tweet ID 716:	Part Time Sales-dressbarn - dressbarn: (#Houma, LA) https://t.co/SQPsG10wwZ #Sales #Job #Jobs #Hiring
+Tweet ID 721:	Customer Service... - Love's Travel Stops &amp; Country St...: (#WhiteHouse, TN) https://t.co/OYJV0J3qpO #Retail #Job https://t.co/N5bYWMlR5Q
+Tweet ID 730:	Want to work at Department of Veterans Affairs? We're #hiring in #Houston, TX! Click for details: https://t.co/bkXGUleXUV #Clerical #Job
+Tweet ID 731:	#HealthWelfare #Job in #MaysLanding, NJ: Health Enthusiast Part-Time at The Vitamin Shoppe https://t.co/XPW1y9Kugv #Jobs #Hiring
+Tweet ID 757:	#WestPoint, VA #Job: Certified Nursing Assistant – CNA / Home Health Aide - HHA at BAYADA Home Health Care https://t.co/NbJBbWtXUV #Jobs
+Tweet ID 777:	Nurse Assistant - 4 Lesser - Deborah: (#BrownsMills, NJ) https://t.co/4LdYHRDvNf #Job #Jobs #Hiring https://t.co/Jp6Ttr6eeQ
+Tweet ID 779:	#Job in #Concord, NC: Management Trainee / Leadership Development Program at BAYADA Home Health Care https://t.co/JIOz5T39vO #Jobs #Hiring
+Tweet ID 785:	#Retail #Job alert: Beauty Advisor | CVS Health | #OSSINING, NY https://t.co/jdxVDFTnyY #Jobs #Hiring
+Tweet ID 815:	#Retail #Job alert: Meat Associate | Winn Dixie | #JACKSONVILLE, FL https://t.co/GvJZyCp5K6 #Jobs #Hiring
+Tweet ID 819:	Mercy: Home Health Aide II (#DesPeres, MO) https://t.co/1cVjF0d60Y #HealthWelfare #Job #Jobs #Hiring https://t.co/60rm5CvYAu
+Tweet ID 820:	We're #hiring! Click to apply: Fire Service Technician In Training - https://t.co/oPK5ed0sbO #Job #Westminster, CO https://t.co/b0pbLHdlTm
+Tweet ID 823:	#Indianapolis, IN #Retail #Job: Sales Support Associate, J.Crew Retail, The Fashion Mall at J. Crew https://t.co/fvEx5yC4G7 #Jobs #Hiring
+Tweet ID 828:	Can you recommend anyone for this #job? ICU / Intensive Care Unit Travel RN /... - https://t.co/fMWFppiGS0 #Hiring https://t.co/wztcWAgyI3
+Tweet ID 830:	#MedicalDevices in #CorpusChristi, TX: IMAGING SERVICE SPECIALIST at Compass Group USA https://t.co/A6cs0AfDao #jobhunt #Hiring
+Tweet ID 832:	Can you recommend anyone for this #Hospitality #job? https://t.co/qwPnMdaFGW #restaurantlife #Amherst, OH #Hiring
+Tweet ID 839:	See our latest #HuntValley, MD #job and click to apply: Specialty Beauty - Distribution Center Shift... - https://t.co/hYILbRQspr #Veterans
+Tweet ID 843:	Can you recommend anyone for this #CustomerService #job? https://t.co/mAzo2JwwbV #milspouse #parttime #OakBrook, IL https://t.co/IWHV9b0QrL
+Tweet ID 844:	#Sales #Job in #Alpharetta, GA: Sr. Strategic Alliance Mgr/ Healthcare at LexisNexis Risk https://t.co/lydKqmC2DA #Jobs #Hiring
+Tweet ID 851:	Dollar General Corporation #Retail #Job: STORE MANAGER CANDIDATE (IN) https://t.co/5zINQdrwZH #Diversity #Veterans https://t.co/LGvsyOgE1a
+Tweet ID 854:	Join the CVS Health team! See our latest #Healthcare #job opening here: https://t.co/2vf1z1wDUJ #Grapevine, TX #Hiring
+Tweet ID 869:	Sunrise Senior Living #Hospitality #Job: Server - Food Server (#SandySprings, GA) https://t.co/3pHLxIK31s #Jobs https://t.co/gNCL7CUSM0
+Tweet ID 874:	Join the The Vitamin Shoppe team! See our latest #HealthWelfare #job opening here: https://t.co/vha4BhQ7wy #Watchung, NJ #Hiring
+Tweet ID 877:	Want to work in #Utica, NY? View our latest opening: https://t.co/VKyT6L97Nq #Automotive #WMNationalCareerDay #Job https://t.co/MOl776dDRr
+Tweet ID 882:	Can you recommend anyone for this #Nursing #job? https://t.co/C8XtYX8otN #RN #Nursing #stpaul, MN #Hiring https://t.co/RWktSrFHP3
+Tweet ID 888:	Winn Dixie #Retail #Job: Bagger (#TUSCALOOSA, AL) https://t.co/zNh1wPgWxZ #Jobs #Hiring
+Tweet ID 896:	Join the BAYADA Home Health Care team! See our latest #job opening here: https://t.co/s5iEeq0ff1 #Stokesdale, NC #Hiring
+Tweet ID 897:	Can you recommend anyone for this #job? Production Manager 52059 - https://t.co/cMYKFuGSg8 #Creston, IA #Hiring https://t.co/7VnMCrdORL
+Tweet ID 898:	#Philadelphia, PA #Job: Registered Nurse / RN at BAYADA Home Health Care https://t.co/xd15UbtnhN #Jobs #Hiring
+Tweet ID 899:	Can you recommend anyone for this #job? Beauty Consultant–CA–Beverly Hills–(9045 Wilshire Boulevard) - https://t.co/V1JhqmA8Mg #Retail
+Tweet ID 915:	Can you recommend anyone for this #job? RN ICU ER Registered Nurse - https://t.co/fV0T258yer #Yonkers, NY #Hiring https://t.co/VPdWMUiqw1
+Tweet ID 923:	Can you recommend anyone for this #QA #job? https://t.co/vIQnUpmwgu #Farmington, MI #Hiring https://t.co/h806WKXdXO
+Tweet ID 924:	#Nursing alert: Nurse... | Department of Veterans Affairs | #NewOrleans, LA https://t.co/oMsUIXZllo #Veterans https://t.co/BaCTR12dsk
+Tweet ID 926:	If you're a #Engineering professional in #Austin, TX, check out this #job: https://t.co/i0j0oCkSM5 #Hiring https://t.co/vvpJACpm3B
+Tweet ID 933:	See our latest #Woodland, CA #job and click to apply: Pharmacy Technician – Target Store - https://t.co/d4A3iqoGO3 #Healthcare #Hiring
+Tweet ID 939:	Join the SunPower team! See our latest #internship #job opening here: https://t.co/7QcU3ZQC3I #Richmond, CA #Hiring https://t.co/oSIgQyg5qR
+Tweet ID 940:	Want to work in #WestSacramento, CA? View our latest opening: https://t.co/Vh0XZu6qVj #Transportation #Job #Jobs https://t.co/rxrIpyomkF
+Tweet ID 941:	See our latest #Brookline, MA #job and click to apply: Registered Nurse | RN | GERI... - https://t.co/LIdfop69qX https://t.co/8DOdvoTeEV
+Tweet ID 942:	Can you recommend anyone for this #job? Route Service Sales Representative - Facility... - https://t.co/Hqrs2lKrQp https://t.co/PwMZzlmQ7Q
+Tweet ID 949:	Can you recommend anyone for this #IT #job? https://t.co/ioxvTpKZ9m #Bridgewater, NJ #Hiring
+Tweet ID 959:	See our latest #Baraboo, WI #job and click to apply: Quality Manager - https://t.co/hTYWXZdt8p #QA #Hiring https://t.co/DmcNIMQaYI
+Tweet ID 969:	#Phoenix, AZ #Nursing #Job: RN - PROGRESSIVE TELEMETRY JCLMC LOCATION OCL at HonorHealth https://t.co/E2gMNY5pIZ https://t.co/76WRzsaNKY
+Tweet ID 978:	Dollar General Corporation #Retail #Job: Store Manager Candidate (IN) https://t.co/PUnqdBg11I #Diversity #Veterans https://t.co/3166reGT1Y
+Tweet ID 980:	See our latest #Union, NJ #job and click to apply: HHA - Home Health Aide - https://t.co/wr8doFKANM #Hiring
+Tweet ID 981:	#Engineering #Job alert: Intern - Renewables | NRECA | #Arlington, VA https://t.co/jLBl3vIb5X #internship #nonprofit #career #Jobs #Hiring
+Tweet ID 982:	Join the Compass Group USA team! See our latest #Labor #job opening here: https://t.co/rATwps0nlI #jobhunt #Chicago, IL #Hiring
+Tweet ID 995:	We're #hiring! Read about our latest #job opening here: Pharmacy Technician - https://t.co/6kxh8Xo1ei #NewPortRichey, FL #Healthcare
+Tweet ID 996:	We're #hiring! Click to apply: Store Manager - https://t.co/1ETWFEpgil #Retail #Menifee, CA #Job #Jobs
+
+
+
+
+6
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 72:	Just posted a photo @ Rock &amp; Brews Buena Park https://t.co/jXWcgjQTMn
+Tweet ID 124:	Just posted a photo @ Rock &amp; Brews Buena Park https://t.co/GpttHbbKzt
+Tweet ID 186:	Loved this #toronto collection at #fat2016 #fashion #local @ Daniels Spectrum https://t.co/eCNYrDlzrN
+Tweet ID 203:	Spring morning Madison Sq Park fountain with flat iron building #flatiron #madisonsqpark #spring… https://t.co/uOiW7h86Lg
+Tweet ID 433:	#optimism #toronto #the6ix #morningwalk #dogownerslife @roncesvillage @ Sorauren Avenue Park https://t.co/JNY4V9oW0t
+Tweet ID 440:	Field prep #inthahood 
+
+Soothingsoundsofspringville @ Central Park https://t.co/7HmN3d6GNv
+Tweet ID 479:	Faux #chicken #farmersmarket #unionsquare #nyc @ Union Square Park https://t.co/7GCVl6LlJ1
+Tweet ID 576:	Pirates Home Run 5K #pittsburgh #5k #pittsburghpirates @ PNC Park https://t.co/OMpg6oZHq7
+Tweet ID 581:	I'm at Parking Deck K in Lewis Center, OH w/ @mruehrmund https://t.co/YRimkiIdqg
+Tweet ID 606:	Kingdom Declaration:
+I pray for the spirit of wisdom, knowledge, and… https://t.co/2JsbZndjPv
+Tweet ID 659:	Waited for the sunrise @ Toronto, Ontario https://t.co/MUanlmZffl
+Tweet ID 734:	#BACH #GORECKI #TCHAIKOVSKY Sinfonia Toronto/Nurhan Arman, Conductor Angela Park #Pianist… https://t.co/aMUKFYlkwU
+Tweet ID 763:	leochise and I still giving life @ Buena Park https://t.co/qSEwe0XFdw
+Tweet ID 774:	#SkipTV #jetskirace #surfandturf #dronerace #Taveras #florida #droneracetv @ Wooton Park https://t.co/jDJskaEQ9z
+Tweet ID 782:	#Toronto, ON #Finance #Job: Accounts Receivable, Collections Officer - Inbound at Tyco https://t.co/Teka4DBGOJ https://t.co/wzy1LuDPTi
+Tweet ID 789:	I'm at Captain's Grille in Lake Buena Vista, FL https://t.co/AJ6rERCNX0
+Tweet ID 946:	#sunrise #sun #sunny #Saturday #canon #toronto #torontolife #topphoto #torontoigers… https://t.co/4Rqc2t9tLH
+Tweet ID 965:	I'm at Animal Kingdom Lodge Parking Lot in Lake Buena Vista, FL https://t.co/qLAOQaHyr9
+Tweet ID 975:	I'm at Jambo House - Disney's Animal Kingdom Lodge - @waltdisneyworld in Lake Buena Vista, FL https://t.co/H2a2KDljnr
+Tweet ID 985:	I'm at Disney's Animal Kingdom Lodge - @waltdisneyworld in Lake Buena Vista, FL https://t.co/aRX0Yl3cfj
+
+
+
+
+7
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 36:	Wow this line is krazy for some hamburgers at in n out! #food #foodporn #lunch #line #wow… https://t.co/M3lqtAymsE
+Tweet ID 41:	doing a fun fashion show &amp; trunk viewing soirée with Nadia Mohajeri and her line… https://t.co/gdzFll0lbx
+Tweet ID 120:	👌 @ Typee Island Beach https://t.co/NsRVDyqfoK
+Tweet ID 172:	Finishing off the night #chilling #italiansdontforgive #italian #foodie @ Little Dom's https://t.co/RMAjtE8Qsp
+Tweet ID 266:	I just began a running workout using #Endomondo. Peptalk me now @ https://t.co/X28V4FeVI6
+Tweet ID 307:	It's a ghostown..... Except for the line I have to wait in lol.  #rsd16… https://t.co/PkTCIfZt4d
+Tweet ID 342:	I just began a running workout using #Endomondo. Peptalk me now @ https://t.co/sB8QwjRr6g
+Tweet ID 347:	[住所 Liberty Island - Ellis Island, New York, NY アメリカ合衆国, 速度 --kph, 方向 --, 標高 0m, 地図 https://t.co/H7pQY950o9 ]
+Tweet ID 373:	Guess I am almost to the finish line. #runDisney #starwars10k #rebelscumandproudofit @ Disney's… https://t.co/Yg9JlhiJME
+Tweet ID 411:	#bananas #chiqueta #starwarshalf @ Disney's ESPN Wide World of Sports Complex https://t.co/31PuTvK5nw
+Tweet ID 419:	Students with the Verrazano School Honors Program at the College of Staten Island took a field… https://t.co/nJ727KHkvU
+Tweet ID 432:	I just finished 1h:22m:11s of doing yoga with #Endomondo #endorphins https://t.co/X6ZKPmxQQQ
+Tweet ID 462:	#bpms150 #selfie #bicycle #biking #cycling @ Academy Corporate Office https://t.co/VhIJf8bwSF
+Tweet ID 503:	Second 10K in the books! #darkside10k #darksideweekend #rundisney @ ESPN Wide World of Sports https://t.co/phWxIDxImT
+Tweet ID 564:	In line!  RSD!!! :-) (@ The Vinyl Groove in Bedford, OH) https://t.co/2m0KVpLuJY
+Tweet ID 756:	#spartan #sprint #home #for #the #day #finish #line #spartansniperizzi #ilovemyspartans… https://t.co/fJBZqwBc0J
+Tweet ID 764:	Pirates Home Run #5k!! 
+Finally running my first 5k race on my Birthday! So pumped!… https://t.co/F1PcIOpWdk
+Tweet ID 821:	I just began a cycling workout using #Endomondo. Peptalk me now @ https://t.co/qSralAcgXU
+Tweet ID 883:	Ironic to see at Walt Disney World! ;) #BOGP #runDisney #Disney #WDW #runBOGP #WaltDisneyWorld… https://t.co/ALw66fdYLO
+Tweet ID 909:	#wdw #waltdisneyworld #waltogram #disneyworld #disneyphotos #disneyparks #disneygram #disney… https://t.co/Nh6KwWV9Z7
+Tweet ID 958:	Try https://t.co/KHo8bfiqQ1 Our new The Original Italian Pie 2GO model has the same authentic #Italian #menu
+
+
+
+
+8
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 115:	😜😜😜😜😜😜 @ North Hollwood https://t.co/3ATzu8MEB0
+Tweet ID 192:	Morning #football ⚽️👌🏻✌🏻️ #pitch #sport #fitness #workout #olloclip #fisheye #lens #perspective… https://t.co/kf4Nb2O5ey
+Tweet ID 256:	Super hero 5k this brisk April morning!!! #batgirl #trainingtobebatgirl #superrun… https://t.co/9b5bXr48LE
+Tweet ID 353:	Gooood Morning @MissNorthernVA Foot Levelers Blue Ridge Marathon  #missamericadayofservice… https://t.co/pUuF1NqAqp
+Tweet ID 376:	Selah pig crew rolling before dawn this  morning. #dogoodwork @ Selah Christian Church https://t.co/LvJlM3rRW8
+Tweet ID 394:	Reborn Baby/Toddler Morning Routine!❤ https://t.co/yPjXVuhx0P
+Tweet ID 429:	HMSHost: Crew Member (#Cambridge, ON) https://t.co/qwmT8kffOw #Hospitality #restaurantlife #Job #Jobs #Hiring
+Tweet ID 587:	My morning so far. #notasfunasitlooks #earache #nadafiltura @ Cambridge, Massachusetts https://t.co/wwyI9hbk2f
+Tweet ID 677:	Another beautiful morning in Elkhart Lake @ Osthoff Resort and Spa https://t.co/Ai8hpHmAqX
+Tweet ID 711:	All's clear today! ☀️ #sunnyday #springtime #weatherdog @ Marlborough, Massachusetts https://t.co/fRLBL3NuTe
+Tweet ID 727:	locally gusty north to northeast winds into this morning... .locally gusty north to northeast winds will continu... https://t.co/v9Zs6Mn37l
+Tweet ID 750:	💚Blessed Morning!!!💚Make Today Awesome! 🎉
+#itsnotover #keepitmoving #pray #push #Trust #blessed… https://t.co/QXLvpOEdhS
+Tweet ID 788:	3 P's! #positive #patient #persistent @ Boston, Massachusetts https://t.co/uXYIF9Gx2W
+Tweet ID 793:	Perfect grey light @ Nantucket, Massachusetts https://t.co/r9i5NwqLXa
+Tweet ID 878:	Guess what kid just had an early morning 10K without a seizure?!? This kid! And a PR for me 😊🏅… https://t.co/c7lZkggQ2l
+Tweet ID 881:	A view with my morning coffee @ Lands Creek Log Cabins https://t.co/ij7cbFnIfD
+Tweet ID 951:	Early morning trip for some hardcore hardware @ The Home Depot https://t.co/J3ISbRYxYx
+
+
+
+
+9
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 10:	It's BuzzFest day 🎉🎉🎉 #alldaymusicdate #musicisourlovelanguage #soexcited #buzzfestXXXV… https://t.co/3drMbj7FBR
+Tweet ID 29:	New Day Washington's Folly Cherry Mead on tap #foodfrothfollies @ Floyd County Brewing Company https://t.co/5m2FHfVueV
+Tweet ID 42:	Bocce ball anyone? 
+#independentrecordlabel #fly #likeforlike #indie #vinylrecords #fashionista… https://t.co/cNwe4w0pFm
+Tweet ID 135:	@coco_kaufmann2 "hey Avery check out my t-shirts I drew with my artsiness" yeah that's right take a seat on the right
+Tweet ID 174:	Happy Birthday Momma ❤️ super good dinner at the Flying Pig. The food was incredible. @ Flying… https://t.co/jTvSQQYH3d
+Tweet ID 180:	Stylish gifts sure to make Mom's day. Shop Amazon Fashion - Mother's Day Shop https://t.co/fqTdxAob1t
+Tweet ID 184:	How was your day?
+
+#fridayfunday #familylife #fashionkilla… https://t.co/G5a8UEsXLz
+Tweet ID 223:	Rise and shine, it's #recordstoreday! @ Record Rack https://t.co/uIVxxmo8FG
+Tweet ID 290:	Record store day (@ seasick records in Birmingham, AL) https://t.co/HImhsctpgn
+Tweet ID 327:	winter weather advisory in effect until 6 am mdt sunday... the national weather service in pueblo has issued a w... https://t.co/fVLe8oZZec
+Tweet ID 378:	Deal now: Shop Amazon - Mother's Day Gifts in Handmade https://t.co/o5IEaea415
+Tweet ID 431:	Check out our #listing in #Derry #NH https://t.co/baSGwxxfk0 #realestate #realtor https://t.co/lJXTMzVuYZ
+Tweet ID 454:	🇲🇾 Still by far the best cheer experience of my life. Bring me back to Worlds 💙 #icuworlds
+.… https://t.co/uoDh7RaIhg
+Tweet ID 472:	Why am I up and out already this early on a Saturday? Because it's Record Store Day and early… https://t.co/lOrN4x5gbx
+Tweet ID 485:	Still drawing a pic s day. #Retweet #graphics #design #philly #globalredproduction… https://t.co/ERmJwiStK3
+Tweet ID 493:	Today is national circus day!!! Check out our troupes recent practice on the flying trapeze.… https://t.co/WhVxR7wxQF
+Tweet ID 568:	#the5thwoman @ Rocky Top Sports World - Gatlinburg, TN https://t.co/smSLxY0AD5
+Tweet ID 592:	DON'T FORGET AND DON'T MISS OUT!!   This weekend, bring in your old bait, spin or fly reels!… https://t.co/Y2bve6Fb9S
+Tweet ID 594:	Yes yes yes #amen to an awesome start to the day. #ActiveLifestyle meet #nature #naturelover… https://t.co/Q4M1iq8k9K
+Tweet ID 624:	Being very majestic the other day in the gorge, caught in mother nature's spotlight. @ Linville… https://t.co/OE7K8kpiX3
+Tweet ID 633:	Art of my day @ Ypsilanti, Michigan https://t.co/bI4mHlxi0D
+Tweet ID 635:	Heart of the day! #sunrise #teampink #kindnessmatterswalk #Team211… https://t.co/JH3QSlLfoT
+Tweet ID 636:	I hope it stays this nice out all day!!! @ Daytona Hilton Hotel https://t.co/2zdbeZo1t3
+Tweet ID 645:	@RepairMethod I'm so sorry about the other day i thought u we're upset about mb20 and i love u guys you have made this world better
+Tweet ID 715:	"One day like this a year would see me right" #sunrise #daytonabeach #florida @ South Daytona… https://t.co/oj5B0eJbcA
+Tweet ID 769:	"We real serious 'bout this shit." #recordstoreday2016 @ Radio-Active Records https://t.co/F5bBvzjFPF
+Tweet ID 772:	Reflecting on my life and career on this day...
+
+Mixed emotions overwhelm me. However, I know… https://t.co/eQxaJaxVbn
+Tweet ID 811:	One World Trade building on a beautifully sunny day. Can't believe we went to the top of… https://t.co/x4Xts3JIj6
+Tweet ID 901:	I don't usually win awards, but when I do it's a BIG one .. Vaughan Business Achievment Award (… https://t.co/NVfMfFzC6b
+Tweet ID 917:	AIDS N : Citizen rakes in national awards https://t.co/ePNS0ti4cR
+Tweet ID 966:	Record Store Day 2016 #rsd2016 @ Wild Honey Records https://t.co/camcmQNvxJ
+Tweet ID 973:	Happy Record Store Day! Get your butts to @radioactiverecs @sweatrecords . It's your last chance… https://t.co/hYn5dUF773
+Tweet ID 997:	"You bet giraffe" we have a fantastic store! 😄 #mainstreetmilton #treasurehunting… https://t.co/ss8WJQqkBE
+
+
+
+
+10
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 11:	Let's pretend I'm at Coachella listening to awesome music with my amazing friends ❣… https://t.co/mCIooXO3Dj
+Tweet ID 23:	Love!!! #urbanorchid #urbanorchidlittleitaly @ Urban Orchid https://t.co/NkI2MsDOLN
+Tweet ID 33:	My best. #abbey #dance #house #edm #love #myfriend @ The Abbey Food &amp; Bar | West Hollywood https://t.co/2GPnX8REX8
+Tweet ID 60:	Quality time is in full effect!! (at @hampton) — https://t.co/IulXQPRMiX
+Tweet ID 109:	I love my job! 😊👌🏼💯 #VitaminShackAndShakes… https://t.co/5CKo6Nj8bJ
+Tweet ID 118:	They've been sick in PJ's all week, yet still laundry full of fancy dresses. That's how we roll.… https://t.co/VX6qKIBOg4
+Tweet ID 195:	Love❤️ @ Southside Football Field https://t.co/HwYILyfjep
+Tweet ID 215:	#Repost goodpassports with repostapp.
+・・・
+O'Doyle Rules! Awesome name of the awesome cocktail… https://t.co/c3mydeusgj
+Tweet ID 219:	#Sales #Job in #Knoxville, TN: Inside Sales Representative - Part Time -... at DialAmerica https://t.co/fABGm0RrNI https://t.co/Vn5ABqs3kj
+Tweet ID 221:	Saturday April 16 Great &amp; Gorgeous Day , Finally Spring Here,  please Stay Together,  Love… https://t.co/9QHykwssKs
+Tweet ID 245:	Let's GOOOOOO Saturday session time. 💪😁 @ Richie's Gym https://t.co/0D5jNTVLy2
+Tweet ID 262:	Who needs a new pair of jeans??? 😆😆😆 I LOVE our new jeans!!! 😍😍😍 We now have an entire denim… https://t.co/i1fN1Vb1R3
+Tweet ID 287:	Happy Saturday morning 😊 Living in Love ❤ https://t.co/vXRE5LrtR1
+Tweet ID 326:	Greatest gift is quality time with the person you love
+Tweet ID 352:	#vidlab #sf #sanfrancisco #skates #skatesonthebay #berkley #sunset #sfo #quotes #life #love… https://t.co/Etip2cfZ7L
+Tweet ID 398:	BulletProof Coffee before the Gym! 2 shots of espressos, almond milk, ghee, coconut oil,… https://t.co/1j6YaoZCec
+Tweet ID 436:	#Nursing #Job alert: RN-PICU (Full Time, Day shift) | MCHS | #Miami, FL https://t.co/HNyVEYbEFm #KidsHealth #SoFlo https://t.co/pAsSIf8veu
+Tweet ID 441:	It's the weekend!  Time to celebrate.  This wedding party sure knew how to get down!  I have… https://t.co/1tENlieAPy
+Tweet ID 460:	Spring in full bloom out in my front yard! My geraniums were in full bloom as well. So red and… https://t.co/WKVWGoIwyP
+Tweet ID 461:	It's Saturday in Athens! 🐶🐾🏈
+
+#93KDay #ATD #GoDawgs https://t.co/BvwVjh2WOj
+Tweet ID 469:	Up at 4:00am (3am Alaska Time!) So she can be on the ice for her 5am practice session!... https://t.co/OSNbAraj5i https://t.co/b7up0EZTRS
+Tweet ID 528:	As you enjoy this forecast, recall that last Saturday' s high was 36 with snow! Full fcst https://t.co/ir8AzbSsbl
+Tweet ID 532:	Doors open at 8am and lock up so we get outta here at 2pm. Enjoy the weather! jhaymes76… https://t.co/9bIMRet3YP
+Tweet ID 540:	Happy Saturday!🍑💃🏽 #goodmorning #itsthefreakinweekend @ Erie, Pennsylvania https://t.co/pKWKMtGdhz
+Tweet ID 582:	We picked up our numbers yesterday. If this isn't love, I don't know what is. Let's kick some… https://t.co/hFgIED3hu9
+Tweet ID 586:	I love this place! # tomato basil #caprese @ Earl of Sandwich @ Planet Hollywood https://t.co/yqQiF7jT91
+Tweet ID 631:	Through security. Time to grab breakfast and plug in and chill
+Tweet ID 642:	It's early Saturday... There are those who see an opportunity, and those who SEIZE an… https://t.co/4Z0dxcepH2
+Tweet ID 651:	Doors open at 9am...see you soon! #rsd16 #angryyoungandpoor #vinyl #aypcontest #punkrecordstore… https://t.co/zTz1iarfiY
+Tweet ID 680:	💋💋💋. MUCHO #love #live #livestyle #ecuadorian #giomarsellscalifornia… https://t.co/E31bY77Yac
+Tweet ID 720:	Next time kite chill lg k....take care sume...dpt yaad n mummy rase #dipndip kn...nnt kite g… https://t.co/XitCN6cmGy
+Tweet ID 724:	Up early ready for some basketball. Must win Saturday. Lost a tough last night. Need the 2 wins to advance. Lets get ready to rumble fellas.
+Tweet ID 733:	#Repost @KatieSauter with repostapp.
+・・・
+From the stage to the gym...posing and more… https://t.co/LgKUFk3Omp
+Tweet ID 780:	Cat + Kim performing for a wedding ceremony deseversky mansion. Love this shot from… https://t.co/C9A2TH8pVB
+Tweet ID 816:	Celebrating with my girls! Marcellus meatball and Jeni's Ice Cream! @ Marcellas https://t.co/oiyIJZKM0r
+Tweet ID 910:	This @dexclothing skirt #spring2016 #shoplocal #lolanewyork #SALE #saturday #musthave #fashion… https://t.co/QDVvMIEH84
+Tweet ID 914:	Door opens at 8am - full line-up by 9ish @ Tasso Baking Company https://t.co/5DWZPOIhcN
+Tweet ID 944:	Doin' what I do! (@ ABI Therapy Gym in Atlanta, GA) https://t.co/sDGUSTBLD5
+Tweet ID 963:	#cancún #morning #sunrise #mexico #weather #quintanaroo #paradise #travel #saturday #goodvibes @… https://t.co/m693HG6Hx5
+Tweet ID 967:	Welcome to Day 97 of Confidence in Love 2016💋
+Happy Blessed Saturday 
+#Positivity #positivevibes… https://t.co/SXxcop3HeG
+Tweet ID 992:	📌4am 2nd studio session #latenightearlymorns #nevernotworking @ The 105 Freeway https://t.co/cmk0CrMUdH
+
+
+
+
+11
+--------------------------------------------------------
+TOPIC: wearevirginiatech
+--------------------------------------------------------
+Tweet ID 616:	#WeareVIRGINIATECH 
+#neVerforgeT 
+#HOKIES https://t.co/XgN210YDNy
+Tweet ID 649:	#WeareVIRGINIATECH 
+#neVerforgeT 
+#HOKIES https://t.co/Voig5Ihv5u
+
+
+
+
+12
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 123:	DALLAS TEXAS THE WAIT IS OVER,YOU CAN NOW BUY YOUR EARLY BIRD TICKETS FOR DIAMOND MEMORIAL SHOW… https://t.co/UX0lLMLegF
+Tweet ID 191:	Youth 7on7 Football League Play in Dallas https://t.co/5nSOK1Hf9w
+Tweet ID 212:	#kaleidoscope @ Salinas, California https://t.co/dEwAOjjgyK
+Tweet ID 270:	When in DC. #JDmusictrip2016 @ Lincoln Memorial https://t.co/XkCaxAXCLk
+Tweet ID 292:	This right here... is what I live for 🌞 @ Hollywod Beach https://t.co/E4QQwjz4Nw
+Tweet ID 294:	Dinner dance cruise was amazing with them ❤️ @ Navy Pier https://t.co/vnsd1OtMvH
+Tweet ID 341:	These things are awful. I also blame Dyson for the fact that I can’t buy vacuum that doesn’t look like a space robot https://t.co/OU0XBpEE7e
+Tweet ID 438:	Last daybreak on vacation. @ Indian Rocks Beach Florida On The Gulf Coast Beach https://t.co/MDu4ofe5ia
+Tweet ID 447:	Wake &amp; Bake! Cinnamon Rolls today, mmmmm @ Hagar Beach Cafe https://t.co/LKBKMTUcWM
+Tweet ID 546:	By Tuesday or Wednesday, this will just be a soggy memory rain cbcmb MBStorm @johnsauderCBC https://t.co/RWH0ZEZAvb
+Tweet ID 548:	Overcast skies this AM, better light rain chances after lunchtime. Isolated t-storms are west of DFW. wfaaweather… https://t.co/9Gnj3qdu87
+Tweet ID 553:	Marine on mission to provide service dogs to veterans with PTSD https://t.co/VyHpOKmuIq
+Tweet ID 584:	Mood 24 /,7 is to please a woman 💞💞💞💞💞❤️ @ Dallas Marriott Las Colinas https://t.co/PN38wqv1WG
+Tweet ID 787:	When you become THAT crazy bird lady... 😂😂😂 #birdsofinstagram #author @ Hackettstown, New Jersey https://t.co/45wDYoMIqB
+Tweet ID 852:	Good Bye Daytona!! #honeymoon2016 (@ Daytona Inn Beach Resort in Daytona Beach, FL) https://t.co/TGPRF9arJB
+Tweet ID 855:	Cool pic of the 3 babes @ Newport Beach, California https://t.co/ktSYVyzWuP
+Tweet ID 887:	Molls and the birds! @ Newport Pier https://t.co/v1xOUStmzK
+Tweet ID 904:	Mad and Tay @ Newport Pier https://t.co/Vz3XeffK1m
+Tweet ID 930:	Another view of the ride home! @ Newport Dog Beach https://t.co/KJr67SWZFi
+Tweet ID 945:	#nowyouknow @ Dallas Marriott Las Colinas https://t.co/tEf8oWhS99
+Tweet ID 953:	The ride home!! @ Newport Dog Beach https://t.co/TEZDhZR7S2
+Tweet ID 991:	Buen fin de semana!!! 
+Capturas de mi show Miami Muscle Beach PRO... a seguir mejorando!!! 💪👊💯✔… https://t.co/o3DmJ7nd6g
+
+
+
+
+13
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 12:	Philly was a wild night!l We're shippin' up to Boston!! @skrizzlyadams + @lissiemusic… https://t.co/B5RUyxaIKF
+Tweet ID 30:	Come say hi to the @theavettbros food truck at @roughtradenyc! #AvettTrueSadness @ Rough Trade NYC https://t.co/lGlGAQbJLg
+Tweet ID 39:	@MrsThomasKnoell Couture Headpieces and Jewelry. #bridalfashionweek #wedding #jewelry… https://t.co/TmvP5bYwZ8
+Tweet ID 40:	Fashion night out with #annawintour at LA premiere of documentary #firstmondayinmay re… https://t.co/oq3D7CpMNI
+Tweet ID 43:	Spotted my customer at @leyancargi  fashion show rockin #synshafashions #fashionshow… https://t.co/eaBRK85bym
+Tweet ID 46:	Heineken presenta al diseñador Ricardo Seco #MBFWMX #FW16 @heineken_mx @ The Fashion Lab https://t.co/FcbKxHIUFj
+Tweet ID 47:	Preview... #fashion #photoshoot @gagakenya #makeup #modeling Ailin #torreon #photographer  #trc… https://t.co/ftxeUTUU92
+Tweet ID 56:	@BMileskiKFAN my sources also tell me we will play Green Bay, Detroit and Chicago twice throughout the season. #elitefootballmind
+Tweet ID 64:	Requisite crowd shot #Unlvino @swsknows @venetianvegas @ The Venetian Las Vegas https://t.co/zs4te2x1tw
+Tweet ID 66:	Continued....
+foundrentals @latavolalinen 👏👏👏 @ Lombardi House https://t.co/lXjwqYMe2p
+Tweet ID 68:	I'm at Aeropuerto Internacional de la Ciudad de México (MEX) - @aicm3 in Venustiano Carranza, DF https://t.co/uUpqMqypjM
+Tweet ID 75:	Enjoyed tonight on #thefeaturepresentation w @djsussone alyiv @prettylou11 @msmickeyk 🌊thanks… https://t.co/kilqllxusi
+Tweet ID 83:	Post @drivewayseries shenanigans! #elbowzracing #batman #batmobile vs. #crux #cantisforlife 📷… https://t.co/tGQbP5c012
+Tweet ID 84:	En la tarde cotorreando con los @pedrinayrio 😝😝 @ Mercadito Urbano https://t.co/uobuXyjrXm
+Tweet ID 90:	#awkward #haashow #ScareUSA #hauntlife #haashow2016 #transworld #throwback #johnschwarzjr @… https://t.co/MdRvWM6OKA
+Tweet ID 93:	👅👅 @ariellehill @ Hudson Terrace https://t.co/0rvjK0UhJO
+Tweet ID 100:	@music_within_ reading some of her poetry @ Vapure E-Hookah Lounge https://t.co/oOd77ySo1v
+Tweet ID 103:	@locogocrazy and @callmegray tearin' it up!! #AOMG #aomginla #thewiltern #Gray #Loco @ The Wiltern https://t.co/FeblHL6jSi
+Tweet ID 107:	I'm at Cooter Brown's Saloon - @cooterbrownstx in Helotes, TX https://t.co/GlGrsw18Td
+Tweet ID 108:	@TrumpPassion16 @CarmineZozzora #WNY cheers Trump,
+Tweet ID 136:	Judge Mathis Mula⚖ Catz betta come with their A game @ Chicago by Night https://t.co/Q79vwlDH81
+Tweet ID 152:	#DM3 was absolutely insane. @ki_gina &amp; I as @krimsonicemusic killed it! Cannot wait to do that… https://t.co/qN8R2dbk4b
+Tweet ID 155:	Great day for music 👽
+
+- @itsnghtmre 🎶
+
+- @thenumberfest 📡 @ 14 Fest https://t.co/FBtetaIXT6
+Tweet ID 157:	We back at it this and every Friday!! #FeteFridays @unique_wonders 11p-4a Music By @djnotnice876… https://t.co/TbgGdv4VFE
+Tweet ID 179:	@TeamDOE16 styled by Brandon.
+
+#FashionWardrobeStylist #BKMfashion #StyleMeBrandon #iStyle… https://t.co/wLv1BIO9LT
+Tweet ID 187:	Save the Egyptian King for last. Major s/o to DP for the epic design. 👑
+
+@DPAFASHION… https://t.co/w03qAXLXxG
+Tweet ID 188:	@cafawards president #vickimilner @cafawards #fashionnights #fashionismylife #canada @ Fairmont… https://t.co/COIyQ1CART
+Tweet ID 193:	Touchdown during the lakissfootball game against @jaxsharks. @king_morgan_1 ⚡️💪🏾‼️#LAKISS… https://t.co/Z9g7hc6EG1
+Tweet ID 206:	I'm at Terminal Central de Autobuses del Norte - @estrellarojapue in Gustavo A. Madero, México DF https://t.co/hXdBHBGphq
+Tweet ID 210:	@cspanwj  The dead are still collecting Social Security benefits !
+Tweet ID 220:	mrileyrealtor nikkifressssh @lynnayax 😜❤️😊 @ Coventry, Connecticut https://t.co/6gE9Mx7zDG
+Tweet ID 225:	Off toCozumel (@ Detroit Metropolitan Wayne County Airport (DTW) - @dtweetin in Romulus, MI) https://t.co/fELUJvq5e2
+Tweet ID 227:	☕ © Eugenia Loli #Eugenialoli via @illustrarts_ #NYC @ New York, New… https://t.co/CQRBKOuBYy
+Tweet ID 243:	Minimal. Solid beer. @zzqrva always on point. #theveilbrewing @ The… https://t.co/EVTqVDuHpx
+Tweet ID 254:	@Wickedjulia 
+I guess the Vatican didn't invite Clooney either 
+#AtLooseEndsWith$Hillary
+Tweet ID 255:	Critanya kemarin habis nyeteak dan ngelobster di "Red Lobster", tapi… (w/ Mokhamad at @redlobster) [pic] — https://t.co/y0qrjw7BzL
+Tweet ID 260:	Waking up with regret and a definite case of FOMO after missing last night's Duran Duran… https://t.co/XD7KhH0hGQ
+Tweet ID 281:	My artist at @thegallery_hbco for the month is @chazwellz. He's our first #abstract #artist… https://t.co/dQv5Q35PND
+Tweet ID 302:	r3gan3 figuring the viewing schedule! @ Panificio Boston https://t.co/xBz2e9Xu8h
+Tweet ID 313:	I'm at @7ElevenMexico in Edo de México, México, DF https://t.co/ul2RgU5KRL
+Tweet ID 319:	Drinking a Liaison by @stbenjaminbrew @ Dog And Bull Brew &amp; Music House — https://t.co/XgEHKKqEdY
+Tweet ID 321:	A beautiful night of music at javajamsatcafelareine with Mckenna! Thanks to all who came out to… https://t.co/8iYR77buiy
+Tweet ID 334:	Braids and Hair Bends ™ amastylist__ @fave4hair #blomeaway #instabraid #modernsalon #montreal @… https://t.co/YVrCDuj9WT
+Tweet ID 337:	5k! (@ The Horticulture Center in Philadelphia, PA w/ @ames043 @ladycuscus) https://t.co/khw5ygMrHt
+Tweet ID 350:	أيقظ شعورك بالمحبة إن غفا
+لولا الشعور الناس كانوا كالدمى
+أحبب فيغدو الكوخ قصرا نيرا… (at @washingtondc) [pic] — https://t.co/AoMjyjT6cL
+Tweet ID 351:	Picture sums up last night's Game 2 of the @nhl playoffs in South Florida for the @flapanthers… https://t.co/nJMsir1V31
+Tweet ID 356:	#RSD16 (at @DavesRecordsChi in Chicago, IL) https://t.co/9K2Cb2MSQD
+Tweet ID 358:	@KyuubiPup *gently massages pup's ears* Oh gosh, I'm sorry to hear you're under the weather, pup! Paws crossed for a speedy recovery. 🐶👍💉💊
+Tweet ID 359:	Belle journée, beau temps so petit selfie.  
+
+Bon week-end à tous. @… https://t.co/UbbkV7zom5
+Tweet ID 362:	A rare #BhamBeerBuzz selfie at @seasickbham. We've been kickin' it since 2am for… https://t.co/J49jTXrHuB
+Tweet ID 366:	I'm at @DonLeoSny in Bronx, NY https://t.co/w3wOmgHvs3
+Tweet ID 368:	@mrgxo oops we did it again. @ Chicago, Illinois https://t.co/yKlNxEuSb3
+Tweet ID 374:	Coldplay alla vamos!! (@ Aeropuerto Internacional de Monterrey (MTY) - @aeropuertodemty in Apodaca, NL w/ @jpg86) https://t.co/9OEC6LVK1D
+Tweet ID 386:	Girls weekend! (@ Hartsfield-Jackson Atlanta International Airport - @atlanta_airport) https://t.co/3cL5b6bArz https://t.co/8c3f9lSHlS
+Tweet ID 396:	Rencontrer une inspiration ✅
+Danser au rhytme de @genevieveborne #mtlmoments #QuebecOriginal @… https://t.co/IdSN6Krk5v
+Tweet ID 400:	Gracias @Katherinangels por invitarme a tu espacio de Luz #almanova desde donde estaremos juntas… https://t.co/By54JAZPr3
+Tweet ID 404:	@Escav94 beep@
+Tweet ID 417:	@N_CageMovieIdea Is the World’s Best Croissant Made in Melbourne? https://t.co/3vsNz4rTEE
+Tweet ID 425:	💃🏼 
+#birthdaymonth 
+
+Thank you @ripat55 @ Ohm Hollywood https://t.co/mWGoLxh694
+Tweet ID 439:	Its' my Friday!¡!! (@ Pangani Forest Exploration Trail - @waltdisneyworld) https://t.co/datvfMDbYw https://t.co/TsVlmtyjSB
+Tweet ID 457:	@ewg are you getting $ from @driscollsberry to promote their corporate brand ?
+Tweet ID 471:	@AndreaWiggins jazz violin is worse!
+Tweet ID 476:	@natticatteh and the sunset 🌄🔥☁️ #hollywoodhills #hollywoodsign #hollywood #la #losangeles… https://t.co/h3qJJDRSaU
+Tweet ID 482:	Enfin arrivés à #boston, petit footing direction la ligne d'arrivée ! 
+#finishline… https://t.co/XcbfgPtoaD
+Tweet ID 486:	@elise_wily_yams https://t.co/CO7TjpCYuA
+Tweet ID 506:	Last night. Solid IPA — Drinking a Billy Half-Stack IPA @ Dog And Bull Brew &amp; Music House — https://t.co/aGjIA5suOJ
+Tweet ID 534:	@BrianInSyracuse @jeff_gluck my response was pure sarcasm lol.
+Tweet ID 544:	Fatal crash shuts down Southwest freeway at New Castle. It just opened Houston News @MarlaABC13 https://t.co/ac98WjwL8Z
+Tweet ID 556:	3ra Carrera La Salle (@ Bosque de @Chapultepec_mx in Miguel Hidalgo, DF) https://t.co/44kjAdvFzq
+Tweet ID 562:	I'm at @DennysDiner in Miami, FL https://t.co/cMLSnalmkU
+Tweet ID 604:	#Breakfast #desayuno 
+Wild Blueberries...Honey...Pollen...Greens...Apple Cider Vinegar...Fresh… https://t.co/g7farPu5nZ
+Tweet ID 627:	I'm moving to Cali for you @eiramaydni 💚💚💚💚😍 sleepwalkinginclife… https://t.co/xXRgS7IJoh
+Tweet ID 637:	I'm at Jacksonville International Airport (JAX) - @jaxairport in Jacksonville, FL https://t.co/zrsLAJvSkH
+Tweet ID 641:	@MrD0ne 
+وش اكثر شي حبه في طريقة تدريب السير اليكس فيرغسون
+Tweet ID 662:	If anyone has an extra $250 dollars they want to give me...I want dis. @garrisonbros… https://t.co/vrfgGnJpMe
+Tweet ID 676:	@Hyrum_bUckYbOii wsup sole!? How u doing? Miss u my nigga! Hope all is well. Love u man!
+Tweet ID 688:	@davidcadrian not summer yet
+Tweet ID 701:	Thanks TR for touching my heart and my hand❤️ @ Wild Bill's https://t.co/MYRDqMWa7Z
+Tweet ID 706:	PWOC Retreat with West Point, Fort Drum and Fort Hamilton at COTW. @… https://t.co/JeYgowNS3U
+Tweet ID 707:	Catch me @thedangerwayne and the homie @djmarcstout at @timechicago #tonight doing what we do… https://t.co/rJwNUYTcj9
+Tweet ID 709:	@EllisIslandNPS cannister$
+Tweet ID 710:	Mumford and Sons Monday night! Thanks kazbax for inviting me! Such a… https://t.co/5jP6kW5xOG
+Tweet ID 719:	@EllisIslandNPS dumpster diver@
+Tweet ID 729:	@EllisIslandNPS bleeq@
+Tweet ID 751:	@twbrandt rum and coke double with two maraschino cherries
+Tweet ID 755:	#newdesigns #Bmore #philly #baltimorehairstylist  #baltimorehair #dmv #howarduniversity… https://t.co/E5Hic1wshu
+Tweet ID 758:	@EllisIslandNPS rite jessica@
+Tweet ID 760:	Si le quieren caer va andar por acá Jay de la Cueva (@ Bosque de @Chapultepec_mx in Miguel Hidalgo, DF) https://t.co/Xye1ADpvtS
+Tweet ID 771:	@TomthunkitsMind @gglightbulb Ryan shoulda been named "Paul Onyun/Onion, since much of mankind stinks to him...
+Tweet ID 781:	#NoChella with @headhunterz went off. Great night and good vibes.
+Tweet ID 786:	With my seldom-seen and much-loved pal, @kennethjones, at The… https://t.co/HP4BfmDcKz
+Tweet ID 798:	@Just_Candesha ohh okay I understand that lol
+Tweet ID 808:	@DynamiteDtail52 #GoodMorning #CarWash #Open @ Dynamite Detail https://t.co/ONs0XBUwoG
+Tweet ID 810:	Werq werq werq werq werq... (@ Weathervane - @southernseason in Chapel Hill, NC) https://t.co/VkM69HBlda
+Tweet ID 822:	Mr Rexerson the opportunist. #shihpoo #shihpoosofinstagram @… https://t.co/ezoUbR5xOZ
+Tweet ID 829:	Iniciando otra locura... 59K!!! 🤔 (@ Monumento al Caminero w/ @elyg12) https://t.co/PfYSEfXTAt
+Tweet ID 840:	Interesting architecture at Queens College. #NewYork #concretejunglewheredreamsaremadeof @… https://t.co/KLojDEt6uh
+Tweet ID 841:	We're totally digging the new stadium! #fireflies #baseball #crackerjacks @micahcaskey @… https://t.co/UKiJ0Y8pxj
+Tweet ID 856:	Makeup: @ambmakeupartist 
+Hair: hairthatmovesmaine 
+Model: blue_eyed_butcher @maggieagency… https://t.co/SNEwUQ5p6J
+Tweet ID 859:	Thank you @tonyduranphoto for making our #jeanlouisdeniot a smash hit! @bakerfurniture #hpmkt… https://t.co/sDzwaw0TmG
+Tweet ID 861:	Shot from #marihoja shooting
+
+Model @k__chu 
+Special thanks azuuu517 @yamanakajima_a @ Los… https://t.co/USfJzF4Qvm
+Tweet ID 864:	#150LegacyBuilders #SmallBusiness #wethepeople #stopmakingyourbossrich @WEAHQ Women's… https://t.co/HiQb2Cjnab
+Tweet ID 880:	I'm back !! (@ Philadelphia International Airport (PHL) - @phlairport in Philadelphia, PA) https://t.co/AgRGnJd5XS
+Tweet ID 890:	@sidewalkangels He is my absolute favorite singer i'm so sorry. much love to you!
+Tweet ID 912:	A very very well deserved glittery sign @g_eazy #coachella @ Coachella https://t.co/tW502W0uHY
+Tweet ID 925:	I'm at Aeropuerto Internacional de Monterrey (MTY) - @aeropuertodemty in Apodaca, NL https://t.co/NEfaL9DyQ7
+Tweet ID 927:	I'l Be at Bae's Birthday Celebration Tonight . @a1yissa Hit me If… https://t.co/Te5XDtRxTj
+Tweet ID 931:	@lamontbrownfg has no clue what he is doing @ Jetty Dock Bar https://t.co/L60nEbCHot
+Tweet ID 936:	Hair By Liliana Chorney #Cut #Style #Stylist @stephenknollny @ Stephen Knoll New York https://t.co/uA9y7j2PNE
+Tweet ID 983:	@Monkey_Bunny #monkeybunnyinc @ Skyway Theatre https://t.co/fP35jiOxFA
+Tweet ID 986:	Beautiful view!! And the ocean scene isn't bad either!! ❤️🙏🏼 @… https://t.co/el06vD8NID
+Tweet ID 990:	I'm at Chicago Midway International Airport (MDW) in Chicago, IL https://t.co/cYGcUhdd4F
+
+
+
+
+14
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 49:	Time to go back up... Breakfast and football ... Coming up!!… https://t.co/G3ctp0j7ZV
+Tweet ID 106:	Convinced my partners to go here!! It was either here or Giada! 😉 both sounded great (@ Gordon Ramsay Pub &amp; Grill) https://t.co/NtJUo2iFOu
+Tweet ID 230:	I'm at Starbucks in Plant City, FL https://t.co/ioRc9VdzRM
+Tweet ID 236:	Sorry, can't go to work today. I don't want to disturb the cat. A#cat #catsofinstagram #daisy… https://t.co/Ak8UpqTTBj
+Tweet ID 264:	No hay starbucks, solo es para despertar!!!! (@ Oxxo Vasco de Quiroga in San Luis Potosi) https://t.co/cttubFjbet
+Tweet ID 435:	All roads home pass through Newark (@ Newark Liberty International Airport (EWR) in Newark, NJ) https://t.co/oAnTfvT6qv
+Tweet ID 446:	Where am I going? (@ Aeropuerto Internacional de Monterrey (MTY) - @aeropuertodemty in Apodaca, NL) https://t.co/YMXtRsYsri
+Tweet ID 453:	Good morning! Loving the forecast for the weekend! It's going to be clear with  temps in the 60s… https://t.co/hlHTHphmWU
+Tweet ID 475:	Here we go... #RecordStoreDay2016 #RSD16 #SecondinLine #MyGodIts5am @ The Record Exchange https://t.co/Y7fw9su9zP
+Tweet ID 494:	I go hard! After co-leading 300+ youth, a book signing, &amp; speaking… https://t.co/N0UVJWY7AJ
+Tweet ID 496:	Trying to make getting my morning fix more difficult @ Starbucks https://t.co/ukrmsy1mWG
+Tweet ID 514:	Drinking a smoothie and coffee to get this fun but long day going. #airshow (@ Franklin Hill in Franklin Hill, TN) https://t.co/XVordLboI3
+Tweet ID 541:	Beautiful day! Ready to go at RaceForTheCure https://t.co/nZuo3pHFr7 @ChuckWTHR https://t.co/LZDrGGZ1YS
+Tweet ID 542:	@cspanwj  All the Write offs including mortgage need to go !
+Tweet ID 543:	abc13eyewitness MS 150 early in the morning everyone ️️is getting ready to GO️ @13PhotogWillie https://t.co/ac98WjwL8Z
+Tweet ID 549:	Review: You’ve never heard flute and piano quite like this: ‘The Way Things Go’ https://t.co/aAWP4QhD80
+Tweet ID 566:	Going to the UM Spring Game. Need calories. #GOCANES 😎☕ (@ Ham &amp; Eggery in Miami, FL) https://t.co/U6tS2rekyr
+Tweet ID 644:	I want to go back #Havasufalls @ Havasu Falls, Supai, AZ - Grand Canyon https://t.co/ok1aaEYd7W
+Tweet ID 652:	The beginning of wisdom is this: Get wisdom. Though it cost all you have, get… https://t.co/vDAXZA27mX
+Tweet ID 708:	&lt;Aiko&gt; i have sex like i just got out of prison and about to go back in
+Tweet ID 740:	Go go juice (@ Starbucks in Newtown, CT) https://t.co/OcqECSI8xS
+Tweet ID 778:	Everyone, please caffeinate responsibly. Happy Saturday. #Coffee#Black ☕️☕️ (@ Starbucks) https://t.co/S9ZsWLweIB https://t.co/07x2xyWJRp
+Tweet ID 794:	Get #sick less by washing your hands more!
+#menshealth #womenshealth
+https://t.co/VB1TSUjJlc https://t.co/Am6U6bQBvk
+Tweet ID 846:	What tup #world #JENSUMOSLEY1ON1  Topic- #management mostly the #female #artist go through this.… https://t.co/CyghR5pdzI
+Tweet ID 857:	Men's Breakfast, let's go Dudes, Bacon and Marriage Mentoring. 😀💑🍳#breakfast #church #hollandmi… https://t.co/tU5piokfYC
+Tweet ID 903:	@bacardilegacy here we go! #bacardilegacy (@ Newark Liberty International Airport (EWR) in Newark, NJ) https://t.co/aQ5bg5wyaB
+Tweet ID 948:	107/366 || Every time you leave to go back to AZ it never gets easier. I love you. See you in a… https://t.co/iDmOmXzRdk
+Tweet ID 957:	Another great customer photo!! 
+
+Thanks so much!!
+
+To get yours, go to https://t.co/gUAcEIVYCw… https://t.co/oWYTG43mWr
+
+
+
+
+15
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 57:	"@Garricka_: He think he can box, rap, play football, and baseball😩 and he's only one!"he talented already Lol
+Tweet ID 58:	"@ProFootballTalk: Rams home opener at L.A. Coliseum comes against Pete Carroll https://t.co/hrnasZzrhb"
+Tweet ID 163:	#deltoro #madeinItaly #ASPCA Gala ready https://t.co/gGKLxJg3Zr ( bespoke@deltoroshoes.com ) @… https://t.co/1Pr8E7kCXp
+Tweet ID 242:	Registration is ready 2nd Day MoMentum #MoMen16 https://t.co/Ty4zJiP2Z3
+Tweet ID 344:	Pretty much says it all.
+Stop waiting for the perfect moment.
+It's not coming. Act now.
+Ready.… https://t.co/BlvZNoj1V4
+Tweet ID 361:	-chancesummers... @ Salem High School (Conyers, Georgia) https://t.co/wcameET4zD
+Tweet ID 372:	AMP is ready to rock the @spartanrace at citifield 
+
+Stop by and get some KT Taping, Sports… https://t.co/pwJ562SRYJ
+Tweet ID 401:	Spring game ready! #Canesfam #RichtGang (@ Lockhart Stadium - @ftlstrikers) https://t.co/glhFSPmYhA https://t.co/udbAW7rXDe
+Tweet ID 470:	#day3 film watching! Get ready! #biff @ Wyndham Boston Beacon Hill https://t.co/kA6NUXfopi
+Tweet ID 531:	Katy High School baseball players accused of coaching for money https://t.co/JYQ1fJE5M5
+Tweet ID 571:	@bigsean michaelbjordan looses.. -@chinaschau @ Salem High School (Conyers, Georgia) https://t.co/9nM52I81q5
+Tweet ID 600:	Who's ready for the #pirates #homerun5k this morning? @ PNC Park https://t.co/YtIlRwKYLI
+Tweet ID 632:	Ready to rock #4vicente #garminmarathon @ Olathe, Kansas https://t.co/IXMg8h1uRE
+Tweet ID 643:	"@drmikemurdock: https://t.co/KTbR4IqhrX"
+Tweet ID 655:	Hey @lunamusic we're ready to celebrate #recordstoreday with you today! Thanks as always! @ LUNA… https://t.co/LeigoYEcel
+Tweet ID 660:	"@Cynthia29895624: @Cynthia29895624 @drmikemurdock 
+Mikemurdockbooks com 
+Freebook tv https://t.co/lUpRgxF0yo"
+Tweet ID 693:	#book @chilligrindwill now strongfamilyinfo@gmail.com or @rapjuggernaut  #mixtapehosting… https://t.co/kdKiLjG5cG
+Tweet ID 695:	@EllisIslandNPS brownderby@hotpeanuts@
+Tweet ID 759:	My first solo wedding for sageinnovations is in the books and it was perfection! Stay tuned as I… https://t.co/A5XuvLw3m9
+Tweet ID 885:	Are you ready to get in the ball join us tonight at Space Coast Stadium when the Manatees host… https://t.co/x625JBYFZO
+Tweet ID 891:	Getting ready for this Beauty Trend Show! (at @Nordstrom Old Orchard Center in Skokie, IL) https://t.co/Ib2tWh1Rfd
+Tweet ID 955:	Planning a #Cruise? Must read:Healthy Cruising @officialmbn https://t.co/2u62ysEASg .@vacation
+
+
+
+
+16
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 19:	I'm at Little Italy Garage in Baltimore, MD https://t.co/mEngALVQFS
+Tweet ID 20:	Kobe may have been born in Italy, may have spent the past 20 years in SoCal, but the base of him… https://t.co/s3zJeVKPLI
+Tweet ID 21:	So THAT'S what a #cannoli is supposed to taste like. If I lived in Italy I'd be 200 lbs.… https://t.co/fCrO74VSEx
+Tweet ID 26:	New artisan-crafted candles from Italy. #psychiceye #candlemagick #phrenology #palmistry #art @… https://t.co/A0cq9aIO5H
+Tweet ID 27:	Loving this coach life. Sitting outside an Italian cafe in little Italy with a teammate I met… https://t.co/WupE8jayNK
+Tweet ID 38:	Because dinner, and there's less food than normal at home. (@ Stone Brewing Co. in San Diego, CA) https://t.co/3e5Kdha5tu
+Tweet ID 76:	Dinner with special guests chef Federico yahbes and his wife!! Thank you for the nice evening… https://t.co/OVHAjEnH8j
+Tweet ID 159:	Seating now available in the Bronx. @ Bronx Little Italy https://t.co/hNJHUcVY4v
+Tweet ID 160:	Travel Thursday: Milano in Spring 🌸 Where do you want to travel to? #travel #Italy… https://t.co/SHXZt4grmu
+Tweet ID 161:	made in Italy @ Av. Presidente Masaryk https://t.co/Gt2ZCpw562
+Tweet ID 162:	Dinner for 2. 🍝🍆 _the_supreme_court_ @ Maggiano's Little Italy Austin https://t.co/wRo8pzw0Vv
+Tweet ID 164:	lunch in little Italy with my little Lauren🌃 @ Casa Bella, Little Italy https://t.co/S9iF3Pv3ke
+Tweet ID 165:	Thanks for the meatballs dm92660! Stop by before 9 and enjoy the tastes of Italy. Come quick… https://t.co/mxwLOJQeh8
+Tweet ID 166:	Amo este lugar !!!! #LittleItaly (@ Little Italy in San Diego, CA) https://t.co/mg4oGBZbrA
+Tweet ID 167:	Surprise birthday dinner for Cousin Colette 😊 @ Maggiano's Little Italy Springfield https://t.co/yAsvNQu3PC
+Tweet ID 168:	friday nights @ Little Italy District, NYC https://t.co/wR4OGio7EM
+Tweet ID 231:	Santa Monica Pier ❤️
+
+#jhlw #paris #france #london #italy #dubai #abudhabi #usa #losangeles #nyc… https://t.co/Wb7r650Ln4
+Tweet ID 443:	Just posted a photo @ Baltimore, Maryland https://t.co/lFyQFZmuOA
+Tweet ID 552:	San Diego woman claims $7 million SuperLotto Plus prize https://t.co/5xhjonjCRi
+Tweet ID 603:	Time for 6 mile warm up ! (at @CharmCityRun in Baltimore, MD) https://t.co/XSELdkGDea
+Tweet ID 623:	Men's Breakfast #IronSharpensIron (@ The Refinery - Perry Hall - @refinesus in Perry Hall, MD) https://t.co/5HJYw3mOX6
+Tweet ID 988:	Body butter!! (@ Loizeaux Laboratories in MD) https://t.co/xJY54mM0Co
+
+
+
+
+17
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 34:	#food #beyourself #destiny #lifepurpose #divinepath #dreams #encouragement #angelactroutt @… https://t.co/EixfXoF02J
+Tweet ID 59:	I'm at Land of Dreams in Weehawken, NJ https://t.co/kuCRdVK78P
+Tweet ID 80:	HBD BB!don't kno what id do without u&amp;ur voice&amp;ur horses in my life❤️stay beautiful and keep doin ur thing🔞 LOVE YOU https://t.co/ML6afAD6ze
+Tweet ID 133:	@chadjeffers earning his keep! #thestorytellertour #carrieunderwood (ps we're friends I'm not a… https://t.co/RKOqtAvknf
+Tweet ID 248:	Keeping before the 5K. #americarunsonstarbucks #bostonmarathon2016 #5k @ Boston Common https://t.co/1VCBppk2qx
+Tweet ID 278:	Awake,Adventure @ Ashburn, Virginia https://t.co/RMQyTRizNf
+Tweet ID 297:	I swear nights before finals I'm revising the material in my dreams
+Tweet ID 452:	@RepairMethod Thank you Paul i've. been sick and you have made me feel better w ur music. Your so talented! please keep making music!
+Tweet ID 567:	Always remember to fall sleep with a dream and wake up with a purpose...
+#happythoughts… https://t.co/NRLtZUP1dQ
+Tweet ID 863:	Awake, but always dreaming #goodmorning #riseandgrind #dreamoutloud #dreamon #lifeisgood… https://t.co/Deswgi0gO0
+Tweet ID 884:	Keep an eye out for #chefblue on your Channel 11 morning news. #saturdaymorning #cbs @ El Burro… https://t.co/Hyr2reX1Oy
+Tweet ID 952:	Keep going, keep #dreaming, keep reaching for your #goals. #liveoutloud #youcandoit #exercise… https://t.co/eiLeRXEszA
+
+
+
+
+18
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 9:	APARTMENT OF THE FUTURE PROJECT. Now music/visualizer driven.… https://t.co/8BBEmgxxP0
+Tweet ID 13:	Family #Affair on #Set
+"Art is the mirror to our souls"
+Please help my musical production on… https://t.co/7AJtVlM9Td
+Tweet ID 14:	Vivir es Increíble!!! 😎✌🏻️ #palnorte2016 #monterrey #musicfestival… https://t.co/SvjMatL50W
+Tweet ID 15:	Can't believe this was one year ago 😩 hozier miafitzmusic #hoizer #worksong #sanfrancisco… https://t.co/kNnlvZT3yX
+Tweet ID 16:	Just posted a photo @ Coachella Music and Arts Festival https://t.co/2ZfylXSgfy
+Tweet ID 32:	baecation. @ Atlanta Food Truck Festival https://t.co/96UC0wx4SG
+Tweet ID 35:	Delicious food shared over delicious conversation with a delicious person. 👧🏽👧🏽💜👯 🍆🍠🍣🍱 Thanks… https://t.co/oRuuG8nmW4
+Tweet ID 37:	Champers courtesy of our tablemates at St. Genevieve. #champagne #stgenevieve #MplsFoodie… https://t.co/6TXSnNgrWs
+Tweet ID 44:	Just posted a photo @ L.A. Fashion District https://t.co/C1yrlofJwd
+Tweet ID 45:	#BlackDefinedFashionShow #SpringFest2016 beyonce #Formation #Slayish @ Central State University https://t.co/LW8CX6rrCy
+Tweet ID 50:	my favs💕 @ Hasbrouck Heights Football Field https://t.co/JM5cBM81ob
+Tweet ID 51:	Sure is gorgeous in person! War Eagle!!
+#Auburn# AuburnFootball #2011NatlChamps @ Auburn University https://t.co/Mz2HsqMQ2D
+Tweet ID 53:	Official Football Team EPL Gift Manchester United F.C. 9ct Gold Earring https://t.co/tdGclUO14X https://t.co/GmdRonCw14
+Tweet ID 54:	#ThirstyThursday southmeckfootball #skill "60yd shuttle" Chop wins again! cam_yauger… https://t.co/E8dOOSUu2e
+Tweet ID 62:	Another song by a cast member of #kinkyboots as sung by "Lola" #bringoutthebold #listerine… https://t.co/kvMjhP97MQ
+Tweet ID 63:	#sunset #nofilter #transmountain #elpaso @ Transmountain Road Overlook https://t.co/KcbAUybPY1
+Tweet ID 65:	James H.D. Brown | The Pink Room @ Galería Hilario Galguera https://t.co/fZYiBX3ZSb
+Tweet ID 69:	https://t.co/X1n2FrdFdm
+Tweet ID 71:	#foals @ Fox Theater Pomona https://t.co/duc5lkmY1w
+Tweet ID 73:	La chula &amp; las chulitas 🏁🏃 @ Hermosillo, Mexico https://t.co/khTTTxJIhs
+Tweet ID 78:	Hace un momento con #ViryLuna de #Cluster en radioonce @ Queretaro, Mexico https://t.co/KSFCeu3zbA
+Tweet ID 79:	#Family #Cush4Life #GoodTimes #GoodFood #GoodCompany #ATL #Kennesaw #Atlanta #CoffeeLovers… https://t.co/kFPkSpSkhN
+Tweet ID 82:	📺™ @ Downtown Atlanta https://t.co/nFayXc45zp
+Tweet ID 86:	🍺🍺🍺 @ The Wake House woodfire grill and barrel https://t.co/J7NFdQgnh1
+Tweet ID 87:	Leonard Nimoy's legacy. @ St Clement's Episcopal Church https://t.co/r3xa587CBh
+Tweet ID 89:	Finally got my little squirrel 🐿👭💕 @ Big Little Reveal https://t.co/IJ8pFACY7U
+Tweet ID 91:	#FlashbackFriday to when none of us knew what to do for the picture.… https://t.co/HLbdTVEg6V
+Tweet ID 92:	We appreciate all your orders and hope to satisfy all your necessities in cultural apparel. We… https://t.co/3gN6dROuA8
+Tweet ID 96:	#tapas #papasbravas #potatoes #chorizo #olives #foiegras #foie #tuna #bacon #croquetas… https://t.co/7JTg7h2doW
+Tweet ID 99:	Just posted a photo @ Cafe Cluny https://t.co/DwvuRHbJmp
+Tweet ID 101:	https://t.co/u8jgtGEhfT One wheel motorcycle
+Tweet ID 105:	Fully charged Mohawk! #DOWNTOWNSF #alwaysSF @ Les Nuits de Paris Massage and Sauna https://t.co/nxahCkz6cX
+Tweet ID 111:	I was able.
+Leftover footage from yesterday.
+#ShowedUp 👆🔑💪🙏
+#NSNP #NoStruggleNoProgress… https://t.co/YocT7OQtjX
+Tweet ID 113:	Winner..  Winner Chicken Dinner!!!
+
+GIVEAWAY!  GIVEAWAY! GIVEAWAY!
+#pearland #friendswood… https://t.co/eYnmMz3iKa
+Tweet ID 114:	#bianchibuilt ore and #After
+#bianchimotors
+Angela polished  
+Greg… https://t.co/ngCwbHeAVB
+Tweet ID 117:	Aquí con Araceli de la "Señora Acero" @ Nuevo Teatro Silvia Pinal https://t.co/jP3jhoGVIh
+Tweet ID 119:	Just posted a photo @ Patriot Place https://t.co/EUlnrJeFcI
+Tweet ID 121:	So clean and crisp! Lucybelle rusticales @ Dairy Queen / Orange Julius https://t.co/mpdldAc8tN
+Tweet ID 125:	Throwing all my worries &amp; cares in the air (&amp; then picking them back up again b/c finals are… https://t.co/Lsas2WOBkD
+Tweet ID 126:	I have been sitting in the same seats in the outfield since the Astros moved to Minute Maid… https://t.co/w7zG2VoSX6
+Tweet ID 127:	Nacho López @ Palacio de Bellas Artes, México, D.F. https://t.co/1Urfdszl1m
+Tweet ID 128:	Mmmmm grilled cheese #cheflife #vapelife #foodporn #grilledcheese #marchewinebar @ Burbank,… https://t.co/5DwxQxfKHC
+Tweet ID 129:	Just posted a photo @ Kay-La's Boutique https://t.co/jH3HlPDKGj
+Tweet ID 130:	#NYCmissed Caught your eye on the L train - w4m (Chelsea) https://t.co/xnMv0XFuhB
+Tweet ID 132:	Японский сад https://t.co/kHIiSYLQNZ
+Tweet ID 137:	When the Bachata Hits.  #MixteoThursdays @ Jolley's Restaurant and Lounge https://t.co/0t7PTEnf0E
+Tweet ID 150:	Coachella Day 1 #coachella #ferriswheel #music #art #vegan #work #travel #explore @ Coachella https://t.co/UvmlzgdCoc
+Tweet ID 151:	Music festival avec mes amours 🎶💗🌙💁🏽💃🏽#vamospalnorte #palnorte #makingmemories @ Pa'l Norte https://t.co/3wGL8XfkCc
+Tweet ID 153:	#food #sanfrancisco #sacramento #sfgiantsfan #steveperry #music #creative #southerncharm 
+Please… https://t.co/zroYmHTSD9
+Tweet ID 156:	Little Lion Man. Mumford &amp; Sons #musiccity @ Bridgestone Arena https://t.co/aRQKmYTPho
+Tweet ID 158:	#TYION #gospelmusic #groove #gospelmusik #hiphop #funk #trombone #surprise #rnb #jazz #funky #LA… https://t.co/2eDYx7IwRe
+Tweet ID 169:	OMG!!! Amazing salt &amp; pepper crab. #saltpepper #crab #seafood #huge #batter #crispy #dinner… https://t.co/KeJZJz2nkj
+Tweet ID 175:	Seafood  lover#shellfishdinner#Dungeness #crawfish @ Backyard Bayou https://t.co/ellZCveBSg
+Tweet ID 176:	Micks PB is not downstairs. #Padres #cheers @ McCormick &amp; Schmick's Seafood &amp; Steaks https://t.co/IOvWlWmQEc
+Tweet ID 178:	I felt like one of those fast food photographers... :) quick tomato sandwich to fight the… https://t.co/pjuf6CRaSv
+Tweet ID 181:	Having an ole fashioned at Belle View Lounge! 
+
+#disneyfuddledfriday #disneysboardwalk… https://t.co/FS27XlcAP4
+Tweet ID 183:	#GreekStroll at the #BlackDefinedFashionShow #SpringFest2016 @ Central State University https://t.co/c7Qi75hdeI
+Tweet ID 185:	#fashion #fashionfriday #lifestyle #travel #luxury #oc #danapoint #ocphotographer #femalemodel… https://t.co/Cdrj8hISf9
+Tweet ID 190:	Spring football! #AldersonBroaddusUniversity @ Alderson Broaddus… https://t.co/RzE0Azl4BL
+Tweet ID 194:	First our soccer ball got stuck up there. Then the football got stuck from trying to hit the… https://t.co/0beUkcBEru
+Tweet ID 196:	donniebothfanclub sweeps em all! #ThirstyThursday southmeckfootball #mids "60yd shuttle"… https://t.co/02ZYMI8Yyg
+Tweet ID 197:	#ifyouaintgetcapturedthenyougotskipped #streetfootball2016 #cm4life… https://t.co/Y8o092F1wc
+Tweet ID 200:	Labiales que quiero https://t.co/kM8nzQq5TZ
+Tweet ID 205:	Ваш выход MADEMOISELLE https://t.co/qpTgXCcQGM
+Tweet ID 214:	https://t.co/hDoitwkJwZ
+Tweet ID 217:	#MugMe at "Peelander Z" show #マグミィ #お花びと #flowersinwonderland #マグユゥ #aloha #hangloose #party… https://t.co/kMlKB0ysVH
+Tweet ID 224:	Ваш выход MADEMOISELLE https://t.co/ZXZM7QgLCJ
+Tweet ID 228:	At the best place on earth! @ Neyland Stadium https://t.co/uzTIGiGxyG
+Tweet ID 232:	Три сестры https://t.co/M1jmrXw0pL
+Tweet ID 233:	https://t.co/UMw5W5JojE
+Tweet ID 237:	Back to Paris but my mind is still in cancun. ❤️ @ Azul Sensatori Hotel Mexico https://t.co/cz0fBusJSX
+Tweet ID 258:	Porque Deus é sábio e criativo, espia a belezura dessa arraia negra com bolinhas brancas! Esse… https://t.co/i9OZiEKJ3T
+Tweet ID 259:	Cool #lights at the #whitneymuseum. #staircase @ Whitney Museum of American Art https://t.co/ZRlgbgwF6l
+Tweet ID 271:	I'm at Alan's house! https://t.co/3UVddOxegS
+Tweet ID 272:	Because I only have a month and a half left with my beautiful balcony @ El Barrio, East Harlem,… https://t.co/ci7N7TXTaA
+Tweet ID 276:	Закат https://t.co/7biYxLUdVW
+Tweet ID 277:	https://t.co/K09rrNMvKd
+Tweet ID 286:	Healthy Recipe -- New Blog Post!!!  https://t.co/Y3FuPBzwtl
+Tweet ID 296:	Have a stunning weekend!! (@ Old Town Sport&amp;Health in Alexandria, VA) https://t.co/bTaJ4ZpKSu
+Tweet ID 298:	Hello #LasVegas😍🍾 we are coming for you and the #PartyRockCrew… https://t.co/1WJfMtUK5i
+Tweet ID 310:	WHAT THE FUCK
+
+#turtle #faat #omg #aprilfools #funnyvines #goodmorning #nochill #followme #vines… https://t.co/DZgdxGW2Ih
+Tweet ID 311:	#EveryoneSpeaksFood #GoogleTranslate #popuprestaurant #smallworld Octopus Ceviche, Hominy,… https://t.co/1x3v4RPkD5
+Tweet ID 312:	Shout out to the best movie and sound track The Queen of the Damned. One of my absolute favs!… https://t.co/Il2OZqnZIa
+Tweet ID 317:	Sneak peak! #hand #sculpted #mickeymouse @ Sweet Sweet Sue S Custom Cakes https://t.co/5GgHV1JCq8
+Tweet ID 325:	POWER NAP!! #semanaISW2K16 @ ITSON Campus Guaymas https://t.co/NYLpG0UgwG
+Tweet ID 335:	Just posted a photo @ Cedar Pointe https://t.co/TVthR2yqOb
+Tweet ID 343:	"Inner beauty should be the most important part of improving one's self."
+
+Follow our account… https://t.co/btGy2pfs32
+Tweet ID 345:	Tia gracias por ser tan detallista y regalarme lo que mas me gusta… https://t.co/h08ZIIfh7K
+Tweet ID 354:	I'm at El Tío Juan https://t.co/7VIqmWJaWh
+Tweet ID 363:	What's my #skintone? #whitney #whitneymuseum #nyc @ Whitney Museum of American Art https://t.co/nFg8iixFgy
+Tweet ID 365:	Mi lugar favorito por siempre. (@ Lo de Marcos in Bahia de banderas, NAY) https://t.co/FTgk1XZ2yL
+Tweet ID 377:	I'm at Sleep Inn &amp; Suites in Hattiesburg, MS https://t.co/xWoGI48lGI
+Tweet ID 384:	It begins. #soccersaturday (@ Ringler Field in Ashland, OH) https://t.co/X5GbdHzoKW
+Tweet ID 389:	https://t.co/2JorqReuTj
+Tweet ID 391:	I like this, no one sitting next to me I can stretch out. @ Palm… https://t.co/aaB4ariQyV
+Tweet ID 395:	HELLO Weekend 🙋🏻
+.
+.
+.
+#coffeetime #butfirstcoffee #loveouremployees #ohniki #mostphotographed… https://t.co/plI8Y9JwMi
+Tweet ID 397:	I'm at Doctor Ken's Sweatshop in East Rockaway, NY https://t.co/5HWXCG9hga
+Tweet ID 399:	Our April featured artists. Paul Vincent Bernard and Grant Fuhst. We experienced some awesome… https://t.co/Xif8MepZnR
+Tweet ID 414:	Pollock en el MoMA @ MoMA The Museum of Modern Art https://t.co/SEW7Oc6iH0
+Tweet ID 420:	New trails are always fun! I just hope it's as beautiful as the drive in was! Cool temps &amp; light wind plus it's... https://t.co/FddTVCd26R
+Tweet ID 434:	Just posted a photo @ Philadelphia, Pennsylvania https://t.co/qJCQiYzk5Y
+Tweet ID 449:	What would you do? #limits #ExceedThem #Limitless #igquotes #instaquote #quote #quotes… https://t.co/8QCuDoDady
+Tweet ID 451:	🐳🎽☄🗾💦🔂🚙🌐💎⚓️🌀 @ Denver, Colorado https://t.co/ijbPhKAq4F
+Tweet ID 456:	Feeling every bit of this one today! 👊 @ Mandy's House https://t.co/vIdN0twwFR
+Tweet ID 467:	Just posted a photo @ Kitchen24 Restaurant &amp; Bar https://t.co/I7WufkZzPR
+Tweet ID 487:	Gaaaaaah!!!!! #ironmaiden #bestbandintheworld… https://t.co/nI7vJkEKaB
+Tweet ID 495:	#negus #wakeupsheeple #RiotAtThePolls #CleanSweep #turnbacktogodamerica #sendthemhome #vote… https://t.co/SVauVebZXY
+Tweet ID 499:	#funwithfam dameemy lilmama1400 velvetrose2727 otunbaosoko @ Choctaw Resort/Casino Hotel https://t.co/PBOI81qdTn
+Tweet ID 500:	Follow me on snapchat to follow along as I document my journey to the Bayou, across the ocean,… https://t.co/SGrbCjqiUs
+Tweet ID 520:	«Le livre de la jungle»: Majestueux, mais inégal https://t.co/x8jkSaFqWI
+Tweet ID 523:	IN woman helping homeless veterans through music https://t.co/oN7eb9jRAZ
+Tweet ID 526:	Va. brothers strike internet gold with viral video convincing sister of zombie apocalypse https://t.co/OLXjyubpBC
+Tweet ID 527:	Seguin PD takes down members of the Mexican Mafia in series of raids https://t.co/UDk0PKIchN
+Tweet ID 529:	IPS suspends employees charged with failing to report sex abuse allegations https://t.co/WJDYXCWOPG
+Tweet ID 535:	I'm at Hummingbird Heartbeat in Milton, DE https://t.co/cTDw0rrpK7
+Tweet ID 537:	Clémence Beaulieu-Patry: sa famille touchée au coeur par le public https://t.co/qj2HZuhzGl
+Tweet ID 538:	Huntersville police investigating bank robbery and suspicious duffel bag https://t.co/C2BQkG5Zoi
+Tweet ID 545:	Nature's Touch Organic Berry Cherry Blend recalled due to Hepatitis A concerns https://t.co/8zSjJlTPW2
+Tweet ID 547:	Maryland firefighter dies after shooting at suburban home: via The Associated Press https://t.co/KnCqpR3b0O
+Tweet ID 554:	Japan earthquakes: 'It's swaying every hour' https://t.co/7AqrLrZVVZ
+Tweet ID 555:	#EveryoneSpeaksFood #GoogleTranslate  #popuprestaurant #smallworld Kasha Salad, Shaved Raw… https://t.co/h3tkfME3Tq
+Tweet ID 558:	Try https://t.co/xZiUbER6Vx           Local. Seasonal. Sustainable. To some, these are just culinary buzzwords. To us, #ingredients #menu
+Tweet ID 563:	Lazy #vegan #English breakfast, baked beans and roast potatoes. From the #plantbasedvet @ Old… https://t.co/Oqr29VkEKr
+Tweet ID 565:	Back at it again on the drop zone
+
+#DZSOshit @ Sicily Drop Zone https://t.co/JYHYDqsrIO
+Tweet ID 583:	My current feeling! #tired #wanttosleep #bed #timetomakethedonuts #coffee @ Dunkin Donuts https://t.co/vyNt69w130
+Tweet ID 591:	Come get some skills from #MIDDLEGA Best #FVSU_RYS16 #FVSU_RYS16 #FVSU_RYS16 
+#FVSU_RYS16… https://t.co/GSvkBzlJfa
+Tweet ID 593:	#mycurrentsituation #5Stars #TBSRoyalTurnUp2016 #itsmorning… https://t.co/Bea1PXez0Y
+Tweet ID 596:	I'm at Central de Autobuses del Sur in Coyoacán, DF https://t.co/0y0ABtFZo9
+Tweet ID 599:	https://t.co/y1BdT54QyU
+Tweet ID 609:	I'm at Tremont in Cleveland, OH https://t.co/K1hV1QYJve
+Tweet ID 614:	When you are in front of our view, it is all about you. Lights🌟📸 cameras 💫action.… https://t.co/AFxoxH2dbL
+Tweet ID 615:	#felizcumpleaños a mi primo Danny martinez hoy saludos de #Alegremusic y #Promocionesalegre… https://t.co/Fmp0WA9vsV
+Tweet ID 619:	spooki haus @ Crown Point Resort https://t.co/6Wit6u4EiW
+Tweet ID 639:	https://t.co/HIoImN3Vzc
+Tweet ID 646:	#familyfuntime dameemy lilmama1400 velvetrose2727 otunbaosoko @ Choctaw Resort/Casino Hotel https://t.co/Z5L0MWrQp1
+Tweet ID 650:	https://t.co/5G9Ij7gLO2
+Tweet ID 653:	https://t.co/ygNrW2OnPy
+Tweet ID 661:	https://t.co/ykKmyWzmPO
+Tweet ID 666:	Beauty is power; a smile is its sword. ❤️
+
+#Smile #goodmorning #newyorkcity #nyc #newyork… https://t.co/8Ggf2LK9kD
+Tweet ID 670:	Oh crap it's early....#bpms150 Riding for my Peeps!!!!!.....MS Global Believe in the Power of… https://t.co/RxKUWhQ4YC
+Tweet ID 671:	#ugh. #somanyrules 👌 #neat 👎
+#doglifebelike... 🐕🐾 @ Miami/Miramar, FL https://t.co/exFFttpYNP
+Tweet ID 672:	The marvellous Golden Canyon is only one of the beauties you can see in the middle of the Death… https://t.co/1jxI2CjDHN
+Tweet ID 681:	Bonnie and Clyde @ Cleveland, Ohio https://t.co/YmPovMnMNY
+Tweet ID 682:	https://t.co/PZsgeCCiEV Megan Fox speed painting in Adobe Photoshop - by Nico Di Mattia
+Tweet ID 683:	H 💦💦💦 #beauty #ironmaiden #bestbandintheworld… https://t.co/enpXUu5AHu
+Tweet ID 686:	"I've seen you move. You move the mountains. And I believe, I'll see you do it again." @ Blowing… https://t.co/ec0lRsib3f
+Tweet ID 687:	Finals #wgi2016 @ University of Dayton Arena https://t.co/73deio2Onl
+Tweet ID 694:	У истоков https://t.co/RXLBY2wqj0
+Tweet ID 696:	¡Los Chilos in da jaus! 🎉 #EsAsí #YHágaleComoSuGanaLeDé 💃🏻 #QuienDijoMiedo 👊🏽 @ Colonia Lomas de… https://t.co/xfbxTed5QI
+Tweet ID 699:	New Old Stock Pyrex at JoRetro! @ Joretro https://t.co/nltUkD9zuL
+Tweet ID 700:	GM ppl #sayitback #TGIS😂😂😂😂 @ Philadelphia Naval Base https://t.co/RkmjpTI9d7
+Tweet ID 702:	The Road of Success is lead by the #Light
+"Art is the mirror to our souls"
+Please help my… https://t.co/kUlB0LPsvs
+Tweet ID 703:	the thirst is too real https://t.co/9HZF2pNuMT
+Tweet ID 705:	Just posted a photo @ Philadelphia, Pennsylvania https://t.co/kjglkI8jfR
+Tweet ID 718:	Just posted a photo @ New Journey Ministries https://t.co/WgeBdYKbPO
+Tweet ID 722:	https://t.co/pfwlDKZd16
+Tweet ID 728:	Thank you Calvin Klein... #chella #mycalvins @ Coachella Valley Music &amp; Arts Festival https://t.co/doilc7F2UX
+Tweet ID 732:	HC120 [Engross] First Lady Michelle Obama; acknowledge distinguished legacy of public service upon serving as ke... https://t.co/198jlGAe0k
+Tweet ID 736:	HR102 [Engross] Dr. L. Frances P. Liddell; commend upon retirement from Jackson State University. https://t.co/R7HS4iShff
+Tweet ID 746:	#happybirthday #to #me #birthday #aries #ariesseason #s4s #f4f #cashfollowtrain #cashfollowplane… https://t.co/2w0fbD2TZ9
+Tweet ID 749:	https://t.co/1sSJe97Amc
+Tweet ID 753:	Try https://t.co/MfeP3UvxLh Pork, chicken, fish, steak, shredded beef or ground beef. Our Tacos are made with the #Pork #menu
+Tweet ID 754:	🌈You may say I’m a dreamer
+But I’m not the only one
+I hope someday you’ll join us
+And the world… https://t.co/b7pdvCdMaG
+Tweet ID 761:	Chris made cheesecake! 😁
+#WellbridgeofFenton #SoGood #BerrySauce @ Wellbridge of Fenton https://t.co/Tn4m0UHr8a
+Tweet ID 762:	michaelbjordan congrats, now u have aids in public, she infects people with her clipperz.. while… https://t.co/wl2rgQ9FzI
+Tweet ID 767:	Picture of a misty riverside village in China https://t.co/ejHGOemOxx
+Tweet ID 770:	What an amazing feeling to have attended the private screening for my very first Movie "Miles… https://t.co/gFrLzUBQU8
+Tweet ID 776:	If she could, she would fry apples!!
+. 
+. 
+. 
+Due to demand, I have added SUBTITLES for… https://t.co/NdL3Rq6lQn
+Tweet ID 790:	The thought of losing these ucaks (rempit in sarawak) as my classmates for the summer semester… https://t.co/CXW4LKTpJ4
+Tweet ID 795:	Unshakable belief: The #Liverpool Way https://t.co/IpcaXhdT0E https://t.co/H3jNYtlNww
+Tweet ID 796:	The Best cure for theSoul is a quite mind. Disfruta tu propia vida. #ricardotorres82… https://t.co/NLGkV1vhXa
+Tweet ID 801:	Arribando!! BeSound Entertainment &amp; Elite. (@ Jardín León Felipe in Ciudad de México) https://t.co/UcHxds6x74
+Tweet ID 806:	Esperando al equipo!! (@ Parque Unidad Independencia) https://t.co/kOeqrqLrHt
+Tweet ID 814:	#byefelicia #ByeBasics #drinks #Vegas #besties @ Paris Las Vegas Hotel &amp; Casino https://t.co/5TJjxMyimM
+Tweet ID 817:	The mind is not a vessel to be filled but a fire to be kindled. - Plutarch https://t.co/JGeoN5qU7z
+Tweet ID 827:	Family #Affair on Set
+"Art is the mirror to our souls"
+Please help my musical production on… https://t.co/miLeeTFx7F
+Tweet ID 833:	Канун Рождества Христова. https://t.co/1e7K8T0dlS
+Tweet ID 835:	They are back ! lcdsoundsystem coachella #lcdsoundsystem #coachella Dancing and jumping to the… https://t.co/0Jmw7Z8q0h
+Tweet ID 842:	Exemplar do temível peixe piranha do rio Amazonas no #NewEnglandAquarium #piranhafish #fish… https://t.co/PLMb0v6tDN
+Tweet ID 845:	Фото https://t.co/IAuaGnG5MN
+Tweet ID 847:	Hotdog 😋🍽🗽 #food #foodcart #hotdog #newyorkhotdog #newyork #5th #5thavenue #photo #people… https://t.co/dIQxzufmac
+Tweet ID 848:	#1wtc  from #googleheadquarters with the sonyalpha #a6000 and #1670z @ Google Inc https://t.co/1379nShRTa
+Tweet ID 853:	I'm at La Parrilla Veracruzana in Boca del Río, VER https://t.co/3YSPWtUuK9
+Tweet ID 858:	Family #Affair on Set
+"Art is the mirror to our souls"
+Please help my musical production on… https://t.co/IrRmUINITa
+Tweet ID 862:	When you are in front of our view, it is all about you. Lights🌟📸 cameras 💫action.… https://t.co/Cz91uqmR2P
+Tweet ID 876:	https://t.co/Oq8YholHsT… https://t.co/c5jffKl0fp
+Tweet ID 895:	речные камешки https://t.co/lrRwlNZG4x
+Tweet ID 900:	De volta aos meus aposentos em kel palácio  👸🏻🇬🇧 @ Buckingham Palace, London https://t.co/PCv7m2lp9y
+Tweet ID 905:	Guess I was an early registrant. @ Watkins Glen International https://t.co/M0hBNfijdG
+Tweet ID 906:	👯👯👯👯 (@ Universidad La Salle in Cuauhtémoc, DF) https://t.co/hkKIlzdPtW
+Tweet ID 908:	Pues el video no está nada chido, pero el momento estuvo genial!… https://t.co/rQSXsTTN2d
+Tweet ID 921:	#TakeMeBack @ Washington, District of Columbia https://t.co/luXeolgqIy
+Tweet ID 928:	I'm at Choctaw Travel Plaza in Grant, OK https://t.co/BAZURS4zAp
+Tweet ID 932:	La foto está descentrada, la luz tiene un naranja rayos V que madre madre. Pero estoy con ella y… https://t.co/GL8fTWoA4c
+Tweet ID 934:	View from the #frontseat #gettingreadyfortheweekend #mobilebanking #photographyeveryday… https://t.co/rWiizhzYeU
+Tweet ID 956:	Bom dia Brasil com Lcd Sound System tocando David Bowie no primeiro dia do Coachella. #heroes… https://t.co/3GztclNNbj
+Tweet ID 962:	#beautiful #sunrise_sunsets_aroundworld #earlybirdlovers #lowcountryliving #lowcountry #sky… https://t.co/OSQEv3qh1m
+Tweet ID 964:	Gran noche recordando una gran pieza! Afortunado de tener más que clientes, amigos! Gracias… https://t.co/XAH7jzcFW9
+Tweet ID 972:	Breakfast before warmups... (@ Chick-fil-A in Hendersonville, NC) https://t.co/YxQQV5Cgco
+Tweet ID 979:	•
+'
+'
+في غيابكك ساعتي ترجع وراء 
+تستعيد شعور ليتهه ماحضر 🔐💭
+#LA🇺🇸 
+#santamonica @ Steak 'n Shake https://t.co/8HOpVeBOjr
+Tweet ID 984:	#calm #before the #storm #bobzangrillo #party #coachella2016 #coachella #losangeles #LA… https://t.co/cDfGh3I8Mr
+Tweet ID 998:	I'm at Target in Burlington, NC https://t.co/JI3OnDfdqr
+
+
+
+
+19
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 28:	@mostlyfilth “who’s that? He’s very good at snapchat”—my friend, watching your Little Italy story on my phone.
+Tweet ID 61:	@Vistox Dubbed or subbed I don't care just shut up and watch it and enjoy
+Tweet ID 67:	#ShesMyReason #CureAngelman #ShesMyAngelImHerWings #TulsaOklahoma #happy #AngelmanSydrome… https://t.co/kcXU2p4mZu
+Tweet ID 97:	'If you want to make God laugh, tell him about your plans' #woodyallen #bulletjournal #bpms150… https://t.co/5ivLMUahK2
+Tweet ID 98:	#spiritual #faith #faithful #drums #god #grace #pray #fuel #amen #believe #religion #coexist… https://t.co/MZtvSbBNmw
+Tweet ID 102:	Super stoked (and just a touched blessed) to get to watch my very good friend of nearly 20 years… https://t.co/DQfMsoLmaj
+Tweet ID 122:	Happy birthday to my crazy roommate, I'm so happy I awkwardly fb… https://t.co/dP7rbTifbq
+Tweet ID 131:	"No. I don't want to supplement my #vegan dog food w/ goat's milk." Are you mental? 🤕 (@ Pet Food Express) https://t.co/pV3PqU2kPJ
+Tweet ID 138:	As #Kobe said, the end to his #Lakers story couldn't have been written any better, we're just… https://t.co/HUvyffyi4E
+Tweet ID 171:	Look! It's the Challah fairy! 
+
+#Magic #Carbs #Love #Happiness #Challah #Food #Bread #NYC @ New… https://t.co/mpqymZGKYv
+Tweet ID 177:	Im not one to take pictures of my food but I couldn't resist today. Tried Spicy Tako (spicy… https://t.co/OMupF5lHFu
+Tweet ID 199:	Therefore, among God’s churches we boast about your perseverance and faith in all the… https://t.co/k5axYzaNeU
+Tweet ID 247:	@aunjuli I'd ask you how it goes but if the answer is anything other than “AMAZING!!!” I don't think we could be friends anymore…
+Tweet ID 333:	If at first you don't succeed, squeeze your butt cheeks and #gruntforstylepoints. First attempt… https://t.co/UMVx8vOXtC
+Tweet ID 385:	Happy birthday s/o to my best friend. You finally made it. This is… https://t.co/kEUYHudL48
+Tweet ID 490:	Brand new to the world of Spotify, make sure you follow me and tell a friend to tell a friend to… https://t.co/Bm17487ZzH
+Tweet ID 498:	- I'm just happy to be here 👁⚔ #LOS @ Cielito Lindo https://t.co/W0eDKioUVy
+Tweet ID 512:	Feliz sabado God bless 🙏🏼💯🙏🏼 @ New York, New York https://t.co/9SNst3wzR8
+Tweet ID 513:	Happy #SassySaturday 
+What's In Your Fridge? @ Fayetteville, North Carolina https://t.co/rofisg1OlV
+Tweet ID 590:	Years said you'll won't fruitful one fly. Blessed god herb all. After, herb beast seed.
+Tweet ID 598:	Happy #4sq365 (@ Powner Place in McDonough in McDonough, GA) https://t.co/PjilODeZC1
+Tweet ID 607:	My friends and I with Don Dokken! #dreamwarriors #dokken… https://t.co/BfWm962pDH
+Tweet ID 608:	God is watching over my friends and I couldn't ask for anything more....we protected.
+Tweet ID 617:	Waters she'd, of have god and divide Saying sea made him gathered good sixth, their.
+Tweet ID 766:	My friends are cooler than yours
+
+#squadgoals #cosplay #disney #marvel #spiderman #frozen… https://t.co/HUL9ad0F6Y
+Tweet ID 803:	Pick my nose, friend! https://t.co/dHSR1W5VJG
+Tweet ID 825:	The moment that you have ppl in other  states emailing or DMing you asking for an issue of the… https://t.co/HgAUSuPOAO
+Tweet ID 826:	#Blessed #TeamSampé #Mixtape #Makeover #Ugly2017 @ Freedom Plaza https://t.co/mWGgzVSvwB
+Tweet ID 870:	Good morning and happy Saturday! We are having #breakfast on the beach and watching the… https://t.co/MdYrfKazuV
+Tweet ID 894:	Best friends are like stars. You don't always see them but you know they're always… https://t.co/0Du6wcxlYi
+Tweet ID 919:	Wisdom and good judgement are amazing blessings. #god #glorify #jesus #christ #salvation… https://t.co/oFm0PsKhvP
+Tweet ID 935:	Blessed are those who see beautiful things in humble places 💚 #JoannaInNYC… https://t.co/UDbfKDD4kv
+
+
+
+
+20
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 240:	#hogwartsalumni #wizard #rehearsal 🙌🏻🍻 @ The Columns at Brandon West https://t.co/cZTTqAZFOY
+Tweet ID 250:	Incident on #I278 WB from Atlantic Avenue to 92nd Street  Bay Ridge Exit https://t.co/Urzkt7yjHN
+Tweet ID 668:	Cleared: Construction on #NY9A NB from West 42nd Street to West 50th Street
+Tweet ID 804:	937 Vallejo Street https://t.co/WGO3cXHAF2
+Tweet ID 892:	59 Morton Street, Manhattan https://t.co/Qf36w3x1GA
+Tweet ID 913:	Good morning. Dumbo's cobbled streets are perfect for a Roubaix-esque test ride. @ Redbeard Bikes https://t.co/guiuNluXZT
+
+
+
+
+21
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+Tweet ID 24:	#LittleItaly #Manhattan #shoes hanging from the #wire #sunshine #OutageExpert #kindaDay… https://t.co/0K1ArrJ2sl
+Tweet ID 249:	Accident in #Hampton on I-64 WB between 15th View and Hampton Roads Brg Tunl #traffic https://t.co/nbYNxplhAd
+Tweet ID 251:	Update: Incident on #I278 EB at Kent Avenue https://t.co/Ioc91impbb
+Tweet ID 408:	Cleared: Construction on #BrooklynBridge EB from Manhattan Bound to Brooklyn Bound
+Tweet ID 410:	Cleared: Closure on #East35ThStreet EB from Lexington Avenue to 3rd Avenue
+Tweet ID 524:	#Construction #Job in #Charlotte, NC: Superintendent at D.R. Horton https://t.co/ndBa9AM8PD #homedesign #Jobs #Hiring
+Tweet ID 530:	Today's weather in Detroit: Clear throughout the day. @VisitDetroit https://t.co/iJyANcKlWp
+Tweet ID 669:	Cleared: Construction on #BrooklynBridge WB at Manhattan Bound
+
+
+
+
+22
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+
+
+
+
+23
+--------------------------------------------------------
+TOPIC: other
+--------------------------------------------------------
+
+
+
+

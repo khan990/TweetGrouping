@@ -1,0 +1,1212 @@
+time to transformation 736144.05:40:46.4676913
+time to Normalization 736144.05:40:46.5368699
+time to Training 736144.05:40:52.0471637
+time to Testing/clustering 736144.05:40:52.0667104
+
+
+
+
+
+
+-------------------------------
+TOPIC: WEATHER
+-------------------------------
+Training_Tweet:	Wind 0.0 mph ---. Barometer 30.109 in, Steady. Temperature 43.7 °F. Rain today 0.00 in. Humidity 55%
+Training_Tweet:	Wind 1.0 mph NE. Barometer 30.297 in, Rising slowly. Temperature 46.8 °F. Rain today 0.00 in. Humidity 71%
+Training_Tweet:	Wind 0.0 mph ---. Barometer 30.113 in, Steady. Temperature 43.5 °F. Rain today 0.00 in. Humidity 59%
+Training_Tweet:	Wind 0.0 mph ---. Barometer 30.116 in, Falling. Temperature 43.0 °F. Rain today 0.00 in. Humidity 59%
+Training_Tweet:	Wind 0.2 mph N. Barometer 30.17 in, Rising slowly. Temperature 54.9 °F. Rain today 0.00 in. Humidity 73%
+Training_Tweet:	Wind 0.0 mph WSW. Barometer 30.132 in, Falling. Temperature 43.7 °F. Rain today 0.00 in. Humidity 56%
+Training_Tweet:	Wind 0.1 mph N. Barometer 30.14 in, Rising slowly. Temperature 56.5 °F. Rain today 0.00 in. Humidity 71%
+Training_Tweet:	Wind 2.2 mph NNE. Barometer 30.04 in, Rising slowly. Temperature 40.6 °F. Rain today 0.00 in. Humidity 99%
+Training_Tweet:	Wind 1.0 mph NNW. Barometer 30.141 in, Rising. Temperature 54.4 °F. Rain today 0.01 in. Humidity 33%
+Training_Tweet:	APARTMENT OF THE FUTURE PROJECT. Now music/visualizer driven.… https://t.co/8BBEmgxxP0
+Test_Tweet:	Wind 12.8 mph E. Barometer 29.817 in, Falling slowly. Temperature 61.4 °F. Rain today 0.00 in. Humidity 91%
+Test_Tweet:	Wind 0.0 mph ---. Barometer 30.120 in, Falling. Temperature 43.8 °F. Rain today 0.00 in. Humidity 58%
+Test_Tweet:	Wind 0.0 mph ---. Barometer 30.488 in, Steady. Temperature 28.0 °F. Rain today 0.00 in. Humidity 80%
+Test_Tweet:	Wind 14.5 km/h ENE. Barometer 1025.98 hPa, Falling slowly. Temperature 6.7 °C. Rain today 0.0 mm. Humidity 63%
+Test_Tweet:	Wind 0.0 mph WSW. Barometer 30.155 in, Rising. Temperature 48.7 °F. Rain today 0.01 in. Humidity 42%
+Test_Tweet:	Wind 0.7 mph E. Barometer 29.90 in, Rising. Temperature 61.5 °F. Rain today 0.00 in. Humidity 28%
+Test_Tweet:	Wind 0.0 km/h S. Barometer 999.3 mb, Falling slowly. Temperature 22.0 °C. Rain today 0.0 mm. Humidity 94%
+Test_Tweet:	Wind 1.0 mph ESE. Barometer 29.837 in, Steady. Temperature 71.5 °F. Rain today 0.00 in. Humidity 42%
+Test_Tweet:	Wind 0 mph SE. Barometer 29.92 in, Falling slowly. Temperature 70.0 °F. Rain today 0.00 in. Humidity 99%
+Test_Tweet:	Came for the good vibes and great music😎🎶 Stayed for the fruit cup… https://t.co/hfHgJJJWKv
+Test_Tweet:	Blank spots are peppers and rosemary, which are normally slower. Tons of tiny #basil in 3… https://t.co/fbMGqpJG4Z
+Test_Tweet:	Come get your weekend started off right with us!! #addictedtofitness #fitness #workout #health… https://t.co/DX6N75Ncv1
+Test_Tweet:	My artist at @thegallery_hbco for the month is @chazwellz. He's our first #abstract #artist… https://t.co/dQv5Q35PND
+Test_Tweet:	Can you recommend anyone for this #Nursing #job? https://t.co/5xGt9RoiSu #TravelNurse #NurseLife #Gulfport, MS https://t.co/6ZlNEVjGEd
+Test_Tweet:	We are here and somehow we are awake!  Hanging out at belle_patri until 5!  So many sales we… https://t.co/vivjuoLmBk
+Test_Tweet:	See our latest #Detroit, MI #job and click to apply: SAN Engineer - https://t.co/T1QyhYQH6X #IT #Hiring https://t.co/rnzfbQXFeZ
+Test_Tweet:	4/16/16 workout
+
+Weightlifting: 12 minutes every 2 minutes  
+1 clean, 
+1 hang, 
+1 front squat,… https://t.co/cupDQWuIBH
+Test_Tweet:	Healthy Recipe -- New Blog Post!!!  https://t.co/Y3FuPBzwtl
+Test_Tweet:	Happy Saturday morning 😊 Living in Love ❤ https://t.co/vXRE5LrtR1
+Test_Tweet:	Headed to graveyard in harvard sq to panhandle look for stupid broke ugly sign thanks
+Test_Tweet:	If you're a #Nursing professional in #FallsChurch, VA, check out this #job: https://t.co/4pvcui8YdC #Hiring https://t.co/wy8LDu55fO
+Test_Tweet:	Pollock en el MoMA @ MoMA The Museum of Modern Art https://t.co/SEW7Oc6iH0
+Test_Tweet:	Time for 6 mile warm up ! (at @CharmCityRun in Baltimore, MD) https://t.co/XSELdkGDea
+Test_Tweet:	We did it!! 💪 #cntowerstairclimb @ CN Tower / La Tour CN https://t.co/xACvWiIwRX
+Test_Tweet:	#morningrun #grind #nofilter @ Wild Dunes Resort - Isle Of Palms, SC https://t.co/Ld9zwNynCW
+Test_Tweet:	Join the SunPower team! See our latest #internship #job opening here: https://t.co/7QcU3ZQC3I #Richmond, CA #Hiring https://t.co/oSIgQyg5qR
+Test_Tweet:	#nowyouknow @ Dallas Marriott Las Colinas https://t.co/tEf8oWhS99
+Test_Tweet:	Can you recommend anyone for this #IT #job? https://t.co/ioxvTpKZ9m #Bridgewater, NJ #Hiring
+Test_Tweet:	The ride home!! @ Newport Dog Beach https://t.co/TEZDhZR7S2
+
+
+
+-------------------------------
+TOPIC: MUSIC
+-------------------------------
+Training_Tweet:	It's BuzzFest day 🎉🎉🎉 #alldaymusicdate #musicisourlovelanguage #soexcited #buzzfestXXXV… https://t.co/3drMbj7FBR
+Training_Tweet:	Let's pretend I'm at Coachella listening to awesome music with my amazing friends ❣… https://t.co/mCIooXO3Dj
+Training_Tweet:	Philly was a wild night!l We're shippin' up to Boston!! @skrizzlyadams + @lissiemusic… https://t.co/B5RUyxaIKF
+Training_Tweet:	Family #Affair on #Set
+"Art is the mirror to our souls"
+Please help my musical production on… https://t.co/7AJtVlM9Td
+Training_Tweet:	Vivir es Increíble!!! 😎✌🏻️ #palnorte2016 #monterrey #musicfestival… https://t.co/SvjMatL50W
+Training_Tweet:	Can't believe this was one year ago 😩 hozier miafitzmusic #hoizer #worksong #sanfrancisco… https://t.co/kNnlvZT3yX
+Training_Tweet:	Just posted a photo @ Coachella Music and Arts Festival https://t.co/2ZfylXSgfy
+Training_Tweet:	GOOD NIGHT COACHELLA! Live tour on my laptop! WAKE UP WITH MUSIC!
+
+Моё утро началось не с улыбок… https://t.co/6ENbdCBGNE
+Training_Tweet:	In music festival news, I’ve only seen one guy wearing one of those animal hats with dangly ear-pockets. It’s a new era. #coachella
+Training_Tweet:	I'm at Little Italy Garage in Baltimore, MD https://t.co/mEngALVQFS
+Test_Tweet:	Coachella Day 1 #coachella #ferriswheel #music #art #vegan #work #travel #explore @ Coachella https://t.co/UvmlzgdCoc
+Test_Tweet:	Music festival avec mes amours 🎶💗🌙💁🏽💃🏽#vamospalnorte #palnorte #makingmemories @ Pa'l Norte https://t.co/3wGL8XfkCc
+Test_Tweet:	#DM3 was absolutely insane. @ki_gina &amp; I as @krimsonicemusic killed it! Cannot wait to do that… https://t.co/qN8R2dbk4b
+Test_Tweet:	#food #sanfrancisco #sacramento #sfgiantsfan #steveperry #music #creative #southerncharm 
+Please… https://t.co/zroYmHTSD9
+Test_Tweet:	Troybanks . A Man.  A Brand.  A Movement.
+
+Bred in Kansas City, with a grand vision for music,… https://t.co/vIephiA6o0
+Test_Tweet:	Great day for music 👽
+
+- @itsnghtmre 🎶
+
+- @thenumberfest 📡 @ 14 Fest https://t.co/FBtetaIXT6
+Test_Tweet:	Little Lion Man. Mumford &amp; Sons #musiccity @ Bridgestone Arena https://t.co/aRQKmYTPho
+Test_Tweet:	We back at it this and every Friday!! #FeteFridays @unique_wonders 11p-4a Music By @djnotnice876… https://t.co/TbgGdv4VFE
+Test_Tweet:	#TYION #gospelmusic #groove #gospelmusik #hiphop #funk #trombone #surprise #rnb #jazz #funky #LA… https://t.co/2eDYx7IwRe
+Test_Tweet:	Seating now available in the Bronx. @ Bronx Little Italy https://t.co/hNJHUcVY4v
+Test_Tweet:	Record store day (@ seasick records in Birmingham, AL) https://t.co/HImhsctpgn
+Test_Tweet:	Onwards and upwards to round 2! 💫 #GoPack #ACC #greensboro #sedgefield #april #usa #2016… https://t.co/yavdShJQ00
+Test_Tweet:	Welcome to Day 97 of Confidence in Love 2016💋
+Happy Blessed Saturday 
+#Positivity #positivevibes… https://t.co/SXxcop3HeG
+Test_Tweet:	I'm at Target in Burlington, NC https://t.co/JI3OnDfdqr
+
+
+
+-------------------------------
+TOPIC: ITALY
+-------------------------------
+Training_Tweet:	Kobe may have been born in Italy, may have spent the past 20 years in SoCal, but the base of him… https://t.co/s3zJeVKPLI
+Training_Tweet:	So THAT'S what a #cannoli is supposed to taste like. If I lived in Italy I'd be 200 lbs.… https://t.co/fCrO74VSEx
+Training_Tweet:	Awesome repurposed flower arrangements at #urbanorchid #urbanorchidlittleitaly 75.00 each… https://t.co/BZypyvsla4
+Training_Tweet:	Love!!! #urbanorchid #urbanorchidlittleitaly @ Urban Orchid https://t.co/NkI2MsDOLN
+Training_Tweet:	#LittleItaly #Manhattan #shoes hanging from the #wire #sunshine #OutageExpert #kindaDay… https://t.co/0K1ArrJ2sl
+Training_Tweet:	Want to work in #Italy, TX? View our latest opening: https://t.co/RGShQK7YPS #Retail #Job #Jobs #Hiring #CareerArc
+Training_Tweet:	New artisan-crafted candles from Italy. #psychiceye #candlemagick #phrenology #palmistry #art @… https://t.co/A0cq9aIO5H
+Training_Tweet:	Loving this coach life. Sitting outside an Italian cafe in little Italy with a teammate I met… https://t.co/WupE8jayNK
+Training_Tweet:	@mostlyfilth “who’s that? He’s very good at snapchat”—my friend, watching your Little Italy story on my phone.
+Training_Tweet:	New Day Washington's Folly Cherry Mead on tap #foodfrothfollies @ Floyd County Brewing Company https://t.co/5m2FHfVueV
+Test_Tweet:	Travel Thursday: Milano in Spring 🌸 Where do you want to travel to? #travel #Italy… https://t.co/SHXZt4grmu
+Test_Tweet:	made in Italy @ Av. Presidente Masaryk https://t.co/Gt2ZCpw562
+Test_Tweet:	Dinner for 2. 🍝🍆 _the_supreme_court_ @ Maggiano's Little Italy Austin https://t.co/wRo8pzw0Vv
+Test_Tweet:	#deltoro #madeinItaly #ASPCA Gala ready https://t.co/gGKLxJg3Zr ( bespoke@deltoroshoes.com ) @… https://t.co/1Pr8E7kCXp
+Test_Tweet:	lunch in little Italy with my little Lauren🌃 @ Casa Bella, Little Italy https://t.co/S9iF3Pv3ke
+Test_Tweet:	Thanks for the meatballs dm92660! Stop by before 9 and enjoy the tastes of Italy. Come quick… https://t.co/mxwLOJQeh8
+Test_Tweet:	Amo este lugar !!!! #LittleItaly (@ Little Italy in San Diego, CA) https://t.co/mg4oGBZbrA
+Test_Tweet:	Surprise birthday dinner for Cousin Colette 😊 @ Maggiano's Little Italy Springfield https://t.co/yAsvNQu3PC
+Test_Tweet:	friday nights @ Little Italy District, NYC https://t.co/wR4OGio7EM
+Test_Tweet:	OMG!!! Amazing salt &amp; pepper crab. #saltpepper #crab #seafood #huge #batter #crispy #dinner… https://t.co/KeJZJz2nkj
+Test_Tweet:	We're #hiring! Click to apply: Rad Tech II - https://t.co/dfyakhDRVq #MedField #NorCal #ScrubLife #Monterey, CA https://t.co/iTZfgYIELg
+Test_Tweet:	I'm at High Rise in Gentilly Woods, LA https://t.co/PhKVTQ4CKq
+Test_Tweet:	2 #artists items in our #silentauction to raise money for #stjohnsriver. Event on #April24… https://t.co/dNtim7aewr
+
+
+
+-------------------------------
+TOPIC: FOOD
+-------------------------------
+Training_Tweet:	Come say hi to the @theavettbros food truck at @roughtradenyc! #AvettTrueSadness @ Rough Trade NYC https://t.co/lGlGAQbJLg
+Training_Tweet:	8pm showtime at the Elks. Music, Food, Drink. It's time to #netflixandphil #PHorty @ Elks Club #649 https://t.co/jCUQpWOoK0
+Training_Tweet:	baecation. @ Atlanta Food Truck Festival https://t.co/96UC0wx4SG
+Training_Tweet:	My best. #abbey #dance #house #edm #love #myfriend @ The Abbey Food &amp; Bar | West Hollywood https://t.co/2GPnX8REX8
+Training_Tweet:	#food #beyourself #destiny #lifepurpose #divinepath #dreams #encouragement #angelactroutt @… https://t.co/EixfXoF02J
+Training_Tweet:	Delicious food shared over delicious conversation with a delicious person. 👧🏽👧🏽💜👯 🍆🍠🍣🍱 Thanks… https://t.co/oRuuG8nmW4
+Training_Tweet:	Wow this line is krazy for some hamburgers at in n out! #food #foodporn #lunch #line #wow… https://t.co/M3lqtAymsE
+Training_Tweet:	Champers courtesy of our tablemates at St. Genevieve. #champagne #stgenevieve #MplsFoodie… https://t.co/6TXSnNgrWs
+Training_Tweet:	Because dinner, and there's less food than normal at home. (@ Stone Brewing Co. in San Diego, CA) https://t.co/3e5Kdha5tu
+Training_Tweet:	@MrsThomasKnoell Couture Headpieces and Jewelry. #bridalfashionweek #wedding #jewelry… https://t.co/TmvP5bYwZ8
+Test_Tweet:	Waiting in the car for makers mark to open, so that we can serve 4,000 people! #foodtruck… https://t.co/K5iNB8Wa2H
+Test_Tweet:	Look! It's the Challah fairy! 
+
+#Magic #Carbs #Love #Happiness #Challah #Food #Bread #NYC @ New… https://t.co/mpqymZGKYv
+Test_Tweet:	Finishing off the night #chilling #italiansdontforgive #italian #foodie @ Little Dom's https://t.co/RMAjtE8Qsp
+Test_Tweet:	Delivery Driver - $2000 Sign-on Bonus - Performance Food Group: (#Montgomery, Illinois) https://t.co/01kBSuunMb #Transportation #driver #Job
+Test_Tweet:	Happy Birthday Momma ❤️ super good dinner at the Flying Pig. The food was incredible. @ Flying… https://t.co/jTvSQQYH3d
+Test_Tweet:	Seafood  lover#shellfishdinner#Dungeness #crawfish @ Backyard Bayou https://t.co/ellZCveBSg
+Test_Tweet:	Micks PB is not downstairs. #Padres #cheers @ McCormick &amp; Schmick's Seafood &amp; Steaks https://t.co/IOvWlWmQEc
+Test_Tweet:	Im not one to take pictures of my food but I couldn't resist today. Tried Spicy Tako (spicy… https://t.co/OMupF5lHFu
+Test_Tweet:	I felt like one of those fast food photographers... :) quick tomato sandwich to fight the… https://t.co/pjuf6CRaSv
+Test_Tweet:	@TeamDOE16 styled by Brandon.
+
+#FashionWardrobeStylist #BKMfashion #StyleMeBrandon #iStyle… https://t.co/wLv1BIO9LT
+Test_Tweet:	@KyuubiPup *gently massages pup's ears* Oh gosh, I'm sorry to hear you're under the weather, pup! Paws crossed for a speedy recovery. 🐶👍💉💊
+
+
+
+-------------------------------
+TOPIC: FASHION
+-------------------------------
+Training_Tweet:	Fashion night out with #annawintour at LA premiere of documentary #firstmondayinmay re… https://t.co/oq3D7CpMNI
+Training_Tweet:	doing a fun fashion show &amp; trunk viewing soirée with Nadia Mohajeri and her line… https://t.co/gdzFll0lbx
+Training_Tweet:	Bocce ball anyone? 
+#independentrecordlabel #fly #likeforlike #indie #vinylrecords #fashionista… https://t.co/cNwe4w0pFm
+Training_Tweet:	Spotted my customer at @leyancargi  fashion show rockin #synshafashions #fashionshow… https://t.co/eaBRK85bym
+Training_Tweet:	Just posted a photo @ L.A. Fashion District https://t.co/C1yrlofJwd
+Training_Tweet:	#BlackDefinedFashionShow #SpringFest2016 beyonce #Formation #Slayish @ Central State University https://t.co/LW8CX6rrCy
+Training_Tweet:	Heineken presenta al diseñador Ricardo Seco #MBFWMX #FW16 @heineken_mx @ The Fashion Lab https://t.co/FcbKxHIUFj
+Training_Tweet:	Preview... #fashion #photoshoot @gagakenya #makeup #modeling Ailin #torreon #photographer  #trc… https://t.co/ftxeUTUU92
+Training_Tweet:	87 4th Avenue, Brooklyn, New York.  Live shows in full effect! Music, fashion runway, African… https://t.co/4JPKu6lqj1
+Training_Tweet:	Time to go back up... Breakfast and football ... Coming up!!… https://t.co/G3ctp0j7ZV
+Test_Tweet:	Stylish gifts sure to make Mom's day. Shop Amazon Fashion - Mother's Day Shop https://t.co/fqTdxAob1t
+Test_Tweet:	Having an ole fashioned at Belle View Lounge! 
+
+#disneyfuddledfriday #disneysboardwalk… https://t.co/FS27XlcAP4
+Test_Tweet:	Sac Fashion Week 2016 @sacfashionweek Designer: Rachel Lewis GoldMark Couture goldmark_couture,… https://t.co/rtRfblfCeH
+Test_Tweet:	#GreekStroll at the #BlackDefinedFashionShow #SpringFest2016 @ Central State University https://t.co/c7Qi75hdeI
+Test_Tweet:	How was your day?
+
+#fridayfunday #familylife #fashionkilla… https://t.co/G5a8UEsXLz
+Test_Tweet:	#fashion #fashionfriday #lifestyle #travel #luxury #oc #danapoint #ocphotographer #femalemodel… https://t.co/Cdrj8hISf9
+Test_Tweet:	Loved this #toronto collection at #fat2016 #fashion #local @ Daniels Spectrum https://t.co/eCNYrDlzrN
+Test_Tweet:	Save the Egyptian King for last. Major s/o to DP for the epic design. 👑
+
+@DPAFASHION… https://t.co/w03qAXLXxG
+Test_Tweet:	@cafawards president #vickimilner @cafawards #fashionnights #fashionismylife #canada @ Fairmont… https://t.co/COIyQ1CART
+Test_Tweet:	Yea, I Follow Many Old Football Greats! 
+I Love Football!!! :)
+Test_Tweet:	#rockfordlink Current Conditions : 49.8F, Partly Cloudy - 6:22 AM CDT Apr. 16 https://t.co/XA2n0lZo7Z https://t.co/OnNvjtNwAV
+
+
+
+-------------------------------
+TOPIC: FOOTBALL
+-------------------------------
+Training_Tweet:	my favs💕 @ Hasbrouck Heights Football Field https://t.co/JM5cBM81ob
+Training_Tweet:	Sure is gorgeous in person! War Eagle!!
+#Auburn# AuburnFootball #2011NatlChamps @ Auburn University https://t.co/Mz2HsqMQ2D
+Training_Tweet:	5 of the last 6 The Ohio State Football Coaches. Only missing Coach Hayes. The Ohio State… https://t.co/q1IrxOJgYC
+Training_Tweet:	Official Football Team EPL Gift Manchester United F.C. 9ct Gold Earring https://t.co/tdGclUO14X https://t.co/GmdRonCw14
+Training_Tweet:	#ThirstyThursday southmeckfootball #skill "60yd shuttle" Chop wins again! cam_yauger… https://t.co/E8dOOSUu2e
+Training_Tweet:	#FairHillOwls 
+#FootBall (Ages 6-14) 🏈
+#Cheer (Ages 6-16)🎉
+Saturday… https://t.co/6bFNAp4Eui
+Training_Tweet:	@BMileskiKFAN my sources also tell me we will play Green Bay, Detroit and Chicago twice throughout the season. #elitefootballmind
+Training_Tweet:	"@Garricka_: He think he can box, rap, play football, and baseball😩 and he's only one!"he talented already Lol
+Training_Tweet:	"@ProFootballTalk: Rams home opener at L.A. Coliseum comes against Pete Carroll https://t.co/hrnasZzrhb"
+Training_Tweet:	I'm at Land of Dreams in Weehawken, NJ https://t.co/kuCRdVK78P
+Test_Tweet:	Spring football! #AldersonBroaddusUniversity @ Alderson Broaddus… https://t.co/RzE0Azl4BL
+Test_Tweet:	Youth 7on7 Football League Play in Dallas https://t.co/5nSOK1Hf9w
+Test_Tweet:	Morning #football ⚽️👌🏻✌🏻️ #pitch #sport #fitness #workout #olloclip #fisheye #lens #perspective… https://t.co/kf4Nb2O5ey
+Test_Tweet:	Touchdown during the lakissfootball game against @jaxsharks. @king_morgan_1 ⚡️💪🏾‼️#LAKISS… https://t.co/Z9g7hc6EG1
+Test_Tweet:	First our soccer ball got stuck up there. Then the football got stuck from trying to hit the… https://t.co/0beUkcBEru
+Test_Tweet:	Love❤️ @ Southside Football Field https://t.co/HwYILyfjep
+Test_Tweet:	donniebothfanclub sweeps em all! #ThirstyThursday southmeckfootball #mids "60yd shuttle"… https://t.co/02ZYMI8Yyg
+Test_Tweet:	#ifyouaintgetcapturedthenyougotskipped #streetfootball2016 #cm4life… https://t.co/Y8o092F1wc
+Test_Tweet:	Command squat jumps for Football "combos" #GoMAD @ Bennett Sports Center https://t.co/eBLhK03Mkj
+Test_Tweet:	Therefore, among God’s churches we boast about your perseverance and faith in all the… https://t.co/k5axYzaNeU
+Test_Tweet:	Sunrise Senior Living #FacilitiesMgmt #Job: Maintenance Assistant (#MorrisPlains, NJ) https://t.co/Vw4woUS8VV #Jobs #Hiring
+Test_Tweet:	Just posted a photo @ Cedar Pointe https://t.co/TVthR2yqOb
+
+
+
+-------------------------------
+TOPIC: OTHER
+-------------------------------
+Training_Tweet:	Quality time is in full effect!! (at @hampton) — https://t.co/IulXQPRMiX
+Training_Tweet:	@Vistox Dubbed or subbed I don't care just shut up and watch it and enjoy
+Training_Tweet:	Another song by a cast member of #kinkyboots as sung by "Lola" #bringoutthebold #listerine… https://t.co/kvMjhP97MQ
+Training_Tweet:	#sunset #nofilter #transmountain #elpaso @ Transmountain Road Overlook https://t.co/KcbAUybPY1
+Training_Tweet:	Requisite crowd shot #Unlvino @swsknows @venetianvegas @ The Venetian Las Vegas https://t.co/zs4te2x1tw
+Training_Tweet:	James H.D. Brown | The Pink Room @ Galería Hilario Galguera https://t.co/fZYiBX3ZSb
+Training_Tweet:	Continued....
+foundrentals @latavolalinen 👏👏👏 @ Lombardi House https://t.co/lXjwqYMe2p
+Training_Tweet:	#ShesMyReason #CureAngelman #ShesMyAngelImHerWings #TulsaOklahoma #happy #AngelmanSydrome… https://t.co/kcXU2p4mZu
+Training_Tweet:	I'm at Aeropuerto Internacional de la Ciudad de México (MEX) - @aicm3 in Venustiano Carranza, DF https://t.co/uUpqMqypjM
+Training_Tweet:	https://t.co/X1n2FrdFdm
+Training_Tweet:	#CustomerService in #Mahwah, NJ: Customer Service Representative – Part... at DialAmerica https://t.co/jh5eOeKn4X https://t.co/XflvtRP5jK
+Training_Tweet:	#foals @ Fox Theater Pomona https://t.co/duc5lkmY1w
+Training_Tweet:	Just posted a photo @ Rock &amp; Brews Buena Park https://t.co/jXWcgjQTMn
+Training_Tweet:	La chula &amp; las chulitas 🏁🏃 @ Hermosillo, Mexico https://t.co/khTTTxJIhs
+Training_Tweet:	Renovated from the 1960!!! @naninn @ Fulton-Nassau Historic District https://t.co/pRXof0frhr
+Training_Tweet:	Enjoyed tonight on #thefeaturepresentation w @djsussone alyiv @prettylou11 @msmickeyk 🌊thanks… https://t.co/kilqllxusi
+Training_Tweet:	Dinner with special guests chef Federico yahbes and his wife!! Thank you for the nice evening… https://t.co/OVHAjEnH8j
+Training_Tweet:	I'm at Heaven on earf in Borough of Queens, NY https://t.co/ZiIoJPlhF9
+Training_Tweet:	Hace un momento con #ViryLuna de #Cluster en radioonce @ Queretaro, Mexico https://t.co/KSFCeu3zbA
+Training_Tweet:	#Family #Cush4Life #GoodTimes #GoodFood #GoodCompany #ATL #Kennesaw #Atlanta #CoffeeLovers… https://t.co/kFPkSpSkhN
+Training_Tweet:	HBD BB!don't kno what id do without u&amp;ur voice&amp;ur horses in my life❤️stay beautiful and keep doin ur thing🔞 LOVE YOU https://t.co/ML6afAD6ze
+Training_Tweet:	Welcome to Nightvale US Tour 2016: Chicago
+ I'll be posting pics from the show soon! #wtnv… https://t.co/IizxXXZWJv
+Training_Tweet:	📺™ @ Downtown Atlanta https://t.co/nFayXc45zp
+Training_Tweet:	Post @drivewayseries shenanigans! #elbowzracing #batman #batmobile vs. #crux #cantisforlife 📷… https://t.co/tGQbP5c012
+Training_Tweet:	En la tarde cotorreando con los @pedrinayrio 😝😝 @ Mercadito Urbano https://t.co/uobuXyjrXm
+Training_Tweet:	#Finance alert: Finance Software Engineer | SunPower | #Richmond, CA https://t.co/fdGdYrtZBQ #SXSWeco #SXSW2016 https://t.co/VbZgKYHZg0
+Training_Tweet:	🍺🍺🍺 @ The Wake House woodfire grill and barrel https://t.co/J7NFdQgnh1
+Training_Tweet:	Leonard Nimoy's legacy. @ St Clement's Episcopal Church https://t.co/r3xa587CBh
+Training_Tweet:	This #Hospitality #job might be a great fit for you: General Manager - https://t.co/F1vaA5wVfg #FortWorth, TX #Hiring
+Training_Tweet:	Finally got my little squirrel 🐿👭💕 @ Big Little Reveal https://t.co/IJ8pFACY7U
+Training_Tweet:	#awkward #haashow #ScareUSA #hauntlife #haashow2016 #transworld #throwback #johnschwarzjr @… https://t.co/MdRvWM6OKA
+Training_Tweet:	#FlashbackFriday to when none of us knew what to do for the picture.… https://t.co/HLbdTVEg6V
+Training_Tweet:	We appreciate all your orders and hope to satisfy all your necessities in cultural apparel. We… https://t.co/3gN6dROuA8
+Training_Tweet:	👅👅 @ariellehill @ Hudson Terrace https://t.co/0rvjK0UhJO
+Training_Tweet:	@paginasmexicanas Hola publicidad años 50s https://t.co/y4DmRSpqUX
+Training_Tweet:	Networking after work. #growth #next @ Irvine, California https://t.co/ffKv5sKJlF
+Training_Tweet:	#tapas #papasbravas #potatoes #chorizo #olives #foiegras #foie #tuna #bacon #croquetas… https://t.co/7JTg7h2doW
+Training_Tweet:	'If you want to make God laugh, tell him about your plans' #woodyallen #bulletjournal #bpms150… https://t.co/5ivLMUahK2
+Training_Tweet:	#spiritual #faith #faithful #drums #god #grace #pray #fuel #amen #believe #religion #coexist… https://t.co/MZtvSbBNmw
+Training_Tweet:	Just posted a photo @ Cafe Cluny https://t.co/DwvuRHbJmp
+Training_Tweet:	@music_within_ reading some of her poetry @ Vapure E-Hookah Lounge https://t.co/oOd77ySo1v
+Training_Tweet:	https://t.co/u8jgtGEhfT One wheel motorcycle
+Training_Tweet:	Super stoked (and just a touched blessed) to get to watch my very good friend of nearly 20 years… https://t.co/DQfMsoLmaj
+Training_Tweet:	@locogocrazy and @callmegray tearin' it up!! #AOMG #aomginla #thewiltern #Gray #Loco @ The Wiltern https://t.co/FeblHL6jSi
+Training_Tweet:	See our latest #SturgeonBay, WI #job and click to apply: Physical Therapist (PT) /... - https://t.co/E1bGV5RQi1 https://t.co/M0iM5omMCb
+Training_Tweet:	Fully charged Mohawk! #DOWNTOWNSF #alwaysSF @ Les Nuits de Paris Massage and Sauna https://t.co/nxahCkz6cX
+Training_Tweet:	Convinced my partners to go here!! It was either here or Giada! 😉 both sounded great (@ Gordon Ramsay Pub &amp; Grill) https://t.co/NtJUo2iFOu
+Training_Tweet:	I'm at Cooter Brown's Saloon - @cooterbrownstx in Helotes, TX https://t.co/GlGrsw18Td
+Training_Tweet:	@TrumpPassion16 @CarmineZozzora #WNY cheers Trump,
+Training_Tweet:	I love my job! 😊👌🏼💯 #VitaminShackAndShakes… https://t.co/5CKo6Nj8bJ
+Training_Tweet:	I'm at UFO Sightings Queens in New York, NY https://t.co/wutCqwP863
+Training_Tweet:	I was able.
+Leftover footage from yesterday.
+#ShowedUp 👆🔑💪🙏
+#NSNP #NoStruggleNoProgress… https://t.co/YocT7OQtjX
+Training_Tweet:	We had a great time filming for today commercial with @wendyemeyers from Televisa 2.1 and friend… https://t.co/CizBGP3jYB
+Training_Tweet:	Winner..  Winner Chicken Dinner!!!
+
+GIVEAWAY!  GIVEAWAY! GIVEAWAY!
+#pearland #friendswood… https://t.co/eYnmMz3iKa
+Training_Tweet:	#bianchibuilt ore and #After
+#bianchimotors
+Angela polished  
+Greg… https://t.co/ngCwbHeAVB
+Training_Tweet:	😜😜😜😜😜😜 @ North Hollwood https://t.co/3ATzu8MEB0
+Training_Tweet:	Pfff hace mucho (@ Club 306 in México, DF) https://t.co/EcaQXjs9RW
+Training_Tweet:	Aquí con Araceli de la "Señora Acero" @ Nuevo Teatro Silvia Pinal https://t.co/jP3jhoGVIh
+Training_Tweet:	They've been sick in PJ's all week, yet still laundry full of fancy dresses. That's how we roll.… https://t.co/VX6qKIBOg4
+Training_Tweet:	Just posted a photo @ Patriot Place https://t.co/EUlnrJeFcI
+Training_Tweet:	👌 @ Typee Island Beach https://t.co/NsRVDyqfoK
+Training_Tweet:	So clean and crisp! Lucybelle rusticales @ Dairy Queen / Orange Julius https://t.co/mpdldAc8tN
+Training_Tweet:	Happy birthday to my crazy roommate, I'm so happy I awkwardly fb… https://t.co/dP7rbTifbq
+Training_Tweet:	DALLAS TEXAS THE WAIT IS OVER,YOU CAN NOW BUY YOUR EARLY BIRD TICKETS FOR DIAMOND MEMORIAL SHOW… https://t.co/UX0lLMLegF
+Training_Tweet:	Just posted a photo @ Rock &amp; Brews Buena Park https://t.co/GpttHbbKzt
+Training_Tweet:	Throwing all my worries &amp; cares in the air (&amp; then picking them back up again b/c finals are… https://t.co/Lsas2WOBkD
+Training_Tweet:	I have been sitting in the same seats in the outfield since the Astros moved to Minute Maid… https://t.co/w7zG2VoSX6
+Training_Tweet:	Nacho López @ Palacio de Bellas Artes, México, D.F. https://t.co/1Urfdszl1m
+Training_Tweet:	Mmmmm grilled cheese #cheflife #vapelife #foodporn #grilledcheese #marchewinebar @ Burbank,… https://t.co/5DwxQxfKHC
+Training_Tweet:	Just posted a photo @ Kay-La's Boutique https://t.co/jH3HlPDKGj
+Training_Tweet:	#NYCmissed Caught your eye on the L train - w4m (Chelsea) https://t.co/xnMv0XFuhB
+Training_Tweet:	"No. I don't want to supplement my #vegan dog food w/ goat's milk." Are you mental? 🤕 (@ Pet Food Express) https://t.co/pV3PqU2kPJ
+Training_Tweet:	Японский сад https://t.co/kHIiSYLQNZ
+Training_Tweet:	@chadjeffers earning his keep! #thestorytellertour #carrieunderwood (ps we're friends I'm not a… https://t.co/RKOqtAvknf
+Training_Tweet:	#JoeyRamone remembered &amp; 'Today in History: April 15' by The Gad About Town… https://t.co/3XkRNUVEtm https://t.co/ltQU482R6V
+Training_Tweet:	@coco_kaufmann2 "hey Avery check out my t-shirts I drew with my artsiness" yeah that's right take a seat on the right
+Training_Tweet:	Judge Mathis Mula⚖ Catz betta come with their A game @ Chicago by Night https://t.co/Q79vwlDH81
+Training_Tweet:	When the Bachata Hits.  #MixteoThursdays @ Jolley's Restaurant and Lounge https://t.co/0t7PTEnf0E
+Training_Tweet:	As #Kobe said, the end to his #Lakers story couldn't have been written any better, we're just… https://t.co/HUvyffyi4E
+Training_Tweet:	Wind 0.0 mph ---. Barometer 30.116 in, Falling. Temperature 43.0 °F. Rain today 0.00 in. Humidity 58%
+Test_Tweet:	Labiales que quiero https://t.co/kM8nzQq5TZ
+Test_Tweet:	Join the Apex Systems team! See our latest #Recruiting #job opening here: https://t.co/uM59euiRPU #Dallas, Texas #Hiring
+Test_Tweet:	I'm at Sweat in Ramsey, NJ https://t.co/Znx84RBVZ2
+Test_Tweet:	Spring morning Madison Sq Park fountain with flat iron building #flatiron #madisonsqpark #spring… https://t.co/uOiW7h86Lg
+Test_Tweet:	| #TechDay at @udmdetroit | #detroitmercy #stem #education  | Fr, 4/15/2016 @ University of… https://t.co/29JttB0uMu
+Test_Tweet:	Ваш выход MADEMOISELLE https://t.co/qpTgXCcQGM
+Test_Tweet:	I'm at Terminal Central de Autobuses del Norte - @estrellarojapue in Gustavo A. Madero, México DF https://t.co/hXdBHBGphq
+Test_Tweet:	Want to work in #Ocoee, FL? View our latest opening: https://t.co/NaU4U5bohM #Nursing #Job #Jobs #Hiring https://t.co/KV0V25Bunw
+Test_Tweet:	Can you recommend anyone for this #Nursing #job? https://t.co/iEa9Gr1rcX #MedField #Houston, TX #Hiring https://t.co/pRzAHtRJvY
+Test_Tweet:	BAYADA Home Health Care: Registered Nurse / RN - White Bear Lakes - Nights (#VadnaisHeights, MN) https://t.co/5k4nzc2ver #Job #Jobs
+Test_Tweet:	@cspanwj  The dead are still collecting Social Security benefits !
+Test_Tweet:	#gymflow #Gymrat #swole #gaylife working out IHOP breakfast with Cassie and Amanda (@ New Life Fitness World) https://t.co/f3X9KFTTdt
+Test_Tweet:	#kaleidoscope @ Salinas, California https://t.co/dEwAOjjgyK
+Test_Tweet:	Want to work at SONIC Drive-In? We're #hiring in #Arlington, TX! Click for details: https://t.co/LfH1zpbzqU #Hospitality #Job #Jobs
+Test_Tweet:	https://t.co/hDoitwkJwZ
+Test_Tweet:	#Repost goodpassports with repostapp.
+・・・
+O'Doyle Rules! Awesome name of the awesome cocktail… https://t.co/c3mydeusgj
+Test_Tweet:	#Gallup, NM #Retail : Customer Service Cashier -... at Love's Travel Stops &amp; Country St... https://t.co/RboO2nlkLV https://t.co/Pik23Ej5pN
+Test_Tweet:	#MugMe at "Peelander Z" show #マグミィ #お花びと #flowersinwonderland #マグユゥ #aloha #hangloose #party… https://t.co/kMlKB0ysVH
+Test_Tweet:	Up early bringing in the good food to CoMo. @ Main Squeeze Natural Foods Cafe https://t.co/PPObbsli14
+Test_Tweet:	#Sales #Job in #Knoxville, TN: Inside Sales Representative - Part Time -... at DialAmerica https://t.co/fABGm0RrNI https://t.co/Vn5ABqs3kj
+Test_Tweet:	mrileyrealtor nikkifressssh @lynnayax 😜❤️😊 @ Coventry, Connecticut https://t.co/6gE9Mx7zDG
+Test_Tweet:	Saturday April 16 Great &amp; Gorgeous Day , Finally Spring Here,  please Stay Together,  Love… https://t.co/9QHykwssKs
+Test_Tweet:	It may only be 7:00am, but all these excited faces can't wait to start giving tours to show… https://t.co/NpQJdnncLe
+Test_Tweet:	Rise and shine, it's #recordstoreday! @ Record Rack https://t.co/uIVxxmo8FG
+Test_Tweet:	Ваш выход MADEMOISELLE https://t.co/ZXZM7QgLCJ
+Test_Tweet:	Off toCozumel (@ Detroit Metropolitan Wayne County Airport (DTW) - @dtweetin in Romulus, MI) https://t.co/fELUJvq5e2
+Test_Tweet:	A dormir 😴 5:23 am
+Test_Tweet:	☕ © Eugenia Loli #Eugenialoli via @illustrarts_ #NYC @ New York, New… https://t.co/CQRBKOuBYy
+Test_Tweet:	At the best place on earth! @ Neyland Stadium https://t.co/uzTIGiGxyG
+Test_Tweet:	Join the Winn Dixie team! See our latest #Retail #job opening here: https://t.co/oUBGFFOt4x #GAINESVILLE, FL #Hiring
+Test_Tweet:	I'm at Starbucks in Plant City, FL https://t.co/ioRc9VdzRM
+Test_Tweet:	Santa Monica Pier ❤️
+
+#jhlw #paris #france #london #italy #dubai #abudhabi #usa #losangeles #nyc… https://t.co/Wb7r650Ln4
+Test_Tweet:	Три сестры https://t.co/M1jmrXw0pL
+Test_Tweet:	https://t.co/UMw5W5JojE
+Test_Tweet:	Good morning!!!! @ 290 Eisenhower https://t.co/geP6CkjCae
+Test_Tweet:	I'm at 3 Rivers FCU in Fort Wayne, IN https://t.co/e1zGoOHX7P
+Test_Tweet:	Sorry, can't go to work today. I don't want to disturb the cat. A#cat #catsofinstagram #daisy… https://t.co/Ak8UpqTTBj
+Test_Tweet:	Back to Paris but my mind is still in cancun. ❤️ @ Azul Sensatori Hotel Mexico https://t.co/cz0fBusJSX
+Test_Tweet:	We're #hiring! Click to apply: Assistant Manager FT-dressbarn - https://t.co/zp0R4cMtwb #Retail #Richmond, VA #Job #Jobs
+Test_Tweet:	Pharmacy Technician - CVS Health: (#Houston, TX) https://t.co/RLba7QW6Gv #Healthcare #Job #Jobs #Hiring
+Test_Tweet:	#hogwartsalumni #wizard #rehearsal 🙌🏻🍻 @ The Columns at Brandon West https://t.co/cZTTqAZFOY
+Test_Tweet:	See our latest #MarylandHeights, MO #job and click to apply: Services Software Product Consultant III - https://t.co/qgx1RhiusP #Diversity
+Test_Tweet:	Registration is ready 2nd Day MoMentum #MoMen16 https://t.co/Ty4zJiP2Z3
+Test_Tweet:	Minimal. Solid beer. @zzqrva always on point. #theveilbrewing @ The… https://t.co/EVTqVDuHpx
+Test_Tweet:	¡Gracias a todos los que vinieron a mi primer Comedy Showcase! Que rápido se pasa 1 hr. 20 mins.… https://t.co/n63LHRVAnM
+Test_Tweet:	Let's GOOOOOO Saturday session time. 💪😁 @ Richie's Gym https://t.co/0D5jNTVLy2
+Test_Tweet:	Global Logistics Specialist - Cintas Corporation: (#Mason, OH) https://t.co/oFPfbDTAUc #SupplyChain #cintasjobs #Job #Jobs #Hiring
+Test_Tweet:	@aunjuli I'd ask you how it goes but if the answer is anything other than “AMAZING!!!” I don't think we could be friends anymore…
+Test_Tweet:	Keeping before the 5K. #americarunsonstarbucks #bostonmarathon2016 #5k @ Boston Common https://t.co/1VCBppk2qx
+Test_Tweet:	Accident in #Hampton on I-64 WB between 15th View and Hampton Roads Brg Tunl #traffic https://t.co/nbYNxplhAd
+Test_Tweet:	Incident on #I278 WB from Atlantic Avenue to 92nd Street  Bay Ridge Exit https://t.co/Urzkt7yjHN
+Test_Tweet:	Update: Incident on #I278 EB at Kent Avenue https://t.co/Ioc91impbb
+Test_Tweet:	Want to work in #Dayton, OH? View our latest opening: https://t.co/AlxdfL5KIp #Manufacturing #Job #Jobs #Hiring https://t.co/9DAy7Yh2oG
+Test_Tweet:	Can you recommend anyone for this #job? Bus Run - Branchburg, NJ - https://t.co/ANaMHbUfNh #BranchburgTownship, NJ #Nursing #Hiring
+Test_Tweet:	@Wickedjulia 
+I guess the Vatican didn't invite Clooney either 
+#AtLooseEndsWith$Hillary
+Test_Tweet:	Critanya kemarin habis nyeteak dan ngelobster di "Red Lobster", tapi… (w/ Mokhamad at @redlobster) [pic] — https://t.co/y0qrjw7BzL
+Test_Tweet:	Super hero 5k this brisk April morning!!! #batgirl #trainingtobebatgirl #superrun… https://t.co/9b5bXr48LE
+Test_Tweet:	Fundraise for Yourself and receive 70% of your profits towards your education College/Vocational… https://t.co/gTQslpgxYP
+Test_Tweet:	Porque Deus é sábio e criativo, espia a belezura dessa arraia negra com bolinhas brancas! Esse… https://t.co/i9OZiEKJ3T
+Test_Tweet:	Cool #lights at the #whitneymuseum. #staircase @ Whitney Museum of American Art https://t.co/ZRlgbgwF6l
+Test_Tweet:	Waking up with regret and a definite case of FOMO after missing last night's Duran Duran… https://t.co/XD7KhH0hGQ
+Test_Tweet:	Very cool: We have a balcony in New York! That's a first. Not cool: Our balcony room at… https://t.co/uz8RV3mWzE
+Test_Tweet:	Who needs a new pair of jeans??? 😆😆😆 I LOVE our new jeans!!! 😍😍😍 We now have an entire denim… https://t.co/i1fN1Vb1R3
+Test_Tweet:	We're #hiring! Click to apply: STORE MANAGER CANDIDATE - https://t.co/fKWv277vzn #Retail #Diversity IN #Veterans https://t.co/e7qUgVcAdn
+Test_Tweet:	No hay starbucks, solo es para despertar!!!! (@ Oxxo Vasco de Quiroga in San Luis Potosi) https://t.co/cttubFjbet
+Test_Tweet:	When you have a hard time sleeping bc you are super excited about breakfast! #healthylifestyle… https://t.co/8DuIUOdPOI
+Test_Tweet:	I just began a running workout using #Endomondo. Peptalk me now @ https://t.co/X28V4FeVI6
+Test_Tweet:	#SuspiciousIncident at 12001-12098 Orange Blossom Trail. #orlpol #ocso
+Test_Tweet:	#CheckWellBeing at 400-599 S Ranger Blvd, Winter Park, FL 32792. #orlpol #ocso
+Test_Tweet:	Wind 0.0 mph ---. Barometer 30.113 in, Steady. Temperature 43.6 °F. Rain today 0.00 in. Humidity 58%
+Test_Tweet:	When in DC. #JDmusictrip2016 @ Lincoln Memorial https://t.co/XkCaxAXCLk
+Test_Tweet:	I'm at Alan's house! https://t.co/3UVddOxegS
+Test_Tweet:	Because I only have a month and a half left with my beautiful balcony @ El Barrio, East Harlem,… https://t.co/ci7N7TXTaA
+Test_Tweet:	This #SkilledTrade #job might be a great fit for you: Suppression Installer - https://t.co/I2mCNhwKx8 #Allentown, PA #Hiring
+Test_Tweet:	@ebbtideapp Tide in Whale Harbor, Florida 04/16/2016
+ Low 12:06pm  0.1
+High  5:52pm  1.4
+ Low 12:30am  0.1
+High  6:21am  1.5
+Test_Tweet:	| #TechDay at @udmdetroit | #detroitmercy #stem #education  | Fr, 4/15/2016 @ University of… https://t.co/Q3WcUtNO9i
+Test_Tweet:	Закат https://t.co/7biYxLUdVW
+Test_Tweet:	https://t.co/K09rrNMvKd
+Test_Tweet:	Awake,Adventure @ Ashburn, Virginia https://t.co/RMQyTRizNf
+Test_Tweet:	Supplemental Health Care #Healthcare : Registered Nurse Telemetry... (#Albuquerque, NM) https://t.co/VIOJq8NB7Y https://t.co/7Ld5RGpt67
+Test_Tweet:	We're #hiring! Read about our latest #job opening here: Assistant Manager - https://t.co/R7B1cC6nCX #OklahomaCity, OK #Hospitality
+Test_Tweet:	This right here... is what I live for 🌞 @ Hollywod Beach https://t.co/E4QQwjz4Nw
+Test_Tweet:	Want to work in #Philadelphia, PA? View our latest opening: https://t.co/5cfbTRNbVS #Retail #Job #Jobs #Hiring
+Test_Tweet:	Dinner dance cruise was amazing with them ❤️ @ Navy Pier https://t.co/vnsd1OtMvH
+Test_Tweet:	Guess who made it until 6am?! Great cause, great people, great fun!… https://t.co/YIaQeMqSxi
+Test_Tweet:	Have a stunning weekend!! (@ Old Town Sport&amp;Health in Alexandria, VA) https://t.co/bTaJ4ZpKSu
+Test_Tweet:	I swear nights before finals I'm revising the material in my dreams
+Test_Tweet:	Hello #LasVegas😍🍾 we are coming for you and the #PartyRockCrew… https://t.co/1WJfMtUK5i
+Test_Tweet:	I'm at DoubleTree by Hilton Hotel - Fitness Center in Oklahoma City, OK https://t.co/MrCfpBE39f
+Test_Tweet:	#MicrophoneFiend 🎤🎤 @ Center Stage - The Loft - Vinyl https://t.co/bMUzWQC209
+Test_Tweet:	We're #hiring! Click to apply: Registered Nurse | RN | ICU (Per Diem) - https://t.co/gyq7zcoLau #RN #ParkRidge, IL https://t.co/ZLygYjTucl
+Test_Tweet:	r3gan3 figuring the viewing schedule! @ Panificio Boston https://t.co/xBz2e9Xu8h
+Test_Tweet:	We're #hiring! Click to apply: Guest Services Representative - https://t.co/5MK40nMqNN #Simon #CentralValley, NY https://t.co/zTXwDp43Yp
+Test_Tweet:	Interested in a #Writing #job near #Lynchburg, VA? This could be a great fit: https://t.co/Z8CWmWX8tY #nowhiring #Hiring
+Test_Tweet:	It's a ghostown..... Except for the line I have to wait in lol.  #rsd16… https://t.co/PkTCIfZt4d
+Test_Tweet:	#RuthersGlenn, VA #Transportation #Job: CDL Fuel... at Love's Travel Stops &amp; Country St... https://t.co/UwQRf2UCRq https://t.co/jQRg31fJxO
+Test_Tweet:	WHAT THE FUCK
+
+#turtle #faat #omg #aprilfools #funnyvines #goodmorning #nochill #followme #vines… https://t.co/DZgdxGW2Ih
+Test_Tweet:	#EveryoneSpeaksFood #GoogleTranslate #popuprestaurant #smallworld Octopus Ceviche, Hominy,… https://t.co/1x3v4RPkD5
+Test_Tweet:	Shout out to the best movie and sound track The Queen of the Damned. One of my absolute favs!… https://t.co/Il2OZqnZIa
+Test_Tweet:	I'm at @7ElevenMexico in Edo de México, México, DF https://t.co/ul2RgU5KRL
+Test_Tweet:	Franklin Liquors Newsletter 04-16-16 #Wine #Beer #Liquor https://t.co/k9Z7AUM5l8 https://t.co/qlgxTjcCR1
+Test_Tweet:	Can you recommend anyone for this #job? Customer Service Asssociate - https://t.co/eXnAAPciMH #WAUCHULA, FL #Retail #Hiring
+Test_Tweet:	Interested in a #Manufacturing #job near #Houston, TX? This could be a great fit: https://t.co/lWeU5reimY #IHOP #DTX #HTX #hospitality
+Test_Tweet:	Sneak peak! #hand #sculpted #mickeymouse @ Sweet Sweet Sue S Custom Cakes https://t.co/5GgHV1JCq8
+Test_Tweet:	Practice on your weakness until it becomes your strength and then use your strength to find new… https://t.co/tyDFOBkDk4
+Test_Tweet:	Drinking a Liaison by @stbenjaminbrew @ Dog And Bull Brew &amp; Music House — https://t.co/XgEHKKqEdY
+Test_Tweet:	This #Nursing #job might be a great fit for you: Nurse (Cardiology) - https://t.co/YGeXsCi9UG #Columbus, OH #Hiring https://t.co/feMfWgmWn1
+Test_Tweet:	A beautiful night of music at javajamsatcafelareine with Mckenna! Thanks to all who came out to… https://t.co/8iYR77buiy
+Test_Tweet:	The Vitamin Shoppe: Health Enthusiast Part-Time (#Ocala, FL) https://t.co/ZEyJrXPICU #HealthWelfare #Job #Jobs #Hiring
+Test_Tweet:	#rockford_il Current Conditions : 49.8F, Partly Cloudy - 6:22 AM CDT Apr. 16 https://t.co/m1SBriMfR8 #rockfordlink
+Test_Tweet:	POWER NAP!! #semanaISW2K16 @ ITSON Campus Guaymas https://t.co/NYLpG0UgwG
+Test_Tweet:	Greatest gift is quality time with the person you love
+Test_Tweet:	winter weather advisory in effect until 6 am mdt sunday... the national weather service in pueblo has issued a w... https://t.co/fVLe8oZZec
+Test_Tweet:	We're #hiring! Read about our latest #job opening here: PATIENT FLOW MANAGER - 2ND SHIFT - WINSTON-SALEM, NC - https://t.co/OG0THn4DZO
+Test_Tweet:	My first 1/2  hour run at my home away from home. Thanks Matt...your still helping me even away… https://t.co/JM1zaJQgiQ
+Test_Tweet:	Today...We are all Hokies.  04/16/2007 @ Town of Ridgeway https://t.co/6cft3kvpPy
+Test_Tweet:	Come see us at the Bel Air Farmers Market 7am - 11 am today! belairfm #dimitrioliveoil… https://t.co/AMIJ2jwYdn
+Test_Tweet:	If at first you don't succeed, squeeze your butt cheeks and #gruntforstylepoints. First attempt… https://t.co/UMVx8vOXtC
+Test_Tweet:	Braids and Hair Bends ™ amastylist__ @fave4hair #blomeaway #instabraid #modernsalon #montreal @… https://t.co/YVrCDuj9WT
+Test_Tweet:	SC
+Test_Tweet:	5k! (@ The Horticulture Center in Philadelphia, PA w/ @ames043 @ladycuscus) https://t.co/khw5ygMrHt
+Test_Tweet:	We are looking for a buyer on 396 Main Dunstable #Nashua #NH https://t.co/LJFY246gWr #realestate https://t.co/vf7nIMyOOJ
+Test_Tweet:	"🏋🏾"
+
+#htfo #wherethewater #144 #goodkidmaadcity #blink #workout #workoutmotivation #motivation… https://t.co/aHqvq7wVnT
+Test_Tweet:	Text 786-486-7317. 2-5 pm. Opened up!!! @ Andy's Hair In the gables https://t.co/DDoqI0v8sG
+Test_Tweet:	These things are awful. I also blame Dyson for the fact that I can’t buy vacuum that doesn’t look like a space robot https://t.co/OU0XBpEE7e
+Test_Tweet:	I just began a running workout using #Endomondo. Peptalk me now @ https://t.co/sB8QwjRr6g
+Test_Tweet:	"Inner beauty should be the most important part of improving one's self."
+
+Follow our account… https://t.co/btGy2pfs32
+Test_Tweet:	Pretty much says it all.
+Stop waiting for the perfect moment.
+It's not coming. Act now.
+Ready.… https://t.co/BlvZNoj1V4
+Test_Tweet:	Tia gracias por ser tan detallista y regalarme lo que mas me gusta… https://t.co/h08ZIIfh7K
+Test_Tweet:	Wow,,Ariel is becoming increasingly hateful and if possible more  annoying #hellskitchen
+Test_Tweet:	[住所 Liberty Island - Ellis Island, New York, NY アメリカ合衆国, 速度 --kph, 方向 --, 標高 0m, 地図 https://t.co/H7pQY950o9 ]
+Test_Tweet:	Today at 12:30 we have @nonavegan sampling some awesome plant based sauces! Creamy Alfredo, Rich… https://t.co/M2akza3aer
+Test_Tweet:	We're #hiring! Read about our latest #job opening here: Sr Presales Software Consultant - ITSM Illinois - https://t.co/1DTVWCy7Fu
+Test_Tweet:	أيقظ شعورك بالمحبة إن غفا
+لولا الشعور الناس كانوا كالدمى
+أحبب فيغدو الكوخ قصرا نيرا… (at @washingtondc) [pic] — https://t.co/AoMjyjT6cL
+Test_Tweet:	Picture sums up last night's Game 2 of the @nhl playoffs in South Florida for the @flapanthers… https://t.co/nJMsir1V31
+Test_Tweet:	#vidlab #sf #sanfrancisco #skates #skatesonthebay #berkley #sunset #sfo #quotes #life #love… https://t.co/Etip2cfZ7L
+Test_Tweet:	Gooood Morning @MissNorthernVA Foot Levelers Blue Ridge Marathon  #missamericadayofservice… https://t.co/pUuF1NqAqp
+Test_Tweet:	I'm at El Tío Juan https://t.co/7VIqmWJaWh
+Test_Tweet:	I am all business when I am working - and I never stop working! #TheBest #Driven #GodsPublicist… https://t.co/GuchH2PF5H
+Test_Tweet:	#RSD16 (at @DavesRecordsChi in Chicago, IL) https://t.co/9K2Cb2MSQD
+Test_Tweet:	#pressplay ▶️ El 15 de mayo Vota por cirilomorontadiputado como diputado de ultramar VOTA3 -… https://t.co/lTFdZ7eHpY
+Test_Tweet:	Belle journée, beau temps so petit selfie.  
+
+Bon week-end à tous. @… https://t.co/UbbkV7zom5
+Test_Tweet:	Want to work in #KingofPrussia, PA? View our latest opening: https://t.co/F4inGiJbM6 #Job #Jobs #Hiring
+Test_Tweet:	-chancesummers... @ Salem High School (Conyers, Georgia) https://t.co/wcameET4zD
+Test_Tweet:	A rare #BhamBeerBuzz selfie at @seasickbham. We've been kickin' it since 2am for… https://t.co/J49jTXrHuB
+Test_Tweet:	What's my #skintone? #whitney #whitneymuseum #nyc @ Whitney Museum of American Art https://t.co/nFg8iixFgy
+Test_Tweet:	This #Hospitality #job might be a great fit for you: Barista - https://t.co/YEKtvQb7eA #barista #Newark, NJ #Hiring
+Test_Tweet:	Mi lugar favorito por siempre. (@ Lo de Marcos in Bahia de banderas, NAY) https://t.co/FTgk1XZ2yL
+Test_Tweet:	I'm at @DonLeoSny in Bronx, NY https://t.co/w3wOmgHvs3
+Test_Tweet:	Good morning from somewhere in the Atlantic Ocean! 🚢☀️😎🌅 @ Atlantic… https://t.co/iRst3CeSSb
+Test_Tweet:	@mrgxo oops we did it again. @ Chicago, Illinois https://t.co/yKlNxEuSb3
+Test_Tweet:	#anniversarydinner 4/13/16.  #3rdanniversary #savannah #alligatorsoul @ Alligator Soul https://t.co/aztnetfs08
+Test_Tweet:	after 3 years of talking about it, we finally found time around work and finally played! Lol my… https://t.co/7quddYiTzH
+Test_Tweet:	Just park it right there. #FortLauderdale #LasOlas #MorningWalk #Exercise @ Fort Lauderdale,… https://t.co/M0F3rNCWo4
+Test_Tweet:	AMP is ready to rock the @spartanrace at citifield 
+
+Stop by and get some KT Taping, Sports… https://t.co/pwJ562SRYJ
+Test_Tweet:	Guess I am almost to the finish line. #runDisney #starwars10k #rebelscumandproudofit @ Disney's… https://t.co/Yg9JlhiJME
+Test_Tweet:	Coldplay alla vamos!! (@ Aeropuerto Internacional de Monterrey (MTY) - @aeropuertodemty in Apodaca, NL w/ @jpg86) https://t.co/9OEC6LVK1D
+Test_Tweet:	Yeah baby! 🤓 (@ Col. Roma in Mexico City, DF w/ @velasc_n) https://t.co/mtLyY4XiYP
+Test_Tweet:	Selah pig crew rolling before dawn this  morning. #dogoodwork @ Selah Christian Church https://t.co/LvJlM3rRW8
+Test_Tweet:	I'm at Sleep Inn &amp; Suites in Hattiesburg, MS https://t.co/xWoGI48lGI
+Test_Tweet:	Deal now: Shop Amazon - Mother's Day Gifts in Handmade https://t.co/o5IEaea415
+Test_Tweet:	8801 Valley Flores Drive https://t.co/dBg9jG00MV
+Test_Tweet:	Adiosito Mexico. Fuiste chevere. Te vamos a extrañar! 💃🏼🌵☀️🇭🇺 @ Mexico City, Mexico https://t.co/wi10wVRsOo
+Test_Tweet:	Join the BAYADA Home Health Care team! See our latest #job opening here: https://t.co/DRIhK1KexM #Hendersonville, NC #Hiring
+Test_Tweet:	We are so excited to be offering Orthopedic Yoga for the Lower Back… https://t.co/37NgUKsOP1
+Test_Tweet:	We're #hiring! Read about our latest #job opening here: Champions Cook - https://t.co/q3k3Oqc7gY #Miami, FL #Hospitality
+Test_Tweet:	It begins. #soccersaturday (@ Ringler Field in Ashland, OH) https://t.co/X5GbdHzoKW
+Test_Tweet:	Happy birthday s/o to my best friend. You finally made it. This is… https://t.co/kEUYHudL48
+Test_Tweet:	Girls weekend! (@ Hartsfield-Jackson Atlanta International Airport - @atlanta_airport) https://t.co/3cL5b6bArz https://t.co/8c3f9lSHlS
+Test_Tweet:	April 16th, 2016 DAY 1926 Body Beast®™ No Mercy Day 6 of 30 / Beast Cardio / with ENERGIZE… https://t.co/2kns7T0JA8
+Test_Tweet:	Just posted a photo @ Peter Luger Steak House Est. 1887 https://t.co/LheFkn444q
+Test_Tweet:	https://t.co/2JorqReuTj
+Test_Tweet:	This #Healthcare #job might be a great fit for you: Care Manager - https://t.co/N8gQcviqQ5 #FortSmith, AR #Hiring https://t.co/DiHI67dJ1P
+Test_Tweet:	I like this, no one sitting next to me I can stretch out. @ Palm… https://t.co/aaB4ariQyV
+Test_Tweet:	Interested in a #security #job near #Gainesville, FL? This could be a great fit: https://t.co/fdtwEtF5oY #Veterans #Hiring
+Test_Tweet:	Can you recommend anyone for this #Sales #job? https://t.co/FFjcfHlWA5 #EdenPrairie, MN #Hiring
+Test_Tweet:	Reborn Baby/Toddler Morning Routine!❤ https://t.co/yPjXVuhx0P
+Test_Tweet:	HELLO Weekend 🙋🏻
+.
+.
+.
+#coffeetime #butfirstcoffee #loveouremployees #ohniki #mostphotographed… https://t.co/plI8Y9JwMi
+Test_Tweet:	Rencontrer une inspiration ✅
+Danser au rhytme de @genevieveborne #mtlmoments #QuebecOriginal @… https://t.co/IdSN6Krk5v
+Test_Tweet:	I'm at Doctor Ken's Sweatshop in East Rockaway, NY https://t.co/5HWXCG9hga
+Test_Tweet:	BulletProof Coffee before the Gym! 2 shots of espressos, almond milk, ghee, coconut oil,… https://t.co/1j6YaoZCec
+Test_Tweet:	Our April featured artists. Paul Vincent Bernard and Grant Fuhst. We experienced some awesome… https://t.co/Xif8MepZnR
+Test_Tweet:	Gracias @Katherinangels por invitarme a tu espacio de Luz #almanova desde donde estaremos juntas… https://t.co/By54JAZPr3
+Test_Tweet:	Spring game ready! #Canesfam #RichtGang (@ Lockhart Stadium - @ftlstrikers) https://t.co/glhFSPmYhA https://t.co/udbAW7rXDe
+Test_Tweet:	I'm at New York City Bagel &amp; Coffee House in Astoria, NY https://t.co/NsEdmfJTWl
+Test_Tweet:	600 Grade A 8X DVD-R 4.7GB Shiny Silver $120.00 https://t.co/LsUU2ikUBQ #DVDR #Media #Generic https://t.co/xWuoLsLL2p
+Test_Tweet:	@Escav94 beep@
+Test_Tweet:	We're #hiring! Click to apply: Call Center Sales Representative - Part Time - SiriusXM - https://t.co/4EUERa96GB https://t.co/XQIaceGM5c
+Test_Tweet:	Want to work in #Irving, TX? View our latest opening: https://t.co/kFyZkVLBgo #IT #Job #Jobs #Hiring
+Test_Tweet:	Citi Field Spartan Race (@ Citi Field - @mlb in Flushing, NY) https://t.co/IRBRy0g2q6
+Test_Tweet:	Cleared: Construction on #BrooklynBridge EB from Manhattan Bound to Brooklyn Bound
+Test_Tweet:	Cleared: Closure on #East35ThStreet EB from Lexington Avenue to 3rd Avenue
+Test_Tweet:	#bananas #chiqueta #starwarshalf @ Disney's ESPN Wide World of Sports Complex https://t.co/31PuTvK5nw
+Test_Tweet:	#Stamford, CT #HR #Job: Organizational Development Manager at Nestle Waters NA https://t.co/12v9IhwIFh #Jobs https://t.co/pEzwTBucbz
+Test_Tweet:	#IT #Job in #Davidson, NC: IT Business Analyst II at MSC Industrial https://t.co/v42tQQgsTa #Veterans #Jobs #Hiring
+Test_Tweet:	Interested in a #Retail #job near #WAUCHULA, FL? This could be a great fit: https://t.co/IZnNyHxcvi #Hiring
+Test_Tweet:	We're #hiring! Read about our latest #job opening here: Inside Sales Consultant - https://t.co/Pkso38MF44 #Scottsdale, AZ #Sales
+Test_Tweet:	@N_CageMovieIdea Is the World’s Best Croissant Made in Melbourne? https://t.co/3vsNz4rTEE
+Test_Tweet:	Interested in a #Retail #job near IN? This could be a great fit: https://t.co/IiyLyqIC5r #Diversity #Veterans https://t.co/5r0X8BBhHp
+Test_Tweet:	Students with the Verrazano School Honors Program at the College of Staten Island took a field… https://t.co/nJ727KHkvU
+Test_Tweet:	New trails are always fun! I just hope it's as beautiful as the drive in was! Cool temps &amp; light wind plus it's... https://t.co/FddTVCd26R
+Test_Tweet:	#Retail alert: Shift Lead - Retail | Love's Travel Stops &amp; Country St... | #Ozark, AR https://t.co/748YSHNhbh https://t.co/476QrX0Vry
+Test_Tweet:	April 2016 #BeverlyHills #90210 #djohmradventures #LosAngeles #LA #holiday #vacation @ Beverly… https://t.co/vNWkOME0K8
+Test_Tweet:	Interested in a #Transportation #job near #Somerset, Kentucky? This could be a great fit: https://t.co/7rfR9LiYwo #driver #cdl #Hiring
+Test_Tweet:	See our latest #Lancaster, PA #job and click to apply: Pharmacy Technician - https://t.co/x5or2MsBh4 #Healthcare #Hiring
+Test_Tweet:	💃🏼 
+#birthdaymonth 
+
+Thank you @ripat55 @ Ohm Hollywood https://t.co/mWGoLxh694
+Test_Tweet:	#Tucson, AZ #Healthcare #Job: Registered Nurse / Travel ER at Supplemental Health Care https://t.co/JM2YgnaHk9 https://t.co/rdP28P7yiD
+Test_Tweet:	Hey there, Mega Mario! First slap of my newest sticker. Get yours now on my site. Shipping… https://t.co/TAGWfwXXga
+Test_Tweet:	We're #hiring! Read about our latest #job opening here: Inside Sales Representative - https://t.co/iDBDgUYjrW https://t.co/EuPzYQv3v7
+Test_Tweet:	HMSHost: Crew Member (#Cambridge, ON) https://t.co/qwmT8kffOw #Hospitality #restaurantlife #Job #Jobs #Hiring
+Test_Tweet:	#GeneralDisturbance 409 N Magnolia Ave 32801 (4/16 06:57) #Orlando #LakeEolaHeights
+Test_Tweet:	Check out our #listing in #Derry #NH https://t.co/baSGwxxfk0 #realestate #realtor https://t.co/lJXTMzVuYZ
+Test_Tweet:	I just finished 1h:22m:11s of doing yoga with #Endomondo #endorphins https://t.co/X6ZKPmxQQQ
+Test_Tweet:	#optimism #toronto #the6ix #morningwalk #dogownerslife @roncesvillage @ Sorauren Avenue Park https://t.co/JNY4V9oW0t
+Test_Tweet:	Just posted a photo @ Philadelphia, Pennsylvania https://t.co/qJCQiYzk5Y
+Test_Tweet:	All roads home pass through Newark (@ Newark Liberty International Airport (EWR) in Newark, NJ) https://t.co/oAnTfvT6qv
+Test_Tweet:	#Nursing #Job alert: RN-PICU (Full Time, Day shift) | MCHS | #Miami, FL https://t.co/HNyVEYbEFm #KidsHealth #SoFlo https://t.co/pAsSIf8veu
+Test_Tweet:	Can you recommend anyone for this #job? Nurses (RNs or LPNs) for home care in Mount Airy, NC - https://t.co/P3ayLBPg9h #MountAiry, NC
+Test_Tweet:	Last daybreak on vacation. @ Indian Rocks Beach Florida On The Gulf Coast Beach https://t.co/MDu4ofe5ia
+Test_Tweet:	Its' my Friday!¡!! (@ Pangani Forest Exploration Trail - @waltdisneyworld) https://t.co/datvfMDbYw https://t.co/TsVlmtyjSB
+Test_Tweet:	Field prep #inthahood 
+
+Soothingsoundsofspringville @ Central Park https://t.co/7HmN3d6GNv
+Test_Tweet:	It's the weekend!  Time to celebrate.  This wedding party sure knew how to get down!  I have… https://t.co/1tENlieAPy
+Test_Tweet:	We goin have fun....gna be our cheat week make sure I get to feed her WELL
+Test_Tweet:	Just posted a photo @ Baltimore, Maryland https://t.co/lFyQFZmuOA
+Test_Tweet:	#Nursing alert: UAMS SO CENTRAL-RN II CARE MANAGER - PINE BLUFF | UAMS | #PineBluff, AR https://t.co/dG4zgfKCGN https://t.co/UuMRp1SYAF
+Test_Tweet:	#workflow #grinding #grindmode #grindout working on my off day #officialphenomenal @ Mall City https://t.co/wbALZnEfhZ
+Test_Tweet:	Where am I going? (@ Aeropuerto Internacional de Monterrey (MTY) - @aeropuertodemty in Apodaca, NL) https://t.co/YMXtRsYsri
+Test_Tweet:	Wake &amp; Bake! Cinnamon Rolls today, mmmmm @ Hagar Beach Cafe https://t.co/LKBKMTUcWM
+Test_Tweet:	This #CustomerService #job might be a great fit for you: Resident Service Coordinator - https://t.co/a5r0Z1pesq https://t.co/2PPcRxsRBP
+Test_Tweet:	What would you do? #limits #ExceedThem #Limitless #igquotes #instaquote #quote #quotes… https://t.co/8QCuDoDady
+Test_Tweet:	Despedida do daddy! 🇺🇸😢 @ Universal Studios Florida https://t.co/T54xAnX2tq
+Test_Tweet:	🐳🎽☄🗾💦🔂🚙🌐💎⚓️🌀 @ Denver, Colorado https://t.co/ijbPhKAq4F
+Test_Tweet:	@RepairMethod Thank you Paul i've. been sick and you have made me feel better w ur music. Your so talented! please keep making music!
+Test_Tweet:	Good morning! Loving the forecast for the weekend! It's going to be clear with  temps in the 60s… https://t.co/hlHTHphmWU
+Test_Tweet:	🇲🇾 Still by far the best cheer experience of my life. Bring me back to Worlds 💙 #icuworlds
+.… https://t.co/uoDh7RaIhg
+Test_Tweet:	This is exciting for me, knowing I will and can get better, healthier, stronger, and fitter.… https://t.co/5ELyW6tFsd
+Test_Tweet:	Feeling every bit of this one today! 👊 @ Mandy's House https://t.co/vIdN0twwFR
+Test_Tweet:	@ewg are you getting $ from @driscollsberry to promote their corporate brand ?
+Test_Tweet:	Good morning fam! @youandme #youandme #roseave @ Dallas, Texas https://t.co/396TegQscK
+Test_Tweet:	Can you recommend anyone for this #job? https://t.co/AE2XoNij56 #Orange, CA #Hiring
+Test_Tweet:	Spring in full bloom out in my front yard! My geraniums were in full bloom as well. So red and… https://t.co/WKVWGoIwyP
+Test_Tweet:	It's Saturday in Athens! 🐶🐾🏈
+
+#93KDay #ATD #GoDawgs https://t.co/BvwVjh2WOj
+Test_Tweet:	#bpms150 #selfie #bicycle #biking #cycling @ Academy Corporate Office https://t.co/VhIJf8bwSF
+Test_Tweet:	Wind 13,5 km/h E. Barometer 1032,5 hPa, Hausse. Temperature 4,8 °C. Rain today 0,0 mm. Humidity 53%
+Test_Tweet:	If you're a #Finance professional in #Austin, TX, check out this #job: https://t.co/7028wOZVEB #SXSWeco #SXSW2016 https://t.co/6tsVHcF5jh
+Test_Tweet:	If you're a #SkilledTrade professional in #Detroit, MI, check out this #job: https://t.co/LzUYKrExx0 #Hiring https://t.co/ky0Tlv8Y7H
+Test_Tweet:	This #Healthcare #job might be a great fit for you: PCT - https://t.co/Gcq2vJ4qbo #Bessemer, AL #Hiring
+Test_Tweet:	Just posted a photo @ Kitchen24 Restaurant &amp; Bar https://t.co/I7WufkZzPR
+Test_Tweet:	The one and only Rakim Allah!!! @ Center Stage - The Loft - Vinyl https://t.co/VlUYjpH9da
+Test_Tweet:	Up at 4:00am (3am Alaska Time!) So she can be on the ice for her 5am practice session!... https://t.co/OSNbAraj5i https://t.co/b7up0EZTRS
+Test_Tweet:	#day3 film watching! Get ready! #biff @ Wyndham Boston Beacon Hill https://t.co/kA6NUXfopi
+Test_Tweet:	@AndreaWiggins jazz violin is worse!
+Test_Tweet:	Why am I up and out already this early on a Saturday? Because it's Record Store Day and early… https://t.co/lOrN4x5gbx
+Test_Tweet:	This #Nursing #job might be a great fit for you: Registered Nurse | RN | MS (Per Diem) - https://t.co/00j9Pytho3 https://t.co/10sp4YJWTt
+Test_Tweet:	🏅Finisher's Medal!!!🏅
+Star Wars Dark Side 10K
+🏃💥🌟🌟🌟🌟
+Orlando, FL - 04/16/16
+🏃💥💨💨💨💨 
+The hashtag… https://t.co/xumNQkREL8
+Test_Tweet:	Here we go... #RecordStoreDay2016 #RSD16 #SecondinLine #MyGodIts5am @ The Record Exchange https://t.co/Y7fw9su9zP
+Test_Tweet:	@natticatteh and the sunset 🌄🔥☁️ #hollywoodhills #hollywoodsign #hollywood #la #losangeles… https://t.co/h3qJJDRSaU
+Test_Tweet:	We're #hiring! Click to apply: Technical Support Representative - https://t.co/BvGHgNxXkv #IT #Smithfield, RI #Job #Jobs
+Test_Tweet:	Continuation Topic- #management #JENSUMOSLEY1ON1 4-16-16 @nrgvision mannyblack123 scribegirl18… https://t.co/GYOv7KRXOt
+Test_Tweet:	Faux #chicken #farmersmarket #unionsquare #nyc @ Union Square Park https://t.co/7GCVl6LlJ1
+Test_Tweet:	These 'Dock Of The Bay' paintings look great! Love the colors! #PaintbrushesAndParty… https://t.co/97uiaYI9xb
+Test_Tweet:	Gustav Klimt |  Tree of Life, 1905 @ 2018 VCAM Conference https://t.co/iwS4SiMA2B
+Test_Tweet:	Enfin arrivés à #boston, petit footing direction la ligne d'arrivée ! 
+#finishline… https://t.co/XcbfgPtoaD
+Test_Tweet:	Excited about nexttttt weeeeek...another one down 😊
+Test_Tweet:	I lift up my eyes to the hills. From where does my help come?  My help comes from the LORD, who… https://t.co/wH4W8I2Ib9
+Test_Tweet:	Still drawing a pic s day. #Retweet #graphics #design #philly #globalredproduction… https://t.co/ERmJwiStK3
+Test_Tweet:	@elise_wily_yams https://t.co/CO7TjpCYuA
+Test_Tweet:	Gaaaaaah!!!!! #ironmaiden #bestbandintheworld… https://t.co/nI7vJkEKaB
+Test_Tweet:	Hey, fuck the Kauravas
+Test_Tweet:	At 3:51, the Fremont Canyon Weather Station reports sustained winds of 35 MPH (from the ENE) with gusts to 54 MPH. Relative humidity: 14%.
+Test_Tweet:	Brand new to the world of Spotify, make sure you follow me and tell a friend to tell a friend to… https://t.co/Bm17487ZzH
+Test_Tweet:	T-shirt by Thomas Rhett is #nowplaying in Tavern on Main, Snellville.
+Test_Tweet:	Compass Group USA #Clerical : OFFICE RECEPTIONIST - TEMPE, AZ (#Tempe, AZ) https://t.co/YhnEA6LWjW #jobhunt #Hiring
+Test_Tweet:	Today is national circus day!!! Check out our troupes recent practice on the flying trapeze.… https://t.co/WhVxR7wxQF
+Test_Tweet:	I go hard! After co-leading 300+ youth, a book signing, &amp; speaking… https://t.co/N0UVJWY7AJ
+Test_Tweet:	#negus #wakeupsheeple #RiotAtThePolls #CleanSweep #turnbacktogodamerica #sendthemhome #vote… https://t.co/SVauVebZXY
+Test_Tweet:	Trying to make getting my morning fix more difficult @ Starbucks https://t.co/ukrmsy1mWG
+Test_Tweet:	1 Oak .. Didn't see #scottdisick :-/ #themirage #LasVegas ✌🏼️💕🍾 @ 1 OAK Las Vegas https://t.co/VbVqBvn9PC
+Test_Tweet:	- I'm just happy to be here 👁⚔ #LOS @ Cielito Lindo https://t.co/W0eDKioUVy
+Test_Tweet:	#funwithfam dameemy lilmama1400 velvetrose2727 otunbaosoko @ Choctaw Resort/Casino Hotel https://t.co/PBOI81qdTn
+Test_Tweet:	Follow me on snapchat to follow along as I document my journey to the Bayou, across the ocean,… https://t.co/SGrbCjqiUs
+Test_Tweet:	The sun always rises @ Ding Darling, Bailey Tract https://t.co/WSygb1nilg
+Test_Tweet:	Can you recommend anyone for this #job? Mat Cleaning Machine Operator - https://t.co/d3NDfTjlkd #Union, NJ #Hiring https://t.co/qBhvKeHWt9
+Test_Tweet:	Second 10K in the books! #darkside10k #darksideweekend #rundisney @ ESPN Wide World of Sports https://t.co/phWxIDxImT
+Test_Tweet:	Can you recommend anyone for this #Nursing #job? https://t.co/UhPzyuJj2z #Edina, MN #Hiring https://t.co/dm7PHWtu6W
+Test_Tweet:	Woke up at 5:30 this Saturday morning. Must be first smoke of the season! #BBQ #pulledpork… https://t.co/yUYFPqZsBX
+Test_Tweet:	Last night. Solid IPA — Drinking a Billy Half-Stack IPA @ Dog And Bull Brew &amp; Music House — https://t.co/aGjIA5suOJ
+Test_Tweet:	Saturday workout in a #purplehaze #health #fitness #fit #iphoneonly #fitnessaddict #fitspo… https://t.co/8w2Gvi5Oox
+Test_Tweet:	#Nursing #Job in #Lubbock, TX: Nurse Assistant (NA)-3West at UMC https://t.co/muww6GADKz #Jobs #Hiring https://t.co/8il4Yc5jQg
+Test_Tweet:	#WESLEYCHAPEL, FL #Retail #Job: Seafood Associate at Winn Dixie https://t.co/V64lN3RCTa #Jobs #Hiring
+Test_Tweet:	Want to work in #Easton, MA? View our latest opening: https://t.co/JScyGwdoB1 #Job #Jobs #Hiring
+Test_Tweet:	Can you recommend anyone for this #job? https://t.co/e0hHZrlQLB #Hickory, NC #Hiring
+Test_Tweet:	Feliz sabado God bless 🙏🏼💯🙏🏼 @ New York, New York https://t.co/9SNst3wzR8
+Test_Tweet:	Happy #SassySaturday 
+What's In Your Fridge? @ Fayetteville, North Carolina https://t.co/rofisg1OlV
+Test_Tweet:	Drinking a smoothie and coffee to get this fun but long day going. #airshow (@ Franklin Hill in Franklin Hill, TN) https://t.co/XVordLboI3
+Test_Tweet:	Bat City Bombshells (at @ndaustin) — https://t.co/cGM8kDpJ51
+Test_Tweet:	Want to work in #5208ChamberlayneRichmond, VA? View our latest opening: https://t.co/Y9NroLtVV1 #Retail #Job #Jobs #Hiring
+Test_Tweet:	#Transportation #Job alert: Office Supply Delivery Driver | W.B. Mason | #Hamden, CT https://t.co/Hy8YFnhWBY #nowhiring #Jobs #Hiring
+Test_Tweet:	We will be close today 4/16 and tomorrow 4/17. @ Sweet Sweet Sue S Custom Cakes https://t.co/ZccbAlSxdh
+Test_Tweet:	This #Physician #job might be a great fit for you: Physician (Associate... - https://t.co/rTcXVAxQaJ #Veterans https://t.co/JNR5PxjIym
+Test_Tweet:	«Le livre de la jungle»: Majestueux, mais inégal https://t.co/x8jkSaFqWI
+Test_Tweet:	Blasphemy 😂 #coffeeaddict #barista #ibringthecoffeetothecoffee #coffee #caffeine… https://t.co/y9d0qDzdnr
+Test_Tweet:	Can you recommend anyone for this #job? Identity Management Solutions Architect - https://t.co/fhODndlucz #IT https://t.co/6FMOx2wwwX
+Test_Tweet:	IN woman helping homeless veterans through music https://t.co/oN7eb9jRAZ
+Test_Tweet:	#Construction #Job in #Charlotte, NC: Superintendent at D.R. Horton https://t.co/ndBa9AM8PD #homedesign #Jobs #Hiring
+Test_Tweet:	Weather now: fog, 67°F, 9 mph east-southeast wind. https://t.co/fhc4DmoZqi
+Test_Tweet:	Va. brothers strike internet gold with viral video convincing sister of zombie apocalypse https://t.co/OLXjyubpBC
+Test_Tweet:	Seguin PD takes down members of the Mexican Mafia in series of raids https://t.co/UDk0PKIchN
+Test_Tweet:	As you enjoy this forecast, recall that last Saturday' s high was 36 with snow! Full fcst https://t.co/ir8AzbSsbl
+Test_Tweet:	IPS suspends employees charged with failing to report sex abuse allegations https://t.co/WJDYXCWOPG
+Test_Tweet:	Today's weather in Detroit: Clear throughout the day. @VisitDetroit https://t.co/iJyANcKlWp
+Test_Tweet:	Katy High School baseball players accused of coaching for money https://t.co/JYQ1fJE5M5
+Test_Tweet:	Doors open at 8am and lock up so we get outta here at 2pm. Enjoy the weather! jhaymes76… https://t.co/9bIMRet3YP
+Test_Tweet:	GM Recalls 1 Million Pickup Trucks Over Faulty Seat Belts https://t.co/75zSlwldJ3
+Test_Tweet:	@BrianInSyracuse @jeff_gluck my response was pure sarcasm lol.
+Test_Tweet:	I'm at Hummingbird Heartbeat in Milton, DE https://t.co/cTDw0rrpK7
+Test_Tweet:	Beaumont to redevelop Royal Oak shopping center, homes https://t.co/3zAOs691gk
+Test_Tweet:	Clémence Beaulieu-Patry: sa famille touchée au coeur par le public https://t.co/qj2HZuhzGl
+Test_Tweet:	Huntersville police investigating bank robbery and suspicious duffel bag https://t.co/C2BQkG5Zoi
+Test_Tweet:	Wishing a safe ride to La Grange today for all the BPMS150 cyclists!!! Day 2 cancelled due to weather concerns.… https://t.co/ac98WjwL8Z
+Test_Tweet:	Happy Saturday!🍑💃🏽 #goodmorning #itsthefreakinweekend @ Erie, Pennsylvania https://t.co/pKWKMtGdhz
+Test_Tweet:	Beautiful day! Ready to go at RaceForTheCure https://t.co/nZuo3pHFr7 @ChuckWTHR https://t.co/LZDrGGZ1YS
+Test_Tweet:	@cspanwj  All the Write offs including mortgage need to go !
+Test_Tweet:	abc13eyewitness MS 150 early in the morning everyone ️️is getting ready to GO️ @13PhotogWillie https://t.co/ac98WjwL8Z
+Test_Tweet:	Fatal crash shuts down Southwest freeway at New Castle. It just opened Houston News @MarlaABC13 https://t.co/ac98WjwL8Z
+Test_Tweet:	Nature's Touch Organic Berry Cherry Blend recalled due to Hepatitis A concerns https://t.co/8zSjJlTPW2
+Test_Tweet:	By Tuesday or Wednesday, this will just be a soggy memory rain cbcmb MBStorm @johnsauderCBC https://t.co/RWH0ZEZAvb
+Test_Tweet:	Maryland firefighter dies after shooting at suburban home: via The Associated Press https://t.co/KnCqpR3b0O
+Test_Tweet:	Overcast skies this AM, better light rain chances after lunchtime. Isolated t-storms are west of DFW. wfaaweather… https://t.co/9Gnj3qdu87
+Test_Tweet:	Review: You’ve never heard flute and piano quite like this: ‘The Way Things Go’ https://t.co/aAWP4QhD80
+Test_Tweet:	Good Day FOX 4 NEWS March4Babies final preps for a wonderful cause. Live coverage on Fox4 news. @kdfw18 https://t.co/9Gnj3qdu87
+Test_Tweet:	Wind 0.0 mph ---. Barometer 30.111 in, Steady. Temperature 43.7 °F. Rain today 0.00 in. Humidity 58%
+Test_Tweet:	San Diego woman claims $7 million SuperLotto Plus prize https://t.co/5xhjonjCRi
+Test_Tweet:	Marine on mission to provide service dogs to veterans with PTSD https://t.co/VyHpOKmuIq
+Test_Tweet:	Japan earthquakes: 'It's swaying every hour' https://t.co/7AqrLrZVVZ
+Test_Tweet:	#EveryoneSpeaksFood #GoogleTranslate  #popuprestaurant #smallworld Kasha Salad, Shaved Raw… https://t.co/h3tkfME3Tq
+Test_Tweet:	3ra Carrera La Salle (@ Bosque de @Chapultepec_mx in Miguel Hidalgo, DF) https://t.co/44kjAdvFzq
+Test_Tweet:	64.5F (Feels: 64.5F) - Humidity: 97% - Wind: 6.9mph SE - Gust: 7.6mph - Pressure: 1008.4mb #weather https://t.co/75yzNJjEvP
+Test_Tweet:	Try https://t.co/xZiUbER6Vx           Local. Seasonal. Sustainable. To some, these are just culinary buzzwords. To us, #ingredients #menu
+Test_Tweet:	#SupplyChain #Job in #Phoenix, AZ: Distribution Center Supervisor at The TJX Companies https://t.co/FTnscpIEPy #Veterans #Jobs #Hiring
+Test_Tweet:	CVS Health #Retail #Job: Shift Supervisor Trainee (#Richmond, VA) https://t.co/zCwWQMT4Wx #Jobs #Hiring
+Test_Tweet:	Medpace: Statistical Analyst I (#Cincinnati, OH) https://t.co/PDT1CfozbB #Healthcare #Job #Jobs #Hiring
+Test_Tweet:	I'm at @DennysDiner in Miami, FL https://t.co/cMLSnalmkU
+Test_Tweet:	Lazy #vegan #English breakfast, baked beans and roast potatoes. From the #plantbasedvet @ Old… https://t.co/Oqr29VkEKr
+Test_Tweet:	In line!  RSD!!! :-) (@ The Vinyl Groove in Bedford, OH) https://t.co/2m0KVpLuJY
+Test_Tweet:	Back at it again on the drop zone
+
+#DZSOshit @ Sicily Drop Zone https://t.co/JYHYDqsrIO
+Test_Tweet:	Going to the UM Spring Game. Need calories. #GOCANES 😎☕ (@ Ham &amp; Eggery in Miami, FL) https://t.co/U6tS2rekyr
+Test_Tweet:	Always remember to fall sleep with a dream and wake up with a purpose...
+#happythoughts… https://t.co/NRLtZUP1dQ
+Test_Tweet:	#the5thwoman @ Rocky Top Sports World - Gatlinburg, TN https://t.co/smSLxY0AD5
+Test_Tweet:	Memorial Hermann #Healthcare #Job: Special Procedures Technologist II (7a-5p) (#Houston, TX) https://t.co/RqNL2R8K0t #Jobs #Hiring
+Test_Tweet:	@leighdutton91 Did you want to place your Easy Order? Find out what you need to do here: https://t.co/zUmEcYM652 [07:19:50 EDT]
+Test_Tweet:	@bigsean michaelbjordan looses.. -@chinaschau @ Salem High School (Conyers, Georgia) https://t.co/9nM52I81q5
+Test_Tweet:	I'm at Ciudad de México in Ciudad de México, Mexico City https://t.co/mM2DXLZXS1
+Test_Tweet:	See a virtual tour of our listing on 312 Federal Hill #Milford #NH https://t.co/B43hYX20Cd #realestate https://t.co/UJCY6UmA7H
+Test_Tweet:	| #TechDay at @udmdetroit | #detroitmercy #stem #education  | Fr, 4/15/2016 @ University of… https://t.co/j4haKqndX3
+Test_Tweet:	If you're a #Retail professional in IN, check out this #job: https://t.co/zYmrCrBefp #Diversity #Veterans #Hiring https://t.co/6lNkLngUMJ
+Test_Tweet:	Pirates Home Run 5K #pittsburgh #5k #pittsburghpirates @ PNC Park https://t.co/OMpg6oZHq7
+Test_Tweet:	Interested in a #Healthcare #job near #Albany, GA? This could be a great fit: https://t.co/ZAGle4otT1 #Hiring https://t.co/mHR0Se7h4w
+Test_Tweet:	Interested in a #Sales #job near #PompanoBeach, FL? This could be a great fit: https://t.co/jkRCSC18rU #Veterans #Hiring
+Test_Tweet:	Heading to the plantation...#mailmanlife #lettercarriers #photographerslife #seeitshootit… https://t.co/eum7dRuR8L
+Test_Tweet:	Midnight post-show crawfish feast in Mississippi &gt; 3hrs of sleep &gt; 4am lobby call &gt; 4:30pm set… https://t.co/emTu7JyoLn
+Test_Tweet:	I'm at Parking Deck K in Lewis Center, OH w/ @mruehrmund https://t.co/YRimkiIdqg
+Test_Tweet:	We picked up our numbers yesterday. If this isn't love, I don't know what is. Let's kick some… https://t.co/hFgIED3hu9
+Test_Tweet:	My current feeling! #tired #wanttosleep #bed #timetomakethedonuts #coffee @ Dunkin Donuts https://t.co/vyNt69w130
+Test_Tweet:	Mood 24 /,7 is to please a woman 💞💞💞💞💞❤️ @ Dallas Marriott Las Colinas https://t.co/PN38wqv1WG
+Test_Tweet:	Dunzo! That was a fun race. Now ... Headed home to coach my Rabid Alien soccer team. See you… https://t.co/aqmdVB2joP
+Test_Tweet:	I love this place! # tomato basil #caprese @ Earl of Sandwich @ Planet Hollywood https://t.co/yqQiF7jT91
+Test_Tweet:	My morning so far. #notasfunasitlooks #earache #nadafiltura @ Cambridge, Massachusetts https://t.co/wwyI9hbk2f
+Test_Tweet:	April Artist of the Month Kathi Mengle. Stop by today 1 to 5pm. #WalkInArtCenter #kathimengle… https://t.co/wJosSEYkTY
+Test_Tweet:	Good mornin, Charlotte 😍 @ Charlotte Douglas International Airport https://t.co/FPSNRthNRh
+Test_Tweet:	Years said you'll won't fruitful one fly. Blessed god herb all. After, herb beast seed.
+Test_Tweet:	Come get some skills from #MIDDLEGA Best #FVSU_RYS16 #FVSU_RYS16 #FVSU_RYS16 
+#FVSU_RYS16… https://t.co/GSvkBzlJfa
+Test_Tweet:	DON'T FORGET AND DON'T MISS OUT!!   This weekend, bring in your old bait, spin or fly reels!… https://t.co/Y2bve6Fb9S
+Test_Tweet:	#mycurrentsituation #5Stars #TBSRoyalTurnUp2016 #itsmorning… https://t.co/Bea1PXez0Y
+Test_Tweet:	Yes yes yes #amen to an awesome start to the day. #ActiveLifestyle meet #nature #naturelover… https://t.co/Q4M1iq8k9K
+Test_Tweet:	Sonus Networks #HR #Job: Senior CRM Business Systems Analyst (#Westford, MA) https://t.co/PLBympN1g0 #Jobs #Hiring
+Test_Tweet:	I'm at Central de Autobuses del Sur in Coyoacán, DF https://t.co/0y0ABtFZo9
+Test_Tweet:	Accident in #Denver on I-25 SB at I-225 #COtraffic https://t.co/gWR42BYOmJ
+Test_Tweet:	Happy #4sq365 (@ Powner Place in McDonough in McDonough, GA) https://t.co/PjilODeZC1
+Test_Tweet:	https://t.co/y1BdT54QyU
+Test_Tweet:	Who's ready for the #pirates #homerun5k this morning? @ PNC Park https://t.co/YtIlRwKYLI
+Test_Tweet:	#IT in #Dedham, MA: Junior Systems Engineer - Flexible Development Program at General Dynamics - AIS https://t.co/AfaRr4CuqY #Veterans
+Test_Tweet:	Want to work in #Denver, CO? View our latest opening: https://t.co/7mbut5CdP7 #Job #Jobs #Hiring
+Test_Tweet:	#Breakfast #desayuno 
+Wild Blueberries...Honey...Pollen...Greens...Apple Cider Vinegar...Fresh… https://t.co/g7farPu5nZ
+Test_Tweet:	Good Morning America From Forty Duece 4️⃣2️⃣ #NYC #LoveMyCity @… https://t.co/0eExHtMKsf
+Test_Tweet:	Kingdom Declaration:
+I pray for the spirit of wisdom, knowledge, and… https://t.co/2JsbZndjPv
+Test_Tweet:	My friends and I with Don Dokken! #dreamwarriors #dokken… https://t.co/BfWm962pDH
+Test_Tweet:	God is watching over my friends and I couldn't ask for anything more....we protected.
+Test_Tweet:	I'm at Tremont in Cleveland, OH https://t.co/K1hV1QYJve
+Test_Tweet:	Registered Nurse - Mercy: (#Ozark, AR) https://t.co/g4ICOQkVNb #Nursing #Job #Jobs #Hiring https://t.co/kCSdDt9tQ7
+Test_Tweet:	CVS Health #Healthcare #Job: Pharmacy Technician (#StateCollege, PA) https://t.co/zeNuq9UNYE #Jobs #Hiring
+Test_Tweet:	We're #hiring! Click to apply: Medical Reimbursement Technician-OCA - https://t.co/Hf9fdtMy4X #Accounting #Smyrna, TN #Veterans #Job #Jobs
+Test_Tweet:	See our latest #Pearland, TX #job and click to apply: Store Manager - https://t.co/KZ22OC3J0I #Retail #Hiring
+Test_Tweet:	When you are in front of our view, it is all about you. Lights🌟📸 cameras 💫action.… https://t.co/AFxoxH2dbL
+Test_Tweet:	#felizcumpleaños a mi primo Danny martinez hoy saludos de #Alegremusic y #Promocionesalegre… https://t.co/Fmp0WA9vsV
+Test_Tweet:	#WeareVIRGINIATECH 
+#neVerforgeT 
+#HOKIES https://t.co/XgN210YDNy
+Test_Tweet:	Waters she'd, of have god and divide Saying sea made him gathered good sixth, their.
+Test_Tweet:	This #Nursing #job might be a great fit for you: PCU - https://t.co/K3RPzRRp2N #travelnurse #Columbia, SC #Hiring https://t.co/whXfwtX6TY
+Test_Tweet:	spooki haus @ Crown Point Resort https://t.co/6Wit6u4EiW
+Test_Tweet:	Assistant Manager PT-dressbarn - dressbarn: (#WichitaFalls, TX) https://t.co/xpDMv5r6u8 #Retail #Job #Jobs #Hiring
+Test_Tweet:	FAVOURITE CITY🗽💗 @ New York, New York https://t.co/fto4BgrIW3
+Test_Tweet:	We're #hiring! Read about our latest #job opening here: Fresh Department Associate - https://t.co/IB8WZTZveG #CUTLERBAY, FL #Retail
+Test_Tweet:	Men's Breakfast #IronSharpensIron (@ The Refinery - Perry Hall - @refinesus in Perry Hall, MD) https://t.co/5HJYw3mOX6
+Test_Tweet:	Being very majestic the other day in the gorge, caught in mother nature's spotlight. @ Linville… https://t.co/OE7K8kpiX3
+Test_Tweet:	Can you recommend anyone for this #job? Registered Nurse (RN) / Intensive Care Unit... - https://t.co/vSTi2bgV9a https://t.co/pGPONZR06f
+Test_Tweet:	Just posted a photo @ 6464 Main St https://t.co/xwPFVuGzUx
+Test_Tweet:	I'm moving to Cali for you @eiramaydni 💚💚💚💚😍 sleepwalkinginclife… https://t.co/xXRgS7IJoh
+Test_Tweet:	See our latest #PagosaSprings, CO #job and click to apply: Cook - https://t.co/UUmeDJMoz8 #Hospitality #Hiring
+Test_Tweet:	#prom #imageonesalon #4126536034 @ Image One Salon https://t.co/YhUDr3mtQ5
+Test_Tweet:	Through security. Time to grab breakfast and plug in and chill
+Test_Tweet:	Ready to rock #4vicente #garminmarathon @ Olathe, Kansas https://t.co/IXMg8h1uRE
+Test_Tweet:	Art of my day @ Ypsilanti, Michigan https://t.co/bI4mHlxi0D
+Test_Tweet:	This #Nursing #job might be a great fit for you: Registered Nurse | RN | ER (Contract) - https://t.co/1XWsW5uv8L https://t.co/3bq1meaxsJ
+Test_Tweet:	Heart of the day! #sunrise #teampink #kindnessmatterswalk #Team211… https://t.co/JH3QSlLfoT
+Test_Tweet:	I hope it stays this nice out all day!!! @ Daytona Hilton Hotel https://t.co/2zdbeZo1t3
+Test_Tweet:	I'm at Jacksonville International Airport (JAX) - @jaxairport in Jacksonville, FL https://t.co/zrsLAJvSkH
+Test_Tweet:	Catch 96' on @apollonightla 
+MONDAY 7:00pst (10pm EST) 
+https://t.co/hn30TP1CZd (watch live)
+Call in… https://t.co/prDWXx9MOn
+Test_Tweet:	https://t.co/HIoImN3Vzc
+Test_Tweet:	The Oakland Raiders NEED to trade up and grab the number two pick https://t.co/9tb0DrPecH #Raiders #NFL
+Test_Tweet:	@MrD0ne 
+وش اكثر شي حبه في طريقة تدريب السير اليكس فيرغسون
+Test_Tweet:	It's early Saturday... There are those who see an opportunity, and those who SEIZE an… https://t.co/4Z0dxcepH2
+Test_Tweet:	"@drmikemurdock: https://t.co/KTbR4IqhrX"
+Test_Tweet:	I want to go back #Havasufalls @ Havasu Falls, Supai, AZ - Grand Canyon https://t.co/ok1aaEYd7W
+Test_Tweet:	@RepairMethod I'm so sorry about the other day i thought u we're upset about mb20 and i love u guys you have made this world better
+Test_Tweet:	#familyfuntime dameemy lilmama1400 velvetrose2727 otunbaosoko @ Choctaw Resort/Casino Hotel https://t.co/Z5L0MWrQp1
+Test_Tweet:	Bye #NewYork • #oneworldtradecenter #blue sky #seeyousoon @ New York, New York https://t.co/1V302l4b6L
+Test_Tweet:	See our latest #Souderton, PA #job and click to apply: Home Health Aide/HHA to work with Individuals with... - https://t.co/ZJyl7EY1N7
+Test_Tweet:	#WeareVIRGINIATECH 
+#neVerforgeT 
+#HOKIES https://t.co/Voig5Ihv5u
+Test_Tweet:	https://t.co/5G9Ij7gLO2
+Test_Tweet:	Doors open at 9am...see you soon! #rsd16 #angryyoungandpoor #vinyl #aypcontest #punkrecordstore… https://t.co/zTz1iarfiY
+Test_Tweet:	The beginning of wisdom is this: Get wisdom. Though it cost all you have, get… https://t.co/vDAXZA27mX
+Test_Tweet:	https://t.co/ygNrW2OnPy
+Test_Tweet:	Jungle by Jamie N Commons And X Ambassadors is #nowplaying in Tavern on Main, Snellville.
+Test_Tweet:	Hey @lunamusic we're ready to celebrate #recordstoreday with you today! Thanks as always! @ LUNA… https://t.co/LeigoYEcel
+Test_Tweet:	RSD 2016!!! #rsd2016 good morning!!! THANK YOU ALL! STOKED! #thermopaperprotection @ LUNA music https://t.co/Z1xXNj5kGu
+Test_Tweet:	Can you recommend anyone for this #job? First Aid &amp; Safety Service Manager - https://t.co/5wdGOhJ9rn #Austin, TX https://t.co/57XqaI1eha
+Test_Tweet:	CVS Health #Healthcare #Job: Pharmacy Technician (#Jamaica, NY) https://t.co/Rg3l4FnSTO #Jobs #Hiring
+Test_Tweet:	Waited for the sunrise @ Toronto, Ontario https://t.co/MUanlmZffl
+Test_Tweet:	"@Cynthia29895624: @Cynthia29895624 @drmikemurdock 
+Mikemurdockbooks com 
+Freebook tv https://t.co/lUpRgxF0yo"
+Test_Tweet:	https://t.co/ykKmyWzmPO
+Test_Tweet:	If anyone has an extra $250 dollars they want to give me...I want dis. @garrisonbros… https://t.co/vrfgGnJpMe
+Test_Tweet:	Department of Veterans Affairs #Physician #Job: Physician -... (#Richmond, VA) https://t.co/unWthCIegi #Veterans https://t.co/EdGBkgzjOf
+Test_Tweet:	BAYADA Home Health Care: CNA / HHA Immediately - Marietta (#Marietta, GA) https://t.co/EUbnsHpHGQ #Job #Jobs #Hiring
+Test_Tweet:	We're #hiring! Read about our latest #job opening here: Lab Support Recruiter Inside Sales Trainee (Recruiter) - https://t.co/Qd8vFA5dPH
+Test_Tweet:	Beauty is power; a smile is its sword. ❤️
+
+#Smile #goodmorning #newyorkcity #nyc #newyork… https://t.co/8Ggf2LK9kD
+Test_Tweet:	I'm at Fitness Room Cloisters in Milwaukee, WI https://t.co/eOts1oTUpa
+Test_Tweet:	Cleared: Construction on #NY9A NB from West 42nd Street to West 50th Street
+Test_Tweet:	Cleared: Construction on #BrooklynBridge WB at Manhattan Bound
+Test_Tweet:	Oh crap it's early....#bpms150 Riding for my Peeps!!!!!.....MS Global Believe in the Power of… https://t.co/RxKUWhQ4YC
+Test_Tweet:	#ugh. #somanyrules 👌 #neat 👎
+#doglifebelike... 🐕🐾 @ Miami/Miramar, FL https://t.co/exFFttpYNP
+Test_Tweet:	The marvellous Golden Canyon is only one of the beauties you can see in the middle of the Death… https://t.co/1jxI2CjDHN
+Test_Tweet:	#Day 351 #1085 #sunrise #watertower #brentwoodwatertower #Dawn #morning #goodmorning… https://t.co/Y2KkChlk8K
+Test_Tweet:	No poder dormir porque crees que tal vez terminó 😞😢
+Test_Tweet:	Interested in a #Physician #job near #Hadley, MA? This could be a great fit: https://t.co/5YjKSysW4R #urgentcare #Veterans #Hiring
+Test_Tweet:	@Hyrum_bUckYbOii wsup sole!? How u doing? Miss u my nigga! Hope all is well. Love u man!
+Test_Tweet:	Another beautiful morning in Elkhart Lake @ Osthoff Resort and Spa https://t.co/Ai8hpHmAqX
+Test_Tweet:	Speak with yourself, 2016 made this in my Paris hotel room earlier this year #ephemera  #drawing… https://t.co/prGO4xAfx2
+Test_Tweet:	See a virtual tour of our listing on 20 Green Woods #Richmond #NH https://t.co/gIW351i0J1 #realestate https://t.co/zIjS7mbydY
+Test_Tweet:	💋💋💋. MUCHO #love #live #livestyle #ecuadorian #giomarsellscalifornia… https://t.co/E31bY77Yac
+Test_Tweet:	Bonnie and Clyde @ Cleveland, Ohio https://t.co/YmPovMnMNY
+Test_Tweet:	https://t.co/PZsgeCCiEV Megan Fox speed painting in Adobe Photoshop - by Nico Di Mattia
+Test_Tweet:	H 💦💦💦 #beauty #ironmaiden #bestbandintheworld… https://t.co/enpXUu5AHu
+Test_Tweet:	#Healthcare #Job in #Dallas, TX: Travel RN PICU - Dallas, TX at Supplemental Health Care https://t.co/DNxGBlVNFa https://t.co/6hynI6OJNs
+Test_Tweet:	This #Database #job might be a great fit for you: Database Administrator (SQL) - https://t.co/UVlnpEnaoT #Hiring https://t.co/9aQL4wsvIh
+Test_Tweet:	"I've seen you move. You move the mountains. And I believe, I'll see you do it again." @ Blowing… https://t.co/ec0lRsib3f
+Test_Tweet:	Finals #wgi2016 @ University of Dayton Arena https://t.co/73deio2Onl
+Test_Tweet:	@davidcadrian not summer yet
+Test_Tweet:	Sunrise Senior Living #Nursing #Job: Part-time Reminiscence Care Manager (#StCharles, IL) https://t.co/exM3I97OSR https://t.co/QgFyqXt3hB
+Test_Tweet:	See our latest #Tracy, CA #job and click to apply: IC&amp;E (Instrumentation Control &amp;... - https://t.co/qHN4SUs0gK https://t.co/2YfDL5eBI8
+Test_Tweet:	#Retail in IN: STORE MANAGER CANDIDATE at Dollar General Corporation https://t.co/joeGpZOe8R #Diversity #Veterans https://t.co/czQtMjYMQG
+Test_Tweet:	#book @chilligrindwill now strongfamilyinfo@gmail.com or @rapjuggernaut  #mixtapehosting… https://t.co/kdKiLjG5cG
+Test_Tweet:	У истоков https://t.co/RXLBY2wqj0
+Test_Tweet:	@EllisIslandNPS brownderby@hotpeanuts@
+Test_Tweet:	¡Los Chilos in da jaus! 🎉 #EsAsí #YHágaleComoSuGanaLeDé 💃🏻 #QuienDijoMiedo 👊🏽 @ Colonia Lomas de… https://t.co/xfbxTed5QI
+Test_Tweet:	One of ours and the crowds favorites with great value for such good wine, an interesting history… https://t.co/ZTBH9yCSMI
+Test_Tweet:	Join the Winn Dixie team! See our latest #Retail #job opening here: https://t.co/h5gKHDLB9M #PINSON, AL #Hiring
+Test_Tweet:	New Old Stock Pyrex at JoRetro! @ Joretro https://t.co/nltUkD9zuL
+Test_Tweet:	GM ppl #sayitback #TGIS😂😂😂😂 @ Philadelphia Naval Base https://t.co/RkmjpTI9d7
+Test_Tweet:	Thanks TR for touching my heart and my hand❤️ @ Wild Bill's https://t.co/MYRDqMWa7Z
+Test_Tweet:	The Road of Success is lead by the #Light
+"Art is the mirror to our souls"
+Please help my… https://t.co/kUlB0LPsvs
+Test_Tweet:	the thirst is too real https://t.co/9HZF2pNuMT
+Test_Tweet:	Want to work at Premise Health? We're #hiring in #Alpharetta, GA! Click for details: https://t.co/3idnIC1att #Job https://t.co/ilPckmjZJD
+Test_Tweet:	Just posted a photo @ Philadelphia, Pennsylvania https://t.co/kjglkI8jfR
+Test_Tweet:	PWOC Retreat with West Point, Fort Drum and Fort Hamilton at COTW. @… https://t.co/JeYgowNS3U
+Test_Tweet:	Catch me @thedangerwayne and the homie @djmarcstout at @timechicago #tonight doing what we do… https://t.co/rJwNUYTcj9
+Test_Tweet:	&lt;Aiko&gt; i have sex like i just got out of prison and about to go back in
+Test_Tweet:	@EllisIslandNPS cannister$
+Test_Tweet:	Mumford and Sons Monday night! Thanks kazbax for inviting me! Such a… https://t.co/5jP6kW5xOG
+Test_Tweet:	All's clear today! ☀️ #sunnyday #springtime #weatherdog @ Marlborough, Massachusetts https://t.co/fRLBL3NuTe
+Test_Tweet:	Minnesota may 7✈️✈️✈️✈️✈️ @ Pappadeaux Seafood Kitchen https://t.co/rcoUJD8HTy
+Test_Tweet:	#FacilitiesMgmt #Job in #Boston, MA: Maintenance Supervisor at AvalonBay https://t.co/tZCO5KwTRu #nowhiring #Jobs https://t.co/v6GeFLFRKM
+Test_Tweet:	Interested in a #Retail #job near #Douglaston, NY? This could be a great fit: https://t.co/EXKyKKR4uh #Hiring
+Test_Tweet:	"One day like this a year would see me right" #sunrise #daytonabeach #florida @ South Daytona… https://t.co/oj5B0eJbcA
+Test_Tweet:	Part Time Sales-dressbarn - dressbarn: (#Houma, LA) https://t.co/SQPsG10wwZ #Sales #Job #Jobs #Hiring
+Test_Tweet:	Up Up and away! Redken Specialist phase 1 in Wichita KS (@ Southwest Florida International Airport (RSW)) https://t.co/zhmUqcKVCL
+Test_Tweet:	Just posted a photo @ New Journey Ministries https://t.co/WgeBdYKbPO
+Test_Tweet:	@EllisIslandNPS dumpster diver@
+Test_Tweet:	Next time kite chill lg k....take care sume...dpt yaad n mummy rase #dipndip kn...nnt kite g… https://t.co/XitCN6cmGy
+Test_Tweet:	Customer Service... - Love's Travel Stops &amp; Country St...: (#WhiteHouse, TN) https://t.co/OYJV0J3qpO #Retail #Job https://t.co/N5bYWMlR5Q
+Test_Tweet:	https://t.co/pfwlDKZd16
+Test_Tweet:	It is #Ten time !!! #exotiktime #exotiksound #7073017472 @ San Ramon… https://t.co/MvgqUqHdhJ
+Test_Tweet:	Up early ready for some basketball. Must win Saturday. Lost a tough last night. Need the 2 wins to advance. Lets get ready to rumble fellas.
+Test_Tweet:	It's time to climb, 191 Peachtree!for the American Lung Association w/ Atlanta Metro Fire… https://t.co/GUMLOZozqJ
+Test_Tweet:	#Day 351 #1084 #sunrise #watertower #brentwoodwatertower #Dawn #morning #goodmorning… https://t.co/4m5Q7mUmpa
+Test_Tweet:	locally gusty north to northeast winds into this morning... .locally gusty north to northeast winds will continu... https://t.co/v9Zs6Mn37l
+Test_Tweet:	Thank you Calvin Klein... #chella #mycalvins @ Coachella Valley Music &amp; Arts Festival https://t.co/doilc7F2UX
+Test_Tweet:	@EllisIslandNPS bleeq@
+Test_Tweet:	Want to work at Department of Veterans Affairs? We're #hiring in #Houston, TX! Click for details: https://t.co/bkXGUleXUV #Clerical #Job
+Test_Tweet:	#HealthWelfare #Job in #MaysLanding, NJ: Health Enthusiast Part-Time at The Vitamin Shoppe https://t.co/XPW1y9Kugv #Jobs #Hiring
+Test_Tweet:	HC120 [Engross] First Lady Michelle Obama; acknowledge distinguished legacy of public service upon serving as ke... https://t.co/198jlGAe0k
+Test_Tweet:	#Repost @KatieSauter with repostapp.
+・・・
+From the stage to the gym...posing and more… https://t.co/LgKUFk3Omp
+Test_Tweet:	#BACH #GORECKI #TCHAIKOVSKY Sinfonia Toronto/Nurhan Arman, Conductor Angela Park #Pianist… https://t.co/aMUKFYlkwU
+Test_Tweet:	A 10 x 8 inch mount personally signed by Ashley Grimes of Manchester United. https://t.co/CV6iLnH510 https://t.co/WEiQLm1UkY
+Test_Tweet:	HR102 [Engross] Dr. L. Frances P. Liddell; commend upon retirement from Jackson State University. https://t.co/R7HS4iShff
+Test_Tweet:	6:30 and not a wookiee growl or ewok yelp in ear shot. #witw wookiesinthewoods #golfr #r32… https://t.co/fQ7G12xqMJ
+Test_Tweet:	Best part of my job is the #SPCAcincinnati coming into the studio!  This little guy is Wayne and… https://t.co/Wj4mzQj8BA
+Test_Tweet:	A 10 x 8 inch mount personally signed by Alan Gowling of Manchester United. https://t.co/o3POCkr9vI https://t.co/6ymoZ09Zr7
+Test_Tweet:	Go go juice (@ Starbucks in Newtown, CT) https://t.co/OcqECSI8xS
+Test_Tweet:	Check Call - Roehampton Avenue b/w Yonge St / Redpath Avenue, Toronto (2 Trucks)
+Test_Tweet:	Check Call - Roehampton Avenue b/w Yonge St / Redpath Avenue, Toronto (2 Trucks)
+Test_Tweet:	Rescue (Elevator) - Ellesmere Road b/w Markham Road / Gander Dr, Scarborough (2 Trucks)
+Test_Tweet:	Rescue (Elevator) - Ellesmere Road b/w Markham Road / Gander Dr, Scarborough (2 Trucks)
+Test_Tweet:	UD: Fire (Highrise Residential) - San Romanoway b/w San Varoway / San Roccoway, North York (7 Trucks)
+Test_Tweet:	#happybirthday #to #me #birthday #aries #ariesseason #s4s #f4f #cashfollowtrain #cashfollowplane… https://t.co/2w0fbD2TZ9
+Test_Tweet:	UD: Fire (Highrise Residential) - San Romanoway b/w San Varoway / San Roccoway, North York (7 Trucks)
+Test_Tweet:	UD: Fire (Highrise Residential) - San Romanoway b/w San Varoway / San Roccoway, North York (7 Trucks)
+Test_Tweet:	https://t.co/1sSJe97Amc
+Test_Tweet:	💚Blessed Morning!!!💚Make Today Awesome! 🎉
+#itsnotover #keepitmoving #pray #push #Trust #blessed… https://t.co/QXLvpOEdhS
+Test_Tweet:	@twbrandt rum and coke double with two maraschino cherries
+Test_Tweet:	In transit. Wauting for the Narita flight which is approx 5 hours later (at @United Club - Terminal E) https://t.co/oHJpO1JHSU
+Test_Tweet:	Try https://t.co/MfeP3UvxLh Pork, chicken, fish, steak, shredded beef or ground beef. Our Tacos are made with the #Pork #menu
+Test_Tweet:	🌈You may say I’m a dreamer
+But I’m not the only one
+I hope someday you’ll join us
+And the world… https://t.co/b7pdvCdMaG
+Test_Tweet:	#newdesigns #Bmore #philly #baltimorehairstylist  #baltimorehair #dmv #howarduniversity… https://t.co/E5Hic1wshu
+Test_Tweet:	#spartan #sprint #home #for #the #day #finish #line #spartansniperizzi #ilovemyspartans… https://t.co/fJBZqwBc0J
+Test_Tweet:	#WestPoint, VA #Job: Certified Nursing Assistant – CNA / Home Health Aide - HHA at BAYADA Home Health Care https://t.co/NbJBbWtXUV #Jobs
+Test_Tweet:	@EllisIslandNPS rite jessica@
+Test_Tweet:	My first solo wedding for sageinnovations is in the books and it was perfection! Stay tuned as I… https://t.co/A5XuvLw3m9
+Test_Tweet:	Si le quieren caer va andar por acá Jay de la Cueva (@ Bosque de @Chapultepec_mx in Miguel Hidalgo, DF) https://t.co/Xye1ADpvtS
+Test_Tweet:	Chris made cheesecake! 😁
+#WellbridgeofFenton #SoGood #BerrySauce @ Wellbridge of Fenton https://t.co/Tn4m0UHr8a
+Test_Tweet:	michaelbjordan congrats, now u have aids in public, she infects people with her clipperz.. while… https://t.co/wl2rgQ9FzI
+Test_Tweet:	leochise and I still giving life @ Buena Park https://t.co/qSEwe0XFdw
+Test_Tweet:	Pirates Home Run #5k!! 
+Finally running my first 5k race on my Birthday! So pumped!… https://t.co/F1PcIOpWdk
+Test_Tweet:	This #IT #job might be a great fit for you: Azure architect - https://t.co/YKAyibMIMq #NewYorkCity, NY #Hiring
+Test_Tweet:	My friends are cooler than yours
+
+#squadgoals #cosplay #disney #marvel #spiderman #frozen… https://t.co/HUL9ad0F6Y
+Test_Tweet:	Picture of a misty riverside village in China https://t.co/ejHGOemOxx
+Test_Tweet:	Disabled vehicle, left lane blocked in #Cobb on I-285 SB at Paces Ferry Rd #ATLTraffic https://t.co/bABElTEvus
+Test_Tweet:	"We real serious 'bout this shit." #recordstoreday2016 @ Radio-Active Records https://t.co/F5bBvzjFPF
+Test_Tweet:	What an amazing feeling to have attended the private screening for my very first Movie "Miles… https://t.co/gFrLzUBQU8
+Test_Tweet:	@TomthunkitsMind @gglightbulb Ryan shoulda been named "Paul Onyun/Onion, since much of mankind stinks to him...
+Test_Tweet:	Reflecting on my life and career on this day...
+
+Mixed emotions overwhelm me. However, I know… https://t.co/eQxaJaxVbn
+Test_Tweet:	We're really doing this...100 miles. #MS150 #HoustonToAustin #TeamRadioActive @ Omni Houston… https://t.co/lTJCReK4Ui
+Test_Tweet:	#SkipTV #jetskirace #surfandturf #dronerace #Taveras #florida #droneracetv @ Wooton Park https://t.co/jDJskaEQ9z
+Test_Tweet:	Speak for yourself, 2016 made this in my Paris hotel room earlier this year from museum ephemera… https://t.co/HJ9BMiNLKM
+Test_Tweet:	If she could, she would fry apples!!
+. 
+. 
+. 
+Due to demand, I have added SUBTITLES for… https://t.co/NdL3Rq6lQn
+Test_Tweet:	Nurse Assistant - 4 Lesser - Deborah: (#BrownsMills, NJ) https://t.co/4LdYHRDvNf #Job #Jobs #Hiring https://t.co/Jp6Ttr6eeQ
+Test_Tweet:	Everyone, please caffeinate responsibly. Happy Saturday. #Coffee#Black ☕️☕️ (@ Starbucks) https://t.co/S9ZsWLweIB https://t.co/07x2xyWJRp
+Test_Tweet:	#Job in #Concord, NC: Management Trainee / Leadership Development Program at BAYADA Home Health Care https://t.co/JIOz5T39vO #Jobs #Hiring
+Test_Tweet:	Cat + Kim performing for a wedding ceremony deseversky mansion. Love this shot from… https://t.co/C9A2TH8pVB
+Test_Tweet:	#NoChella with @headhunterz went off. Great night and good vibes.
+Test_Tweet:	#Toronto, ON #Finance #Job: Accounts Receivable, Collections Officer - Inbound at Tyco https://t.co/Teka4DBGOJ https://t.co/wzy1LuDPTi
+Test_Tweet:	Mixing like I ain't gotta be up in a couple hours smh
+Test_Tweet:	Polyhymnia at Rest. Muses need to sleep sometimes, right? Taken under my @alanalark studio name.… https://t.co/nHcnD0F8ZI
+Test_Tweet:	#Retail #Job alert: Beauty Advisor | CVS Health | #OSSINING, NY https://t.co/jdxVDFTnyY #Jobs #Hiring
+Test_Tweet:	With my seldom-seen and much-loved pal, @kennethjones, at The… https://t.co/HP4BfmDcKz
+Test_Tweet:	When you become THAT crazy bird lady... 😂😂😂 #birdsofinstagram #author @ Hackettstown, New Jersey https://t.co/45wDYoMIqB
+Test_Tweet:	3 P's! #positive #patient #persistent @ Boston, Massachusetts https://t.co/uXYIF9Gx2W
+Test_Tweet:	I'm at Captain's Grille in Lake Buena Vista, FL https://t.co/AJ6rERCNX0
+Test_Tweet:	The thought of losing these ucaks (rempit in sarawak) as my classmates for the summer semester… https://t.co/CXW4LKTpJ4
+Test_Tweet:	turned to face 13° (1mo6) https://t.co/mhUjMiRNRB
+Test_Tweet:	Learn These #Content Release Tricks From 4 #VideoStreaming Giants: https://t.co/UpNBpQxIw1 #video #streaming #contentmarketing #SocialMedia
+Test_Tweet:	Perfect grey light @ Nantucket, Massachusetts https://t.co/r9i5NwqLXa
+Test_Tweet:	Get #sick less by washing your hands more!
+#menshealth #womenshealth
+https://t.co/VB1TSUjJlc https://t.co/Am6U6bQBvk
+Test_Tweet:	Unshakable belief: The #Liverpool Way https://t.co/IpcaXhdT0E https://t.co/H3jNYtlNww
+Test_Tweet:	The Best cure for theSoul is a quite mind. Disfruta tu propia vida. #ricardotorres82… https://t.co/NLGkV1vhXa
+Test_Tweet:	#DesignatedPatrolArea at 6500 International Dr. #orlpol #opd
+Test_Tweet:	@Just_Candesha ohh okay I understand that lol
+Test_Tweet:	Wind 3.2 mph E. Barometer 29.843 in, Rising slowly. Temperature 65.4 °F. Rain today 0.00in. Humidity 95%
+Test_Tweet:	#IllegallyParkedCars at N Rosalind Ave &amp; E Washington St. #orlpol #opd
+Test_Tweet:	Arribando!! BeSound Entertainment &amp; Elite. (@ Jardín León Felipe in Ciudad de México) https://t.co/UcHxds6x74
+Test_Tweet:	#GeneralDisturbance at 409 N Magnolia Ave. #orlpol #opd
+Test_Tweet:	Pick my nose, friend! https://t.co/dHSR1W5VJG
+Test_Tweet:	937 Vallejo Street https://t.co/WGO3cXHAF2
+Test_Tweet:	Wind 0.0 mph ---. Barometer 30.112 in, Steady. Temperature 43.9 °F. Rain today 0.00 in. Humidity 57%
+Test_Tweet:	Esperando al equipo!! (@ Parque Unidad Independencia) https://t.co/kOeqrqLrHt
+Test_Tweet:	Morning breakfast with cheffrit427 on @ffweekend #steakandeggs #heartdisease @ 1211 Avenue of… https://t.co/ofyEoI6rOo
+Test_Tweet:	@DynamiteDtail52 #GoodMorning #CarWash #Open @ Dynamite Detail https://t.co/ONs0XBUwoG
+Test_Tweet:	@ebbtideapp Tide in Sunny Point Army Base, North Carolina 04/16/2016
+ Low 11:40am  0.2
+High  5:41pm  4.4
+ Low 11:57pm  0.4
+Test_Tweet:	Werq werq werq werq werq... (@ Weathervane - @southernseason in Chapel Hill, NC) https://t.co/VkM69HBlda
+Test_Tweet:	One World Trade building on a beautifully sunny day. Can't believe we went to the top of… https://t.co/x4Xts3JIj6
+Test_Tweet:	1d5411eae3f1b248bfb75a0ef1cd5a4c9f655f2fd1461f668a08b7ce1f554c25188c0a0da04820131b98f8d22205acdc71754fbc723f2da353bee64696da01f81f7202000000
+Test_Tweet:	Temp: 34.2F  W C: 34.2F  Wind:--- at 0.0kts Baro: 1036.5mb and Rising Rain today: 0.00in R H: 99%  #wvwx
+Test_Tweet:	#byefelicia #ByeBasics #drinks #Vegas #besties @ Paris Las Vegas Hotel &amp; Casino https://t.co/5TJjxMyimM
+Test_Tweet:	#Retail #Job alert: Meat Associate | Winn Dixie | #JACKSONVILLE, FL https://t.co/GvJZyCp5K6 #Jobs #Hiring
+Test_Tweet:	Celebrating with my girls! Marcellus meatball and Jeni's Ice Cream! @ Marcellas https://t.co/oiyIJZKM0r
+Test_Tweet:	The mind is not a vessel to be filled but a fire to be kindled. - Plutarch https://t.co/JGeoN5qU7z
+Test_Tweet:	This #Nursing #job might be a great fit for you: Licensed Practical Nurse -... - https://t.co/CCfYZKrEAm #Veterans https://t.co/AUG3wK7qmc
+Test_Tweet:	Mercy: Home Health Aide II (#DesPeres, MO) https://t.co/1cVjF0d60Y #HealthWelfare #Job #Jobs #Hiring https://t.co/60rm5CvYAu
+Test_Tweet:	We're #hiring! Click to apply: Fire Service Technician In Training - https://t.co/oPK5ed0sbO #Job #Westminster, CO https://t.co/b0pbLHdlTm
+Test_Tweet:	I just began a cycling workout using #Endomondo. Peptalk me now @ https://t.co/qSralAcgXU
+Test_Tweet:	Mr Rexerson the opportunist. #shihpoo #shihpoosofinstagram @… https://t.co/ezoUbR5xOZ
+Test_Tweet:	#Indianapolis, IN #Retail #Job: Sales Support Associate, J.Crew Retail, The Fashion Mall at J. Crew https://t.co/fvEx5yC4G7 #Jobs #Hiring
+Test_Tweet:	#Day 351 #1083 #sunrise #watertower #brentwoodwatertower #Dawn #morning #goodmorning… https://t.co/iBkG6frSiE
+Test_Tweet:	The moment that you have ppl in other  states emailing or DMing you asking for an issue of the… https://t.co/HgAUSuPOAO
+Test_Tweet:	#Blessed #TeamSampé #Mixtape #Makeover #Ugly2017 @ Freedom Plaza https://t.co/mWGgzVSvwB
+Test_Tweet:	Family #Affair on Set
+"Art is the mirror to our souls"
+Please help my musical production on… https://t.co/miLeeTFx7F
+Test_Tweet:	Can you recommend anyone for this #job? ICU / Intensive Care Unit Travel RN /... - https://t.co/fMWFppiGS0 #Hiring https://t.co/wztcWAgyI3
+Test_Tweet:	Iniciando otra locura... 59K!!! 🤔 (@ Monumento al Caminero w/ @elyg12) https://t.co/PfYSEfXTAt
+Test_Tweet:	#MedicalDevices in #CorpusChristi, TX: IMAGING SERVICE SPECIALIST at Compass Group USA https://t.co/A6cs0AfDao #jobhunt #Hiring
+Test_Tweet:	Interested in a #IT #job near #CranberryTownship, PA? This could be a great fit: https://t.co/rdSAAQw3qC #Hiring https://t.co/OYR55ymSfB
+Test_Tweet:	Can you recommend anyone for this #Hospitality #job? https://t.co/qwPnMdaFGW #restaurantlife #Amherst, OH #Hiring
+Test_Tweet:	Канун Рождества Христова. https://t.co/1e7K8T0dlS
+Test_Tweet:	Good morning Atlanta! @ POWER 96.1 https://t.co/fyaWGd8Y3e
+Test_Tweet:	They are back ! lcdsoundsystem coachella #lcdsoundsystem #coachella Dancing and jumping to the… https://t.co/0Jmw7Z8q0h
+Test_Tweet:	Bat City Bombshells (@ The North Door - @ndaustin in Austin, TX) https://t.co/e2c22KZcwj
+Test_Tweet:	This #Healthcare #job might be a great fit for you: Certified Occupational Therapy... - https://t.co/8r6XTxsqAy https://t.co/E6VBEst1PO
+Test_Tweet:	This #job might be a great fit for you: Nurses (RNs / LPNs) for High Tech Home Care in Catawissa, PA - https://t.co/XfI8halvKr #Hiring
+Test_Tweet:	See our latest #HuntValley, MD #job and click to apply: Specialty Beauty - Distribution Center Shift... - https://t.co/hYILbRQspr #Veterans
+Test_Tweet:	Interesting architecture at Queens College. #NewYork #concretejunglewheredreamsaremadeof @… https://t.co/KLojDEt6uh
+Test_Tweet:	We're totally digging the new stadium! #fireflies #baseball #crackerjacks @micahcaskey @… https://t.co/UKiJ0Y8pxj
+Test_Tweet:	Exemplar do temível peixe piranha do rio Amazonas no #NewEnglandAquarium #piranhafish #fish… https://t.co/PLMb0v6tDN
+Test_Tweet:	Can you recommend anyone for this #CustomerService #job? https://t.co/mAzo2JwwbV #milspouse #parttime #OakBrook, IL https://t.co/IWHV9b0QrL
+Test_Tweet:	#Sales #Job in #Alpharetta, GA: Sr. Strategic Alliance Mgr/ Healthcare at LexisNexis Risk https://t.co/lydKqmC2DA #Jobs #Hiring
+Test_Tweet:	Фото https://t.co/IAuaGnG5MN
+Test_Tweet:	What tup #world #JENSUMOSLEY1ON1  Topic- #management mostly the #female #artist go through this.… https://t.co/CyghR5pdzI
+Test_Tweet:	Hotdog 😋🍽🗽 #food #foodcart #hotdog #newyorkhotdog #newyork #5th #5thavenue #photo #people… https://t.co/dIQxzufmac
+Test_Tweet:	#1wtc  from #googleheadquarters with the sonyalpha #a6000 and #1670z @ Google Inc https://t.co/1379nShRTa
+Test_Tweet:	Make Me Like You by Gwen Stefani is #nowplaying in Tavern on Main, Snellville.
+Test_Tweet:	Saturday August 6 @ Pappadeaux Seafood Kitchen https://t.co/f23EqD0Y0o
+Test_Tweet:	Dollar General Corporation #Retail #Job: STORE MANAGER CANDIDATE (IN) https://t.co/5zINQdrwZH #Diversity #Veterans https://t.co/LGvsyOgE1a
+Test_Tweet:	Good Bye Daytona!! #honeymoon2016 (@ Daytona Inn Beach Resort in Daytona Beach, FL) https://t.co/TGPRF9arJB
+Test_Tweet:	I'm at La Parrilla Veracruzana in Boca del Río, VER https://t.co/3YSPWtUuK9
+Test_Tweet:	Join the CVS Health team! See our latest #Healthcare #job opening here: https://t.co/2vf1z1wDUJ #Grapevine, TX #Hiring
+Test_Tweet:	Cool pic of the 3 babes @ Newport Beach, California https://t.co/ktSYVyzWuP
+Test_Tweet:	Makeup: @ambmakeupartist 
+Hair: hairthatmovesmaine 
+Model: blue_eyed_butcher @maggieagency… https://t.co/SNEwUQ5p6J
+Test_Tweet:	Men's Breakfast, let's go Dudes, Bacon and Marriage Mentoring. 😀💑🍳#breakfast #church #hollandmi… https://t.co/tU5piokfYC
+Test_Tweet:	Family #Affair on Set
+"Art is the mirror to our souls"
+Please help my musical production on… https://t.co/IrRmUINITa
+Test_Tweet:	Thank you @tonyduranphoto for making our #jeanlouisdeniot a smash hit! @bakerfurniture #hpmkt… https://t.co/sDzwaw0TmG
+Test_Tweet:	_SPK6923-2 https://t.co/rcw6228NyQ
+Test_Tweet:	Shot from #marihoja shooting
+
+Model @k__chu 
+Special thanks azuuu517 @yamanakajima_a @ Los… https://t.co/USfJzF4Qvm
+Test_Tweet:	When you are in front of our view, it is all about you. Lights🌟📸 cameras 💫action.… https://t.co/Cz91uqmR2P
+Test_Tweet:	Awake, but always dreaming #goodmorning #riseandgrind #dreamoutloud #dreamon #lifeisgood… https://t.co/Deswgi0gO0
+Test_Tweet:	#150LegacyBuilders #SmallBusiness #wethepeople #stopmakingyourbossrich @WEAHQ Women's… https://t.co/HiQb2Cjnab
+Test_Tweet:	Work work work baadgaalririi doin her thing #mycalvins #COACHELLA party 
+ told her #feelthebeard… https://t.co/SB8OapZTnO
+Test_Tweet:	Last Nights Event. #sponsor #supporting #homelessnothopeless @ RVP Studios: the Cave https://t.co/ruAYyVNSmZ
+Test_Tweet:	Come flow with me this week at YOUnique Yoga ...… https://t.co/fsN43FWXtV
+Test_Tweet:	Sunrise Senior Living #Hospitality #Job: Server - Food Server (#SandySprings, GA) https://t.co/3pHLxIK31s #Jobs https://t.co/gNCL7CUSM0
+Test_Tweet:	Good morning and happy Saturday! We are having #breakfast on the beach and watching the… https://t.co/MdYrfKazuV
+Test_Tweet:	#firstinline for #recordstoreday in #deland #Florida at Groovy Records! I got here at 6:30 am… https://t.co/ddPfv9bhqP
+Test_Tweet:	We will be at the Health and Wellness Fair today from 10-5 at the White Oaks Resort!
+$5 Entry… https://t.co/dw2RVhWsPf
+Test_Tweet:	This #Physician #job might be a great fit for you: Physician (Infectious... - https://t.co/sbSiW6q8YC #Jackson, MS https://t.co/dJYY7kDgso
+Test_Tweet:	Join the The Vitamin Shoppe team! See our latest #HealthWelfare #job opening here: https://t.co/vha4BhQ7wy #Watchung, NJ #Hiring
+Test_Tweet:	I'm at Motor city crossfit in Sterling Heights, MI https://t.co/HkSBU9tu4s
+Test_Tweet:	https://t.co/Oq8YholHsT… https://t.co/c5jffKl0fp
+Test_Tweet:	Want to work in #Utica, NY? View our latest opening: https://t.co/VKyT6L97Nq #Automotive #WMNationalCareerDay #Job https://t.co/MOl776dDRr
+Test_Tweet:	Guess what kid just had an early morning 10K without a seizure?!? This kid! And a PR for me 😊🏅… https://t.co/c7lZkggQ2l
+Test_Tweet:	#goodmorning #workout #sauna 
+#Illini #wewillwin #springball 🔶🏈💙 @ The Fitness Center https://t.co/dMOcqmNj5A
+Test_Tweet:	I'm back !! (@ Philadelphia International Airport (PHL) - @phlairport in Philadelphia, PA) https://t.co/AgRGnJd5XS
+Test_Tweet:	A view with my morning coffee @ Lands Creek Log Cabins https://t.co/ij7cbFnIfD
+Test_Tweet:	Can you recommend anyone for this #Nursing #job? https://t.co/C8XtYX8otN #RN #Nursing #stpaul, MN #Hiring https://t.co/RWktSrFHP3
+Test_Tweet:	Ironic to see at Walt Disney World! ;) #BOGP #runDisney #Disney #WDW #runBOGP #WaltDisneyWorld… https://t.co/ALw66fdYLO
+Test_Tweet:	Keep an eye out for #chefblue on your Channel 11 morning news. #saturdaymorning #cbs @ El Burro… https://t.co/Hyr2reX1Oy
+Test_Tweet:	Are you ready to get in the ball join us tonight at Space Coast Stadium when the Manatees host… https://t.co/x625JBYFZO
+Test_Tweet:	$20 #LocRemoval ✂.........$10 w/A Styled #HairCut
+773.658.4735
+
+#illustriouscuts #CHICAGO… https://t.co/vJ17ZKvySX
+Test_Tweet:	Molls and the birds! @ Newport Pier https://t.co/v1xOUStmzK
+Test_Tweet:	Winn Dixie #Retail #Job: Bagger (#TUSCALOOSA, AL) https://t.co/zNh1wPgWxZ #Jobs #Hiring
+Test_Tweet:	How to Use Your Diaphragm for #Breathing during #Exercise or #Rest https://t.co/PywgS1i5WX
+Test_Tweet:	@sidewalkangels He is my absolute favorite singer i'm so sorry. much love to you!
+Test_Tweet:	Getting ready for this Beauty Trend Show! (at @Nordstrom Old Orchard Center in Skokie, IL) https://t.co/Ib2tWh1Rfd
+Test_Tweet:	59 Morton Street, Manhattan https://t.co/Qf36w3x1GA
+Test_Tweet:	All I was thinking 🤔ever 6:30 morning should start like this!!! 👍🏿😎… https://t.co/awWxcbjl5l
+Test_Tweet:	Best friends are like stars. You don't always see them but you know they're always… https://t.co/0Du6wcxlYi
+Test_Tweet:	речные камешки https://t.co/lrRwlNZG4x
+Test_Tweet:	Join the BAYADA Home Health Care team! See our latest #job opening here: https://t.co/s5iEeq0ff1 #Stokesdale, NC #Hiring
+Test_Tweet:	Can you recommend anyone for this #job? Production Manager 52059 - https://t.co/cMYKFuGSg8 #Creston, IA #Hiring https://t.co/7VnMCrdORL
+Test_Tweet:	#Philadelphia, PA #Job: Registered Nurse / RN at BAYADA Home Health Care https://t.co/xd15UbtnhN #Jobs #Hiring
+Test_Tweet:	Can you recommend anyone for this #job? Beauty Consultant–CA–Beverly Hills–(9045 Wilshire Boulevard) - https://t.co/V1JhqmA8Mg #Retail
+Test_Tweet:	De volta aos meus aposentos em kel palácio  👸🏻🇬🇧 @ Buckingham Palace, London https://t.co/PCv7m2lp9y
+Test_Tweet:	I don't usually win awards, but when I do it's a BIG one .. Vaughan Business Achievment Award (… https://t.co/NVfMfFzC6b
+Test_Tweet:	https://t.co/TFmGrKA6cR I wanted some donuts so I got the best . They taste so good the… https://t.co/jv4OnmgkVZ
+Test_Tweet:	@bacardilegacy here we go! #bacardilegacy (@ Newark Liberty International Airport (EWR) in Newark, NJ) https://t.co/aQ5bg5wyaB
+Test_Tweet:	Mad and Tay @ Newport Pier https://t.co/Vz3XeffK1m
+Test_Tweet:	Guess I was an early registrant. @ Watkins Glen International https://t.co/M0hBNfijdG
+Test_Tweet:	👯👯👯👯 (@ Universidad La Salle in Cuauhtémoc, DF) https://t.co/hkKIlzdPtW
+Test_Tweet:	This #Marketing #job might be a great fit for you: AVP, In-Plan Advice - https://t.co/y7mgxZBI1c #Boston, MA #Hiring
+Test_Tweet:	Pues el video no está nada chido, pero el momento estuvo genial!… https://t.co/rQSXsTTN2d
+Test_Tweet:	#wdw #waltdisneyworld #waltogram #disneyworld #disneyphotos #disneyparks #disneygram #disney… https://t.co/Nh6KwWV9Z7
+Test_Tweet:	This @dexclothing skirt #spring2016 #shoplocal #lolanewyork #SALE #saturday #musthave #fashion… https://t.co/QDVvMIEH84
+Test_Tweet:	Rather be drinking in woodside but working (@ Woodside, NY in Woodside, NY) https://t.co/iaR0j8mO32
+Test_Tweet:	A very very well deserved glittery sign @g_eazy #coachella @ Coachella https://t.co/tW502W0uHY
+Test_Tweet:	Good morning. Dumbo's cobbled streets are perfect for a Roubaix-esque test ride. @ Redbeard Bikes https://t.co/guiuNluXZT
+Test_Tweet:	Door opens at 8am - full line-up by 9ish @ Tasso Baking Company https://t.co/5DWZPOIhcN
+Test_Tweet:	Can you recommend anyone for this #job? RN ICU ER Registered Nurse - https://t.co/fV0T258yer #Yonkers, NY #Hiring https://t.co/VPdWMUiqw1
+Test_Tweet:	the bitch is back bitches! To México City! (@ Terminal De Autobuses in San Miguel de Allende, GTO) https://t.co/k9Tz5OOqZ8
+Test_Tweet:	AIDS N : Citizen rakes in national awards https://t.co/ePNS0ti4cR
+Test_Tweet:	Steve Aoki in New York City!😍😍😍 #tribecafilmfestival2016 #nycinvasion #bestdjever #epicnight @… https://t.co/dar54mUetR
+Test_Tweet:	Wisdom and good judgement are amazing blessings. #god #glorify #jesus #christ #salvation… https://t.co/oFm0PsKhvP
+Test_Tweet:	Back to work @derinfalana @ New York, New York https://t.co/vIx4h6FbjF
+Test_Tweet:	#TakeMeBack @ Washington, District of Columbia https://t.co/luXeolgqIy
+Test_Tweet:	Good morning!!!! Have a great day! Be a Blessing to someone today!… https://t.co/gpwQuPEbdg
+Test_Tweet:	Can you recommend anyone for this #QA #job? https://t.co/vIQnUpmwgu #Farmington, MI #Hiring https://t.co/h806WKXdXO
+Test_Tweet:	#Nursing alert: Nurse... | Department of Veterans Affairs | #NewOrleans, LA https://t.co/oMsUIXZllo #Veterans https://t.co/BaCTR12dsk
+Test_Tweet:	I'm at Aeropuerto Internacional de Monterrey (MTY) - @aeropuertodemty in Apodaca, NL https://t.co/NEfaL9DyQ7
+Test_Tweet:	If you're a #Engineering professional in #Austin, TX, check out this #job: https://t.co/i0j0oCkSM5 #Hiring https://t.co/vvpJACpm3B
+Test_Tweet:	I'l Be at Bae's Birthday Celebration Tonight . @a1yissa Hit me If… https://t.co/Te5XDtRxTj
+Test_Tweet:	I'm at Choctaw Travel Plaza in Grant, OK https://t.co/BAZURS4zAp
+Test_Tweet:	This #Retail #job might be a great fit for you: Cashier Associate - https://t.co/uN7vm91ftk #LAKEMARY, FL #Hiring
+Test_Tweet:	Another view of the ride home! @ Newport Dog Beach https://t.co/KJr67SWZFi
+Test_Tweet:	@lamontbrownfg has no clue what he is doing @ Jetty Dock Bar https://t.co/L60nEbCHot
+Test_Tweet:	La foto está descentrada, la luz tiene un naranja rayos V que madre madre. Pero estoy con ella y… https://t.co/GL8fTWoA4c
+Test_Tweet:	See our latest #Woodland, CA #job and click to apply: Pharmacy Technician – Target Store - https://t.co/d4A3iqoGO3 #Healthcare #Hiring
+Test_Tweet:	View from the #frontseat #gettingreadyfortheweekend #mobilebanking #photographyeveryday… https://t.co/rWiizhzYeU
+Test_Tweet:	Blessed are those who see beautiful things in humble places 💚 #JoannaInNYC… https://t.co/UDbfKDD4kv
+Test_Tweet:	Hair By Liliana Chorney #Cut #Style #Stylist @stephenknollny @ Stephen Knoll New York https://t.co/uA9y7j2PNE
+Test_Tweet:	#iphone6 #iphone #vendoiphone6s #vendoiphone6 #vendoiphone @ New York, New York https://t.co/vmbD09kFTI
+Test_Tweet:	productive day in the studio yesterday starting new work #walkerartcenter #britishmuseumlondon… https://t.co/QzzZ1FD5qh
+Test_Tweet:	Want to work in #WestSacramento, CA? View our latest opening: https://t.co/Vh0XZu6qVj #Transportation #Job #Jobs https://t.co/rxrIpyomkF
+Test_Tweet:	See our latest #Brookline, MA #job and click to apply: Registered Nurse | RN | GERI... - https://t.co/LIdfop69qX https://t.co/8DOdvoTeEV
+Test_Tweet:	Can you recommend anyone for this #job? Route Service Sales Representative - Facility... - https://t.co/Hqrs2lKrQp https://t.co/PwMZzlmQ7Q
+Test_Tweet:	Good morning from New York City! The sun is shining, the sky is blue and the city is just… https://t.co/RNDbUSv5g8
+Test_Tweet:	Doin' what I do! (@ ABI Therapy Gym in Atlanta, GA) https://t.co/sDGUSTBLD5
+Test_Tweet:	#sunrise #sun #sunny #Saturday #canon #toronto #torontolife #topphoto #torontoigers… https://t.co/4Rqc2t9tLH
+Test_Tweet:	‼️Nous cherchons 
+2 nouveaux Coachs 😀😎afin d'aider les personnes à saisir une opportunité… https://t.co/lzNmE9kvxi
+Test_Tweet:	107/366 || Every time you leave to go back to AZ it never gets easier. I love you. See you in a… https://t.co/iDmOmXzRdk
+Test_Tweet:	FiT for a KING......... L👀K  WHAT'S  COMING  SOON  AT THE #CTBARBEREXPO April 17th… https://t.co/l76kd3fNWp
+Test_Tweet:	Early morning trip for some hardcore hardware @ The Home Depot https://t.co/J3ISbRYxYx
+Test_Tweet:	Keep going, keep #dreaming, keep reaching for your #goals. #liveoutloud #youcandoit #exercise… https://t.co/eiLeRXEszA
+Test_Tweet:	Just posted a photo @ St Peter's World Outreach Center https://t.co/dVGZmgYfDN
+Test_Tweet:	Planning a #Cruise? Must read:Healthy Cruising @officialmbn https://t.co/2u62ysEASg .@vacation
+Test_Tweet:	Bom dia Brasil com Lcd Sound System tocando David Bowie no primeiro dia do Coachella. #heroes… https://t.co/3GztclNNbj
+Test_Tweet:	Another great customer photo!! 
+
+Thanks so much!!
+
+To get yours, go to https://t.co/gUAcEIVYCw… https://t.co/oWYTG43mWr
+Test_Tweet:	Try https://t.co/KHo8bfiqQ1 Our new The Original Italian Pie 2GO model has the same authentic #Italian #menu
+Test_Tweet:	See our latest #Baraboo, WI #job and click to apply: Quality Manager - https://t.co/hTYWXZdt8p #QA #Hiring https://t.co/DmcNIMQaYI
+Test_Tweet:	This #Hospitality #job might be a great fit for you: Cook - https://t.co/q4TxPJxaT6 #Memphis, TN #Hiring
+Test_Tweet:	Went out shootin'. That sound like some 4301 shit #salsTHON #dance @ Salesianum School https://t.co/CE7VU1tIGb
+Test_Tweet:	#beautiful #sunrise_sunsets_aroundworld #earlybirdlovers #lowcountryliving #lowcountry #sky… https://t.co/OSQEv3qh1m
+Test_Tweet:	#cancún #morning #sunrise #mexico #weather #quintanaroo #paradise #travel #saturday #goodvibes @… https://t.co/m693HG6Hx5
+Test_Tweet:	Gran noche recordando una gran pieza! Afortunado de tener más que clientes, amigos! Gracias… https://t.co/XAH7jzcFW9
+Test_Tweet:	I'm at Animal Kingdom Lodge Parking Lot in Lake Buena Vista, FL https://t.co/qLAOQaHyr9
+Test_Tweet:	Record Store Day 2016 #rsd2016 @ Wild Honey Records https://t.co/camcmQNvxJ
+Test_Tweet:	Beautiful double rainbow over the bakery this morning as we head in to get ready for the market!… https://t.co/bL0wjdaLse
+Test_Tweet:	#Phoenix, AZ #Nursing #Job: RN - PROGRESSIVE TELEMETRY JCLMC LOCATION OCL at HonorHealth https://t.co/E2gMNY5pIZ https://t.co/76WRzsaNKY
+Test_Tweet:	We are looking for a buyer on 4 Bow Center #Bow #NH https://t.co/Y6SHckfIL3 #realestate https://t.co/BlxmBe8ftJ
+Test_Tweet:	| #TechDay at @udmdetroit | #detroitmercy #stem #education  | Fr, 4/15/2016 @ University of… https://t.co/zeukGew2te
+Test_Tweet:	Breakfast before warmups... (@ Chick-fil-A in Hendersonville, NC) https://t.co/YxQQV5Cgco
+Test_Tweet:	Happy Record Store Day! Get your butts to @radioactiverecs @sweatrecords . It's your last chance… https://t.co/hYn5dUF773
+Test_Tweet:	Not to sure about those doggies in the window. #pugs #morningwalk @ Historic Savannah https://t.co/8RvDGwGflH
+Test_Tweet:	I'm at Jambo House - Disney's Animal Kingdom Lodge - @waltdisneyworld in Lake Buena Vista, FL https://t.co/H2a2KDljnr
+Test_Tweet:	Good Morning . ☺  Work Is Where I'm Headed Off To . 
+
+#DT @ Tower City Center https://t.co/ER973aZ0SO
+Test_Tweet:	Incident on #I87NYSThruway NB at Exit 21 (I-87) - Catskill (Rte 23) https://t.co/dDAv6GK0t2
+Test_Tweet:	Dollar General Corporation #Retail #Job: Store Manager Candidate (IN) https://t.co/PUnqdBg11I #Diversity #Veterans https://t.co/3166reGT1Y
+Test_Tweet:	•
+'
+'
+في غيابكك ساعتي ترجع وراء 
+تستعيد شعور ليتهه ماحضر 🔐💭
+#LA🇺🇸 
+#santamonica @ Steak 'n Shake https://t.co/8HOpVeBOjr
+Test_Tweet:	See our latest #Union, NJ #job and click to apply: HHA - Home Health Aide - https://t.co/wr8doFKANM #Hiring
+Test_Tweet:	#Engineering #Job alert: Intern - Renewables | NRECA | #Arlington, VA https://t.co/jLBl3vIb5X #internship #nonprofit #career #Jobs #Hiring
+Test_Tweet:	Join the Compass Group USA team! See our latest #Labor #job opening here: https://t.co/rATwps0nlI #jobhunt #Chicago, IL #Hiring
+Test_Tweet:	@Monkey_Bunny #monkeybunnyinc @ Skyway Theatre https://t.co/fP35jiOxFA
+Test_Tweet:	#calm #before the #storm #bobzangrillo #party #coachella2016 #coachella #losangeles #LA… https://t.co/cDfGh3I8Mr
+Test_Tweet:	I'm at Disney's Animal Kingdom Lodge - @waltdisneyworld in Lake Buena Vista, FL https://t.co/aRX0Yl3cfj
+Test_Tweet:	Beautiful view!! And the ocean scene isn't bad either!! ❤️🙏🏼 @… https://t.co/el06vD8NID
+Test_Tweet:	Un terremoto de 6,7 grados sacude el norte de Japón @ Caribbean Isle Apartments https://t.co/GykRcSqScr
+Test_Tweet:	Body butter!! (@ Loizeaux Laboratories in MD) https://t.co/xJY54mM0Co
+Test_Tweet:	Time to head home from Atlanta after a GREAT trip preparing for the… https://t.co/0FPRwnlPCC
+Test_Tweet:	I'm at Chicago Midway International Airport (MDW) in Chicago, IL https://t.co/cYGcUhdd4F
+Test_Tweet:	Buen fin de semana!!! 
+Capturas de mi show Miami Muscle Beach PRO... a seguir mejorando!!! 💪👊💯✔… https://t.co/o3DmJ7nd6g
+Test_Tweet:	📌4am 2nd studio session #latenightearlymorns #nevernotworking @ The 105 Freeway https://t.co/cmk0CrMUdH
+Test_Tweet:	Bronx New York 👍🏿👍🏿👍🏿👍🏿 @ Crenshaw &amp; Rodeo https://t.co/F6a0m3wxWG
+Test_Tweet:	Good morning, Chicago! :) #Sunrise 06:08, noon 12:50, sunset 19:33 CDT (UTC-5), April 16. Day length: 13h 26m.
+Test_Tweet:	We're #hiring! Read about our latest #job opening here: Pharmacy Technician - https://t.co/6kxh8Xo1ei #NewPortRichey, FL #Healthcare
+Test_Tweet:	We're #hiring! Click to apply: Store Manager - https://t.co/1ETWFEpgil #Retail #Menifee, CA #Job #Jobs
+Test_Tweet:	"You bet giraffe" we have a fantastic store! 😄 #mainstreetmilton #treasurehunting… https://t.co/ss8WJQqkBE
+
+
+
